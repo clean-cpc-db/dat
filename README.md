@@ -1,2 +1,2 @@
 # dat
-clean-cpc dat files
+clean-cpc-db dat files
