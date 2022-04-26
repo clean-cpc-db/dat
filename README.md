@@ -6,8 +6,6 @@ clean-cpc-db dat files
 Missing
 ·Sets                 0/2347
 ·ROMs                 0/2594
-·CHDs                 -/0
-·Samples              -/0
 ·Bytes                0/472mb
 
 ---------------------------------------
