@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Amstrad - CPC - clean-cpc-db"
 	description "Amstrad - CPC - clean-cpc-db"
-	version "beta 1 - 2022.4.26"
+	version "Beta 2 - 2022.4.26"
 	homepage "https://github.com/clean-cpc-db/dat"
 )
 game (
@@ -107,7 +107,6 @@ game (
 game (
 	name "10th Frame (US Gold)"
 	description "10th Frame (US Gold)"
-	rom ( name "10th Frame (1986)(US Gold)(Erbe).dsk" size 195381 crc 575C6A7B md5 5D6E4E0F78CD372A216D42515F7348CE sha1 BE953F00EEADB3A76459747E353EFF02A54D7615 )
 	rom ( name "10th Frame (1986)(US Gold).dsk" size 195379 crc 1E1411BE md5 61E4F170E7FB68B6B1EDDE8CD9165605 sha1 657B0C3352F3E543557346B3659A2F5FC0D07CB3 )
 )
 game (
@@ -163,8 +162,8 @@ game (
 game (
 	name "007 - The Spy Who Loved Me (Domark)"
 	description "007 - The Spy Who Loved Me (Domark)"
-	rom ( name "007 - The Spy Who Loved Me (1990)(Domark)[Face B][64K].dsk" size 194816 crc 777ACC7F md5 4E76D225124E7196686327CE8743C1BC sha1 F412292ADFA794488D885B2F993EB5443757478D )
-	rom ( name "007 - The Spy Who Loved Me (1990)(Domark)[Face A][128K].dsk" size 194816 crc 81DF2EE2 md5 53DD42BA3A70E7676C4EA3AD09CF4589 sha1 88B7F4081E9E78D2587DA92BF6352B19B6A331F2 )
+	rom ( name "007 - The Spy Who Loved Me (1990)(Domark)(Side B)[64K].dsk" size 194816 crc 777ACC7F md5 4E76D225124E7196686327CE8743C1BC sha1 F412292ADFA794488D885B2F993EB5443757478D )
+	rom ( name "007 - The Spy Who Loved Me (1990)(Domark)(Side A)[128K].dsk" size 194816 crc 81DF2EE2 md5 53DD42BA3A70E7676C4EA3AD09CF4589 sha1 88B7F4081E9E78D2587DA92BF6352B19B6A331F2 )
 )
 game (
 	name "007 - The Living Daylights (Domark)"
@@ -195,7 +194,6 @@ game (
 	name "1942 (Elite Systems)"
 	description "1942 (Elite Systems)"
 	rom ( name "1942 (1986)(Elite Systems).dsk" size 204544 crc AB928E90 md5 61DE9A44ACBE27BB33511BE304638D16 sha1 09EF5DBD647AB023FEFDB8B691792B35071806FA )
-	rom ( name "1942 (1986)(Elite Systems)[v2].dsk" size 195635 crc 632C26CD md5 3F0A97710CF6A28CDEC027857E33741D sha1 C6AEC5BF6B22E71AF59B6A870BBC40A40EAE4157 )
 )
 game (
 	name "1914 (Amstrad User)"
@@ -212,11 +210,6 @@ game (
 	name "007 - A View To A Kill (Domark)"
 	description "007 - A View To A Kill (Domark)"
 	rom ( name "007 - A View To A Kill (1985)(Domark).dsk" size 194816 crc D5369BD2 md5 FF95F4D9E705E73F07ACB4722485C05C sha1 0D0080D28F2D1B7C19D608C2C8EC5D5A3AC58E79 )
-)
-game (
-	name "Abbey Of Crime, The (Opera Soft)"
-	description "Abbey Of Crime, The (Opera Soft)"
-	rom ( name "Abbey Of Crime, The (1988)(Opera Soft)[h].dsk" size 162025 crc BF188CE3 md5 A1AC2E44274D896F79FA5F64E43B922C sha1 926C351E766DC382CF00BB572D13031664BEA2A0 )
 )
 game (
 	name "Adventure D - Espionage Island (Artic Computing)"
@@ -238,11 +231,6 @@ game (
 	description "Arachnophobia (Titus) (M5)"
 	rom ( name "Arachnophobia (1991)(Titus)(M5)(Side B).dsk" size 195637 crc D207F993 md5 F75DF025F4F131F7627FB6077C207FDD sha1 11EFE435A028E4A42BE72FC28A9F109D05CB4858 )
 	rom ( name "Arachnophobia (1991)(Titus)(M5)(Side A).dsk" size 195635 crc 1F368D7B md5 DED65FD05888D8FE2E88DA897E41BDCD sha1 57A136F70B7D0066EE125E7676CFB191011F55D7 )
-)
-game (
-	name "Anna (Edsa) (Spain)"
-	description "Anna (Edsa) (Spain)"
-	rom ( name "Anna (2019)(Edsa)(es)[cr][h].dsk" size 204544 crc FC4837A4 md5 ACC83D0166C5381767DBEBBD077C58FF sha1 FA56287110B4BA846552A295CDBD26999B6A50A8 )
 )
 game (
 	name "American Turbo King (1990)"
@@ -302,8 +290,7 @@ game (
 game (
 	name "Afterburner (Activision)"
 	description "Afterburner (Activision)"
-	rom ( name "Afterburner (1988)(Activision)(Retail).dsk" size 197632 crc 74458DD9 md5 28938324D476AD150E17A837A2AEB243 sha1 D4444031DDE08590BB6329DE35125A2D56399DA0 )
-	rom ( name "Afterburner (1988)(Activision).dsk" size 189573 crc 51894F4B md5 AC756937A2CC17DCF138CD59C0431823 sha1 930877DAB2728D7E6FFC7A7A7DF1C203B37F2BCF )
+	rom ( name "Afterburner (1988)(Activision).dsk" size 197632 crc 74458DD9 md5 28938324D476AD150E17A837A2AEB243 sha1 D4444031DDE08590BB6329DE35125A2D56399DA0 )
 )
 game (
 	name "Autre Aventure, L' (Genisoft) (France)"
@@ -314,7 +301,6 @@ game (
 	name "America's Cup Challenge (Armchair Entertainment)"
 	description "America's Cup Challenge (Armchair Entertainment)"
 	rom ( name "America's Cup Challenge (1986)(Armchair Entertainment).dsk" size 194560 crc 28B56166 md5 918BF5D169CDBB82AE26A52691663A9E sha1 56F74A640464465417C6863863534F47174DAC90 )
-	rom ( name "America's Cup Challenge (1986)(Armchair Entertainment)[v2].dsk" size 195379 crc 6D8A9353 md5 D41F5881545F7360BA57B9E770CB9BC3 sha1 7D58DC5FAE0B9DB6A09B1E494E03268FC08ADCAA )
 )
 game (
 	name "Animated Strip Poker (Knight Soft)"
@@ -359,8 +345,8 @@ game (
 game (
 	name "Alien Storm (US Gold)"
 	description "Alien Storm (US Gold)"
-	rom ( name "Alien Storm (1991)(US Gold)(Side B)[v2].dsk" size 256256 crc 5DBBEE95 md5 4EEA948F0F6F73F1528A614CE12F9C59 sha1 1D72DE01D36764370A691CC039AF8B3EE06AF548 )
-	rom ( name "Alien Storm (1991)(US Gold)(Side A)[v2].dsk" size 255232 crc 92E55932 md5 874149B56A2F3140785D998B6ED6C21E sha1 AAFA6C4024BFB7CB9CB74EFD994049861D4C9ED9 )
+	rom ( name "Alien Storm (1991)(US Gold)(v2)(Side A).dsk" size 255232 crc 92E55932 md5 874149B56A2F3140785D998B6ED6C21E sha1 AAFA6C4024BFB7CB9CB74EFD994049861D4C9ED9 )
+	rom ( name "Alien Storm (1991)(US Gold)(v2)(Side B).dsk" size 256256 crc 5DBBEE95 md5 4EEA948F0F6F73F1528A614CE12F9C59 sha1 1D72DE01D36764370A691CC039AF8B3EE06AF548 )
 )
 game (
 	name "Archon (Electronic Arts)"
@@ -546,8 +532,7 @@ game (
 game (
 	name "Adidas Championship Tie-Break (Ocean)"
 	description "Adidas Championship Tie-Break (Ocean)"
-	rom ( name "Adidas Championship Tie-Break (1990)(Ocean)(Erbe).dsk" size 78467 crc CB97A9E0 md5 FB52D778848EB3906A89DB676E91C1A7 sha1 B0477D222F469FBAF5BC3121D87ACF9BD4FA0A84 )
-	rom ( name "Adidas Championship Tie-Break (1990)(Ocean).dsk" size 116189 crc 78C0DB87 md5 BB6496B7614FAE034F3A3F8EF52255D0 sha1 EA3F1B70429214F7F5244788DACFA3E8B9F67245 )
+	rom ( name "Adidas Championship Tie-Break (1990)(Ocean).dsk" size 78467 crc CB97A9E0 md5 FB52D778848EB3906A89DB676E91C1A7 sha1 B0477D222F469FBAF5BC3121D87ACF9BD4FA0A84 )
 )
 game (
 	name "Affaire Santa Fe, L' (Infogrames) (France)"
@@ -563,7 +548,7 @@ game (
 game (
 	name "Asphalt (Ubisoft) (France)"
 	description "Asphalt (Ubisoft) (France)"
-	rom ( name "Asphalt (1987)(Ubisoft)(fr)[v2].dsk" size 167205 crc C963BFE0 md5 DA5843E17A8D1E258225D332B3DCB936 sha1 775070A281BD06B52FF0236386945D9A9F48AFDD )
+	rom ( name "Asphalt (1987)(Ubisoft)(fr)(v2).dsk" size 167205 crc C963BFE0 md5 DA5843E17A8D1E258225D332B3DCB936 sha1 775070A281BD06B52FF0236386945D9A9F48AFDD )
 )
 game (
 	name "Animal Vegetable Mineral (Amsoft) (Spain)"
@@ -595,6 +580,11 @@ game (
 	name "Animal Vegetable Mineral (Amsoft)"
 	description "Animal Vegetable Mineral (Amsoft)"
 	rom ( name "Animal Vegetable Mineral (1984)(Amsoft).dsk" size 195635 crc 2AC1E169 md5 5A4A60D86CF7FD02E59A547A5795D381 sha1 4D647163841FAF250C9FEA704D1D26A55CDB2C87 )
+)
+game (
+	name "Anna (Edsa) (Spain) (Hack)"
+	description "Anna (Edsa) (Spain) (Hack)"
+	rom ( name "Anna (2019)(Edsa)(es)(Hack)[cr].dsk" size 204544 crc FC4837A4 md5 ACC83D0166C5381767DBEBBD077C58FF sha1 FA56287110B4BA846552A295CDBD26999B6A50A8 )
 )
 game (
 	name "Affaire Ravenhood, L' (Bruno Fonters) (France)"
@@ -686,6 +676,11 @@ game (
 	rom ( name "Air Cobra (1987)(Unicornia Soft)(es)[cr].dsk" size 194816 crc AA08DAFD md5 8540DFFE776E6989A09E5E5787406B1B sha1 93407A60F1103B877D96F4A816E50367318100AC )
 )
 game (
+	name "Aventura Original, La (Aventuras AD) (Spain) (Retro Alacant Turbo)"
+	description "Aventura Original, La (Aventuras AD) (Spain) (Retro Alacant Turbo)"
+	rom ( name "Aventura Original, La (1989)(Aventuras AD)(Retro Alacant Turbo)(es).dsk" size 205399 crc 64592815 md5 3BCF8ADF970FB7CB52E7969AA12F87FC sha1 4EE559FF158B3E58F8FD0706830546297958ED5E )
+)
+game (
 	name "Airwolf (Elite Systems - Amsoft)"
 	description "Airwolf (Elite Systems - Amsoft)"
 	rom ( name "Airwolf (1985)(Elite Systems - Amsoft).dsk" size 78467 crc C809DAF9 md5 EB3D9F7B325EE6B11335D618CE651A95 sha1 0F4E3AFA1CFBE6CE3BC26A66C37AAFD4477F2A46 )
@@ -735,8 +730,18 @@ game (
 game (
 	name "Ace of Aces (US Gold)"
 	description "Ace of Aces (US Gold)"
-	rom ( name "Ace of Aces (1986)(US Gold)(Erbe).dsk" size 195381 crc 3FF9F75C md5 B9CBD2CCAF797AF1546B040DF0E66D6F sha1 0B9E3B1DE29176CB43D09480DF78C8C938F5EB39 )
 	rom ( name "Ace of Aces (1986)(US Gold).dsk" size 195379 crc 60C00EEA md5 3AD8DF162F0C1B8FEA16F80BDD0EFD86 sha1 78A86CA2075DF4CA64CABA8F907BA54495D3DC56 )
+)
+game (
+	name "A-Team, The (Zafiro Software Division) (Spain) (LightGun)"
+	description "A-Team, The (Zafiro Software Division) (Spain) (LightGun)"
+	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(LightGun)(Side A).dsk" size 74752 crc 2BE8B9DD md5 A66CF48F4A8EE33FD04C1A15F1E293D1 sha1 3C050347BEE3B95DDD23C75AF85854CCC310C3D7 )
+	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(LightGun)(Side B).dsk" size 93184 crc 47FC2EDC md5 670D9CE83273830FD623C04F92FD8965 sha1 F826D1FC3B9EEEB3D9055924548B747473F61DD8 )
+)
+game (
+	name "Abbey Of Crime, The (Opera Soft) (Hack)"
+	description "Abbey Of Crime, The (Opera Soft) (Hack)"
+	rom ( name "Abbey Of Crime, The (1988)(Opera Soft)(Hack).dsk" size 162025 crc BF188CE3 md5 A1AC2E44274D896F79FA5F64E43B922C sha1 926C351E766DC382CF00BB572D13031664BEA2A0 )
 )
 game (
 	name "Aqua - Viaje a la Superficie (CEZ Games Studio) (Spain)"
@@ -853,14 +858,17 @@ game (
 	name "A-Team, The (Zafiro Software Division) (Spain)"
 	description "A-Team, The (Zafiro Software Division) (Spain)"
 	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(Side B).dsk" size 93184 crc 7BE35474 md5 83431BD2B7533FDF4B00881E27C68912 sha1 A3E41DA3CFC68E0C57B54099347ED95DB73637CD )
-	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(Side B)[lightgun].dsk" size 93184 crc 47FC2EDC md5 670D9CE83273830FD623C04F92FD8965 sha1 F826D1FC3B9EEEB3D9055924548B747473F61DD8 )
 	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(Side A).dsk" size 74752 crc 49389379 md5 E320D2D6C327556A5069A5ADE6B2A2F0 sha1 276757A4CB1B80632A6CBB96AB50F4482EBD763A )
-	rom ( name "A-Team, The (1989)(Zafiro Software Division)(es)(Side A)[lightgun].dsk" size 74752 crc 2BE8B9DD md5 A66CF48F4A8EE33FD04C1A15F1E293D1 sha1 3C050347BEE3B95DDD23C75AF85854CCC310C3D7 )
 )
 game (
 	name "Alien 8 (Ultimate Play The Game)"
 	description "Alien 8 (Ultimate Play The Game)"
 	rom ( name "Alien 8 (1985)(Ultimate Play The Game)[tape].dsk" size 204544 crc 160644E9 md5 7BC8B730E3776E565816E2CFD7B9FC63 sha1 5FE7CD378311705734B5CA25307036678E88C0E4 )
+)
+game (
+	name "Advanced Tactical Fighter (Digital Integration) (Codes)"
+	description "Advanced Tactical Fighter (Digital Integration) (Codes)"
+	rom ( name "Advanced Tactical Fighter (1988)(Digital Integration)[codes].dsk" size 117541 crc 77E75FC5 md5 1AEC1F1D4F34B352E8FE37E676AA836B sha1 1AFE54D15B3B975585E7A564CD596A877A1C0122 )
 )
 game (
 	name "Australian Rules Football (Again Again)"
@@ -912,7 +920,6 @@ game (
 game (
 	name "Aventura Original, La (Aventuras AD) (Spain)"
 	description "Aventura Original, La (Aventuras AD) (Spain)"
-	rom ( name "Aventura Original, La (1989)(Aventuras AD)(Retro Alacant Turbo)(es)[m].dsk" size 205399 crc 64592815 md5 3BCF8ADF970FB7CB52E7969AA12F87FC sha1 4EE559FF158B3E58F8FD0706830546297958ED5E )
 	rom ( name "Aventura Original, La (1989)(Aventuras AD)(es).dsk" size 139855 crc B0C8CC9E md5 F8CB7B69B6805C0C88BC7337D0266654 sha1 EF1E38479B38D676363FD38D79343CB96A866B93 )
 )
 game (
@@ -958,7 +965,6 @@ game (
 game (
 	name "Advanced Tactical Fighter (Digital Integration)"
 	description "Advanced Tactical Fighter (Digital Integration)"
-	rom ( name "Advanced Tactical Fighter (1988)(Digital Integration)[codes].dsk" size 117541 crc 77E75FC5 md5 1AEC1F1D4F34B352E8FE37E676AA836B sha1 1AFE54D15B3B975585E7A564CD596A877A1C0122 )
 	rom ( name "Advanced Tactical Fighter (1988)(Digital Integration)[cr].dsk" size 194816 crc 9DA1DAD9 md5 C211FCBF63794D7B5633B8D83E395F44 sha1 55604E51FDAF6072D42225AB0F5ABC9960010C07 )
 )
 game (
@@ -1172,7 +1178,7 @@ game (
 game (
 	name "Batman The Caped Crusader (Ocean Software)"
 	description "Batman The Caped Crusader (Ocean Software)"
-	rom ( name "Batman The Caped Crusader (1988)(Ocean Software)[v2].dsk" size 169959 crc DC845B6F md5 5B52002648DA3770493F992B77DAFA69 sha1 106AB0F3872213DBDD85B41F0D02BAB6A5E53587 )
+	rom ( name "Batman The Caped Crusader (1988)(Ocean Software)(v2).dsk" size 169959 crc DC845B6F md5 5B52002648DA3770493F992B77DAFA69 sha1 106AB0F3872213DBDD85B41F0D02BAB6A5E53587 )
 )
 game (
 	name "Bataille Pour Midway (PSS) (France)"
@@ -1183,17 +1189,6 @@ game (
 	name "Banda Salvaje, La (Firebird) (Spain)"
 	description "Banda Salvaje, La (Firebird) (Spain)"
 	rom ( name "Banda Salvaje, La (1985)(Firebird)(es)[cr].dsk" size 194816 crc DE4E7B98 md5 0E0774BBA1AEB24F5F91F442049E329B sha1 F549EE087C2B7AA943EF2386636E0E6BFE50A9C4 )
-)
-game (
-	name "Brian Clough's Football Fortunes (CDS Software LTD) (Spain)"
-	description "Brian Clough's Football Fortunes (CDS Software LTD) (Spain)"
-	rom ( name "Brian Clough's Football Fortunes (2020)(CDS Software LTD)(es)(Hack)[cr].dsk" size 204544 crc 20355E4E md5 D4644E5D7B10B3359A4C99F54634D6E9 sha1 7C2213B7B4D033F6DB75E370024EDE4539F64C6A )
-)
-game (
-	name "Battle Command (Ocean Software)"
-	description "Battle Command (Ocean Software)"
-	rom ( name "Battle Command (1991)(Ocean Software)(Side A)[b].dsk" size 125975 crc 8D933A44 md5 6BD53D333D5B6576AD4C6386393599EF sha1 C494540CC61EF923FD04E9A9274B698CD78DD9D6 )
-	rom ( name "Battle Command (1991)(Ocean Software)(Side B)[b].dsk" size 146817 crc 55EBBD9E md5 3FD3DFD1E13285403B4F3F1DA4D99B73 sha1 B9A38D5772D64CD4F3039FBC5ABF105E162A7F17 )
 )
 game (
 	name "Big Screen Hero (Skyslip Computers)"
@@ -1214,6 +1209,11 @@ game (
 	name "Bronx (MCM Software) (Spain)"
 	description "Bronx (MCM Software) (Spain)"
 	rom ( name "Bronx (1989)(MCM Software)(es).dsk" size 175360 crc 2174EC91 md5 44562FFB1A6F66C20B38A8809149E451 sha1 EA35B54BB4CB64EECA3DF0532F631370C99F73F0 )
+)
+game (
+	name "Boulder Dash 6 (Michael Gordon) (Hack)"
+	description "Boulder Dash 6 (Michael Gordon) (Hack)"
+	rom ( name "Boulder Dash 6 (1986)(Michael Gordon)(Hack)[cr].dsk" size 194816 crc 48FCDC1E md5 CA05352EC88E3940245BC15C81C4D232 sha1 4EB863CE95C2CB75F19D2740BF50AE9EAFAE0F47 )
 )
 game (
 	name "Barmelo 3D (Infomedia) (France)"
@@ -1280,7 +1280,6 @@ game (
 	name "Bobsleigh (Digital Integration)"
 	description "Bobsleigh (Digital Integration)"
 	rom ( name "Bobsleigh (1987)(Digital Integration)[cr].dsk" size 194816 crc AC0510D0 md5 7C206A1D9B4DFD6AE08EF21E64EEE3FB sha1 BF3C1588859B432FAA4876444B2AF7662788FFF0 )
-	rom ( name "Bobsleigh (1987)(Digital Integration)[codes].dsk" size 195653 crc 30003AF9 md5 21D675EAA5B5B110263916E51B18B9AA sha1 34A0022356937E3D210B91ABC80BE3B8D5E39BDF )
 )
 game (
 	name "Beverly Hills Cop (Tynesoft)"
@@ -1314,15 +1313,10 @@ game (
 game (
 	name "Black Land (Bollaware) (de)"
 	description "Black Land (Bollaware) (de)"
-	rom ( name "Black Land (1995)(Bollaware)(Disk 2 Side A)(de)[cr].dsk" size 226048 crc B5315D62 md5 6048263A9FC4B3A3386F0B594365A5FC sha1 44FF2152A1CFF9C8B39F28119C933360C0261072 )
-	rom ( name "Black Land (1995)(Bollaware)(Disk 2 Side B)(de)[cr].dsk" size 226048 crc 7F685488 md5 C9BFA956E771B1EBBAF6DC7454239484 sha1 3021B4351DFAE1B7F0D1CBB767DC90B6BB4B76A2 )
-	rom ( name "Black Land (1995)(Bollaware)(Disk 1 Side A)(de)[cr].dsk" size 225024 crc AA5757B5 md5 6F2846FDF51655324CE42A722F8A18A2 sha1 7266AED3014651990C1FE45AB867D3266BEA604C )
-	rom ( name "Black Land (1995)(Bollaware)(Disk 1 Side B)(de)[cr].dsk" size 226048 crc D31B44EE md5 45811172C8A4E8F144C6084C4112860F sha1 CC4273740612752E9510E101BE578DF50162AB80 )
-)
-game (
-	name "Boulder Dash 6 (Michael Gordon)"
-	description "Boulder Dash 6 (Michael Gordon)"
-	rom ( name "Boulder Dash 6 (1986)(Michael Gordon)(Hack)[cr].dsk" size 194816 crc 48FCDC1E md5 CA05352EC88E3940245BC15C81C4D232 sha1 4EB863CE95C2CB75F19D2740BF50AE9EAFAE0F47 )
+	rom ( name "Black Land (1995)(Bollaware)(de)(Disk 2 Side B)[cr].dsk" size 226048 crc 7F685488 md5 C9BFA956E771B1EBBAF6DC7454239484 sha1 3021B4351DFAE1B7F0D1CBB767DC90B6BB4B76A2 )
+	rom ( name "Black Land (1995)(Bollaware)(de)(Disk 1 Side B)[cr].dsk" size 226048 crc D31B44EE md5 45811172C8A4E8F144C6084C4112860F sha1 CC4273740612752E9510E101BE578DF50162AB80 )
+	rom ( name "Black Land (1995)(Bollaware)(de)(Disk 1 Side A)[cr].dsk" size 225024 crc AA5757B5 md5 6F2846FDF51655324CE42A722F8A18A2 sha1 7266AED3014651990C1FE45AB867D3266BEA604C )
+	rom ( name "Black Land (1995)(Bollaware)(de)(Disk 2 Side A)[cr].dsk" size 226048 crc B5315D62 md5 6048263A9FC4B3A3386F0B594365A5FC sha1 44FF2152A1CFF9C8B39F28119C933360C0261072 )
 )
 game (
 	name "Bard's Tale, The (Electronic Arts)"
@@ -1356,6 +1350,11 @@ game (
 	rom ( name "Braxx Bluff (1985)(Amsoft).dsk" size 195635 crc 65EFFC5 md5 DAC6ADC28D7752E9253D26858BC2D0EA sha1 CD1E24828EFBE609432F0C66F008BB2ABCFEFD1D )
 )
 game (
+	name "Barbarian Part III (Des Soft) (France) (Hack)"
+	description "Barbarian Part III (Des Soft) (France) (Hack)"
+	rom ( name "Barbarian Part III (1988)(Des Soft)(fr)(Hack)[cr].dsk" size 204544 crc B0A4F51F md5 EF259AA4B91731D6D1A0C3ADDC4F3FAF sha1 65F9CDDBA20A02029222743347433CB282BB239D )
+)
+game (
 	name "Bobo (Inforgrames) (France)"
 	description "Bobo (Inforgrames) (France)"
 	rom ( name "Bobo (1988)(Inforgrames(fr)(Side B).dsk" size 197632 crc B7045BC1 md5 07DBFFA42E029B7D33B22A5024A2D6A3 sha1 43857787EC264A39A1D8C9F99E1B33143671899B )
@@ -1365,6 +1364,17 @@ game (
 	name "Bingo (Amstrad Magazine Publinfor) (Spain)"
 	description "Bingo (Amstrad Magazine Publinfor) (Spain)"
 	rom ( name "Bingo (1988)(Amstrad Magazine Publinfor)(es)[cr].dsk" size 194816 crc A5E349A1 md5 3815D79B6FB0DC58C1AE3FA3948B9E1B sha1 5358B95453588744A6669EED7586D6DAA404DD7F )
+)
+game (
+	name "Battle Command (Ocean Software) (Bugs)"
+	description "Battle Command (Ocean Software) (Bugs)"
+	rom ( name "Battle Command (1991)(Ocean Software)(Side A)[b].dsk" size 125975 crc 8D933A44 md5 6BD53D333D5B6576AD4C6386393599EF sha1 C494540CC61EF923FD04E9A9274B698CD78DD9D6 )
+	rom ( name "Battle Command (1991)(Ocean Software)(Side B)[b].dsk" size 146817 crc 55EBBD9E md5 3FD3DFD1E13285403B4F3F1DA4D99B73 sha1 B9A38D5772D64CD4F3039FBC5ABF105E162A7F17 )
+)
+game (
+	name "Boulder Dash 2 (Peter Liepa) (Hack)"
+	description "Boulder Dash 2 (Peter Liepa) (Hack)"
+	rom ( name "Boulder Dash 2 (1985)(Peter Liepa)(Hack)[cr].dsk" size 194816 crc FED514E8 md5 7E62885DA5BC1C5B3B17949CD0FEB1C9 sha1 236F992986FE9D577D0261F732E975ADF4AEEC7A )
 )
 game (
 	name "Back to the Future (Activision)"
@@ -1389,7 +1399,6 @@ game (
 game (
 	name "Bionic Commando (US Gold)"
 	description "Bionic Commando (US Gold)"
-	rom ( name "Bionic Commando (1988)(US Gold)(Green).dsk" size 195653 crc C532E616 md5 C5A7F4ABE1EE4DAB521EAA9277E3D3DB sha1 DD7DF4D42986F2D80C3A893838BA7B90FC7095ED )
 	rom ( name "Bionic Commando (1988)(US Gold)(Colour).dsk" size 194816 crc 1F3FA9A4 md5 9CCD13EBEB80C56097CAD3F76FA0E0E4 sha1 439E6C68E0B780FEE5CE1A5D69EA29C9B5BE97D8 )
 )
 game (
@@ -1398,14 +1407,14 @@ game (
 	rom ( name "Batman The Movie (1989)(Ocean Software).dsk" size 206291 crc FEA7E2A7 md5 E2543529154F2F68CD927AD43DCA9EAC sha1 247BFBD0F4C800A00F39373672C68334CF919C65 )
 )
 game (
+	name "Barbarian Part II (Georgessoft) (Hack)"
+	description "Barbarian Part II (Georgessoft) (Hack)"
+	rom ( name "Barbarian Part II (1988)(Georgessoft)(Hack)(v2)[cr].dsk" size 194816 crc 1E366BB6 md5 5070E05C269DE95C1052D804342913B1 sha1 1E0A37332FD16CE3F521FD804D26CD7D262D2EC7 )
+)
+game (
 	name "BMX Simulator (Codemasters)"
 	description "BMX Simulator (Codemasters)"
 	rom ( name "BMX Simulator (1987)(Codemasters)[cr].dsk" size 204544 crc 6CF1612C md5 40636E4F1EC37255EB0F2CADE6DB865F sha1 DBAE45DE0BDE2919A5E7BC507DA44C6BE820F798 )
-)
-game (
-	name "Boulder Dash 2 (Peter Liepa)"
-	description "Boulder Dash 2 (Peter Liepa)"
-	rom ( name "Boulder Dash 2 (1985)(Peter Liepa)(Hack)[cr].dsk" size 194816 crc FED514E8 md5 7E62885DA5BC1C5B3B17949CD0FEB1C9 sha1 236F992986FE9D577D0261F732E975ADF4AEEC7A )
 )
 game (
 	name "Battle For Midway (PSS)"
@@ -1416,12 +1425,6 @@ game (
 	name "Basket Coach (Rym Soft) (Spain)"
 	description "Basket Coach (Rym Soft) (Spain)"
 	rom ( name "Basket Coach (1988)(Rym Soft)(es)[cr].dsk" size 194816 crc ED191009 md5 AF2476468EFCAE9296B3BC1D2112EC20 sha1 483D1414B819511D931AE2BF404E4DCA2E4F355E )
-)
-game (
-	name "Booly (Loriciels) (M2)"
-	description "Booly (Loriciels) (M2)"
-	rom ( name "Booly (1991)(Loriciels)(M2)(Side A)[codes].dsk" size 199783 crc 5C140A84 md5 AC8C4ABB9F9539D9A1A23869EDA228B6 sha1 F03B8260AC55BB1E9D3847ECBB11F177D28CB481 )
-	rom ( name "Booly (1991)(Loriciels)(M2)(Side B).dsk" size 103647 crc EFD1A301 md5 76AAFAAF0C3B731186B87A0399AFF228 sha1 7952D05E896C73E52748BC429A91DD3995CB5EF3 )
 )
 game (
 	name "Blockbusters (Macsen Software)"
@@ -1442,11 +1445,6 @@ game (
 	name "Ballblazer (Activision)"
 	description "Ballblazer (Activision)"
 	rom ( name "Ballblazer (1986)(Activision).dsk" size 81365 crc BC9F72C9 md5 DF40A0526253E0F9234E0C380F814758 sha1 F1D758DEC99F10BAC6ECF90C54B7983DE613F023 )
-)
-game (
-	name "Barbarian Part II (Georgessoft)"
-	description "Barbarian Part II (Georgessoft)"
-	rom ( name "Barbarian Part II (1988)(Georgessoft)(Hack)[cr][v2].dsk" size 194816 crc 1E366BB6 md5 5070E05C269DE95C1052D804342913B1 sha1 1E0A37332FD16CE3F521FD804D26CD7D262D2EC7 )
 )
 game (
 	name "Back to Reality (Mastertronic)"
@@ -1504,6 +1502,11 @@ game (
 	rom ( name "Battle-Spheres (1994)(The Firm)[cr].dsk" size 194816 crc 14017F7D md5 EEC98353272D12127AFF70EDD018150F sha1 396780D812BB37FF16D1BBA4058FFCF31C566F9A )
 )
 game (
+	name "Bubble Bobble 2 (Saturn-Soft) (Hack)"
+	description "Bubble Bobble 2 (Saturn-Soft) (Hack)"
+	rom ( name "Bubble Bobble 2 (1988)(Saturn-Soft)(Hack)[cr].dsk" size 194816 crc DC214555 md5 F6C4F54D9DBDC957CA7F24B69D8CF7C4 sha1 D390AB65C7D50DBF74FE4F9111662174627D5292 )
+)
+game (
 	name "Bomb Scare (Firebird)"
 	description "Bomb Scare (Firebird)"
 	rom ( name "Bomb Scare (1986)(Firebird)[cr].dsk" size 194816 crc 264C68FD md5 14C16D2C2DC8D0DDF768B52E38F6F359 sha1 54D35B2C72685DC76979FF874C05681131B49BE5 )
@@ -1516,12 +1519,18 @@ game (
 game (
 	name "Bloodwych (Image Works)"
 	description "Bloodwych (Image Works)"
-	rom ( name "Bloodwych (1990)(Image Works)[v2].dsk" size 195635 crc FB811D2B md5 626A16F12FFF1FACEE4F5B5BD42A23FA sha1 16B057D47950ED7C2809B702401FFFEBBDE93BF8 )
+	rom ( name "Bloodwych (1990)(Image Works)(v2).dsk" size 195635 crc FB811D2B md5 626A16F12FFF1FACEE4F5B5BD42A23FA sha1 16B057D47950ED7C2809B702401FFFEBBDE93BF8 )
 )
 game (
 	name "Big League Soccer II (Viper)"
 	description "Big League Soccer II (Viper)"
 	rom ( name "Big League Soccer II (1985)(Viper).dsk" size 195635 crc 4A33BFA8 md5 CF87CB2337D9F300FB4EC61373064F89 sha1 1BFF37BE980896AA7624BC2DE05539FAAC9E293C )
+)
+game (
+	name "Booly (Loriciels) (M2) (Codes)"
+	description "Booly (Loriciels) (M2) (Codes)"
+	rom ( name "Booly (1991)(Loriciels)(M2)(Side A)[codes].dsk" size 199783 crc 5C140A84 md5 AC8C4ABB9F9539D9A1A23869EDA228B6 sha1 F03B8260AC55BB1E9D3847ECBB11F177D28CB481 )
+	rom ( name "Booly (1991)(Loriciels)(M2)(Side B)[codes].dsk" size 103647 crc EFD1A301 md5 76AAFAAF0C3B731186B87A0399AFF228 sha1 7952D05E896C73E52748BC429A91DD3995CB5EF3 )
 )
 game (
 	name "BMX Ninja (Alternative Software) (M2)"
@@ -1537,6 +1546,11 @@ game (
 	name "Ball Bearing (Radical Software)"
 	description "Ball Bearing (Radical Software)"
 	rom ( name "Ball Bearing (1993)(Radical Software)[cr].dsk" size 194816 crc 2E58903C md5 0408709C81781F17EAFFE99D67ABB82A sha1 BEA2C5F079AC8D32B665DA2A76C1C1063F130546 )
+)
+game (
+	name "Boulder Dash 2 (Peter Liepa) (France) (Hack)"
+	description "Boulder Dash 2 (Peter Liepa) (France) (Hack)"
+	rom ( name "Boulder Dash 2 (1985)(Peter Liepa)(Hack)(fr)[cr].dsk" size 204544 crc 474A9722 md5 48A60A362F8F26937F4CEA11DAB24F8D sha1 64F017EE3B7030032F4F95825C01DC8AC1A61144 )
 )
 game (
 	name "Balrog (Gac User)"
@@ -1571,7 +1585,7 @@ game (
 game (
 	name "Blood Brothers (Gremlin Graphics Software)"
 	description "Blood Brothers (Gremlin Graphics Software)"
-	rom ( name "Blood Brothers (1988)(Gremlin Graphics Software)[v2].dsk" size 176103 crc F0DD6D74 md5 835F4886E229C3B4C39BAEAB38CB9957 sha1 C96D8AC87137C9DC5E9A41590F5B17E7493204F1 )
+	rom ( name "Blood Brothers (1988)(Gremlin Graphics Software)(v2).dsk" size 176103 crc F0DD6D74 md5 835F4886E229C3B4C39BAEAB38CB9957 sha1 C96D8AC87137C9DC5E9A41590F5B17E7493204F1 )
 )
 game (
 	name "Bacterik Dream (Chip) (France)"
@@ -1587,11 +1601,6 @@ game (
 	name "Barbarian (Melbourne House)"
 	description "Barbarian (Melbourne House)"
 	rom ( name "Barbarian (1988)(Melbourne House)[cr].dsk" size 204544 crc C12D5EDB md5 67499DE45C7C1DAE4BAC2F8B605A7FB6 sha1 C5DFC1B2A00B170DC3C2848EC9BD3FFDFCADB035 )
-)
-game (
-	name "Bubble Bobble 2 (Saturn-Soft)"
-	description "Bubble Bobble 2 (Saturn-Soft)"
-	rom ( name "Bubble Bobble 2 (1988)(Saturn-Soft)(Hack)[cr].dsk" size 194816 crc DC214555 md5 F6C4F54D9DBDC957CA7F24B69D8CF7C4 sha1 D390AB65C7D50DBF74FE4F9111662174627D5292 )
 )
 game (
 	name "Bunny Bricks (Silmarils)"
@@ -1617,7 +1626,7 @@ game (
 game (
 	name "Ball Breaker (CRL Group)"
 	description "Ball Breaker (CRL Group)"
-	rom ( name "Ball Breaker (1987)(CRL Group)[v3].dsk" size 195635 crc 9AC25387 md5 3EABC06E74C1F08C31D2D815F2B089DF sha1 9B0F0A774A633EE10BCFE8674C9CCB04F7B74281 )
+	rom ( name "Ball Breaker (1987)(CRL Group)(v3).dsk" size 195635 crc 9AC25387 md5 3EABC06E74C1F08C31D2D815F2B089DF sha1 9B0F0A774A633EE10BCFE8674C9CCB04F7B74281 )
 )
 game (
 	name "Bestial Warrior (Dinamic Software) (Spain)"
@@ -1650,11 +1659,6 @@ game (
 	rom ( name "Bingo (1988)(Amstrad Magazine Publinfor)(pt)[cr].dsk" size 204544 crc CEE48CC7 md5 EC5B5CC59712AC84C7D20BA97C6C5D35 sha1 1A649FF441810BCB67045A44990411F6B8DE5574 )
 )
 game (
-	name "Boulder Dash 2 (Peter Liepa) (France)"
-	description "Boulder Dash 2 (Peter Liepa) (France)"
-	rom ( name "Boulder Dash 2 (1985)(Peter Liepa)(Hack)(fr)[cr].dsk" size 204544 crc 474A9722 md5 48A60A362F8F26937F4CEA11DAB24F8D sha1 64F017EE3B7030032F4F95825C01DC8AC1A61144 )
-)
-game (
 	name "Boulder Dash (MirrorSoft)"
 	description "Boulder Dash (MirrorSoft)"
 	rom ( name "Boulder Dash (1985)(MirrorSoft).dsk" size 195328 crc 46B5FE2C md5 547040FD9CA90F105E58F02887449E21 sha1 7ACDA3F0B56D39E69E2F7BEEDDF21F3967A7BCA3 )
@@ -1682,7 +1686,7 @@ game (
 game (
 	name "Battlefield Germany (PSS)"
 	description "Battlefield Germany (PSS)"
-	rom ( name "Battlefield Germany (1987)(PSS)[v2].dsk" size 195635 crc E147A91E md5 A1FDC2262197D7968D4B0245AA47BE46 sha1 EC4E82A4B0E21C2A18AF04C983C28F21E55CC102 )
+	rom ( name "Battlefield Germany (1987)(PSS)(v2).dsk" size 195635 crc E147A91E md5 A1FDC2262197D7968D4B0245AA47BE46 sha1 EC4E82A4B0E21C2A18AF04C983C28F21E55CC102 )
 )
 game (
 	name "Big Trouble in Little China (Activision) (France)"
@@ -1697,8 +1701,8 @@ game (
 game (
 	name "Bard's Tale, The (Electronic Arts) (France)"
 	description "Bard's Tale, The (Electronic Arts) (France)"
-	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(Side B)(fr).dsk" size 194816 crc 30A2896F md5 475D9E00200389E2263446432EBB3E4E sha1 C2B119FC82F563719FF421BE6E5679715EC2C0BB )
-	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(Side A)(fr).dsk" size 194816 crc 507323BA md5 F25D15747DBCA3A21571CF0C849BE42E sha1 FA655050F7A7E608565D539B20186A5F917D0EBB )
+	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(fr)(Side A).dsk" size 194816 crc 507323BA md5 F25D15747DBCA3A21571CF0C849BE42E sha1 FA655050F7A7E608565D539B20186A5F917D0EBB )
+	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(fr)(Side B).dsk" size 194816 crc 30A2896F md5 475D9E00200389E2263446432EBB3E4E sha1 C2B119FC82F563719FF421BE6E5679715EC2C0BB )
 )
 game (
 	name "Barbarian (Palace Software)"
@@ -1725,8 +1729,8 @@ game (
 game (
 	name "Bumpy's Arcade Fantasy (Loriciels)"
 	description "Bumpy's Arcade Fantasy (Loriciels)"
-	rom ( name "Bumpy's Arcade Fantasy (1992)(Loriciels)(Side B)(v2).dsk" size 195635 crc C04FBD25 md5 86B667AEF76C76611E75A8CD1E979C8C sha1 A6384A2A164B061918B415C93FB20DE3D96F6E25 )
-	rom ( name "Bumpy's Arcade Fantasy (1992)(Loriciels)(Side A)(v2).dsk" size 201797 crc DDFA0583 md5 A6B80CE9E6399761A5CCA2A4616E05CB sha1 D4C439303ADC1D6CEFA5B661CB706D910161CF21 )
+	rom ( name "Bumpy's Arcade Fantasy (1992)(Loriciels)(v2)(Side A).dsk" size 201797 crc DDFA0583 md5 A6B80CE9E6399761A5CCA2A4616E05CB sha1 D4C439303ADC1D6CEFA5B661CB706D910161CF21 )
+	rom ( name "Bumpy's Arcade Fantasy (1992)(Loriciels)(v2)(Side B).dsk" size 195635 crc C04FBD25 md5 86B667AEF76C76611E75A8CD1E979C8C sha1 A6384A2A164B061918B415C93FB20DE3D96F6E25 )
 )
 game (
 	name "Bob Winner (Loriciels)"
@@ -1737,22 +1741,12 @@ game (
 game (
 	name "Bagne de Nepharia, Le (Loriciels) (France)"
 	description "Bagne de Nepharia, Le (Loriciels) (France)"
-	rom ( name "Bagne de Nepharia, Le (1985)(Loriciels)(fr)[cr][v2].dsk" size 204544 crc 99C3C44 md5 A559E84940097BC03C0EC73BCF2D98D7 sha1 C12C363E8B765F2433B173D73275D659FE6C10CC )
+	rom ( name "Bagne de Nepharia, Le (1985)(Loriciels)(fr)(v2)[cr].dsk" size 204544 crc 99C3C44 md5 A559E84940097BC03C0EC73BCF2D98D7 sha1 C12C363E8B765F2433B173D73275D659FE6C10CC )
 )
 game (
 	name "Buggy II (Chip) (France)"
 	description "Buggy II (Chip) (France)"
 	rom ( name "Buggy II (1986)(Chip)(fr)[cr].dsk" size 194816 crc 365BB6A md5 F8872A37FB55B2CCC288DC866F8670BE sha1 4871CA9F1A011976F664EFEC057B0E694147DF52 )
-)
-game (
-	name "Bullseye (Macsen Software) (France)"
-	description "Bullseye (Macsen Software) (France)"
-	rom ( name "Bullseye  (1985)(Macsen Software)(fr)[cr][LightGun].dsk" size 194816 crc C3283CE5 md5 427E43F1590AF335CED41746D277530A sha1 5E77456B7E6057FEA9565933ACFE1925F52EE30B )
-)
-game (
-	name "Big League Soccer II (Viper) (Spain)"
-	description "Big League Soccer II (Viper) (Spain)"
-	rom ( name "Big League Soccer II (2018)(Viper)(es)(Hack)[cr].dsk" size 194816 crc FAC68415 md5 3F9382F1F9D6E924A0E78636187E268E sha1 853B5B3E96E273D18B0072D2D9565D7F8692A3EA )
 )
 game (
 	name "Boggit, The (CRL Group)"
@@ -1775,9 +1769,19 @@ game (
 	rom ( name "Black Tiger (1989)(US Gold).dsk" size 265413 crc F3422B3D md5 6E72C5AABE3DE71A6923AD18FBBE7093 sha1 97A2D88DFC9BF3C93946874BA7E14CC4844D6A2B )
 )
 game (
+	name "Bobsleigh (Digital Integration) (Codes)"
+	description "Bobsleigh (Digital Integration) (Codes)"
+	rom ( name "Bobsleigh (1987)(Digital Integration)[codes].dsk" size 195653 crc 30003AF9 md5 21D675EAA5B5B110263916E51B18B9AA sha1 34A0022356937E3D210B91ABC80BE3B8D5E39BDF )
+)
+game (
 	name "Beach-Head II - The Dictator Strikes Back! (US Gold)"
 	description "Beach-Head II - The Dictator Strikes Back! (US Gold)"
 	rom ( name "Beach-Head II - The Dictator Strikes Back! (1986)(US Gold).dsk" size 195381 crc 35FBB25E md5 15A9B8D7F6FB83D8699661D325069E68 sha1 069B8F9C2D254951B2A6F46334DAF4B110DC7D3A )
+)
+game (
+	name "Brian Clough's Football Fortunes (CDS Software LTD) (Spain) (Hack)"
+	description "Brian Clough's Football Fortunes (CDS Software LTD) (Spain) (Hack)"
+	rom ( name "Brian Clough's Football Fortunes (2020)(CDS Software LTD)(es)(Hack)[cr].dsk" size 204544 crc 20355E4E md5 D4644E5D7B10B3359A4C99F54634D6E9 sha1 7C2213B7B4D033F6DB75E370024EDE4539F64C6A )
 )
 game (
 	name "Baca (Drazen)"
@@ -1833,6 +1837,11 @@ game (
 	rom ( name "B.A.T. (1991)(Ubi Soft)(Disk 2 Side A).dsk" size 195635 crc B5AEE4F6 md5 1A6A75FF2F634BA370FDA120FE65444C sha1 CF0336257C49C6270E8B1EB523E7ECA43347F13C )
 )
 game (
+	name "Bionic Commando (US Gold) (Green)"
+	description "Bionic Commando (US Gold) (Green)"
+	rom ( name "Bionic Commando (1988)(US Gold)(Green).dsk" size 195653 crc C532E616 md5 C5A7F4ABE1EE4DAB521EAA9277E3D3DB sha1 DD7DF4D42986F2D80C3A893838BA7B90FC7095ED )
+)
+game (
 	name "Brick, The (Delta Software) (Spain)"
 	description "Brick, The (Delta Software) (Spain)"
 	rom ( name "Brick, The (1989)(Delta Software)(es).dsk" size 194816 crc 2724FE4B md5 9657DC9499578A2F21C85032062DCCA7 sha1 4B64EDD7FCE4B7CDA6755CF5556FF5FB0D091E1A )
@@ -1843,9 +1852,9 @@ game (
 	rom ( name "Badlands (1990)(Domark).dsk" size 193601 crc 2E87D8A8 md5 7CD9A749469789BFB5ED0A29A2759D57 sha1 FD240EBDD1AAAF6468F506E2349CCA33191DE31D )
 )
 game (
-	name "Barbarian Part III (Des Soft) (France)"
-	description "Barbarian Part III (Des Soft) (France)"
-	rom ( name "Barbarian Part III (1988)(Des Soft)(fr)(Hack)[cr].dsk" size 204544 crc B0A4F51F md5 EF259AA4B91731D6D1A0C3ADDC4F3FAF sha1 65F9CDDBA20A02029222743347433CB282BB239D )
+	name "Bullseye (Macsen Software) (France) (LightGun)"
+	description "Bullseye (Macsen Software) (France) (LightGun)"
+	rom ( name "Bullseye  (1985)(Macsen Software)(fr)(LightGun)[cr].dsk" size 194816 crc C3283CE5 md5 427E43F1590AF335CED41746D277530A sha1 5E77456B7E6057FEA9565933ACFE1925F52EE30B )
 )
 game (
 	name "Bubble Ghost (ERE Informatique) (France)"
@@ -1895,10 +1904,10 @@ game (
 game (
 	name "B.A.T. (Ubi Soft) (France)"
 	description "B.A.T. (Ubi Soft) (France)"
-	rom ( name "B.A.T. (1991)(Ubi Soft)(Disk 2 Side A)(fr).dsk" size 195635 crc E8BBF1C7 md5 094555BC415403F81AB23B6EB9E0A493 sha1 ED4B4C8B2BEDD93611342FD9250842B48B9F2C7E )
-	rom ( name "B.A.T. (1991)(Ubi Soft)(Disk 1 Side A)(fr).dsk" size 195635 crc 69BD3223 md5 B7BA65B0966C533D81EE66710567E02B sha1 5E18CE06FCEB258A739BB4A7977C8B8EE900898D )
-	rom ( name "B.A.T. (1991)(Ubi Soft)(Disk 1 Side B)(fr).dsk" size 195635 crc D3CFC505 md5 412EBA443076B0DD1E066F60092066DE sha1 BE971F06BAABBA613FAE99CEF542D00FDBDCC2F4 )
-	rom ( name "B.A.T. (1991)(Ubi Soft)(Disk 2 Side B)(fr).dsk" size 195635 crc FD51471E md5 7B667585E957145BAEC76C7A31B01418 sha1 5ADEE252DA55524C63F26171723270025D808D55 )
+	rom ( name "B.A.T. (1991)(Ubi Soft)(fr)(Disk 2 Side A).dsk" size 195635 crc E8BBF1C7 md5 094555BC415403F81AB23B6EB9E0A493 sha1 ED4B4C8B2BEDD93611342FD9250842B48B9F2C7E )
+	rom ( name "B.A.T. (1991)(Ubi Soft)(fr)(Disk 2 Side B).dsk" size 195635 crc FD51471E md5 7B667585E957145BAEC76C7A31B01418 sha1 5ADEE252DA55524C63F26171723270025D808D55 )
+	rom ( name "B.A.T. (1991)(Ubi Soft)(fr)(Disk 1 Side A).dsk" size 195635 crc 69BD3223 md5 B7BA65B0966C533D81EE66710567E02B sha1 5E18CE06FCEB258A739BB4A7977C8B8EE900898D )
+	rom ( name "B.A.T. (1991)(Ubi Soft)(fr)(Disk 1 Side B).dsk" size 195635 crc D3CFC505 md5 412EBA443076B0DD1E066F60092066DE sha1 BE971F06BAABBA613FAE99CEF542D00FDBDCC2F4 )
 )
 game (
 	name "Bestiary (Amstrad Adventure PD Library)"
@@ -1973,6 +1982,11 @@ game (
 	rom ( name "Bo! (1994)(Bollaware)(de)[cr].dsk" size 194816 crc EB9C2347 md5 BA50BFC60E76EDA58E6C5805D4D92DF4 sha1 B53B2EBA6912003E4CC1B81499BB1AA111822FF7 )
 )
 game (
+	name "Big League Soccer II (Viper) (Spain) (Hack)"
+	description "Big League Soccer II (Viper) (Spain) (Hack)"
+	rom ( name "Big League Soccer II (2018)(Viper)(es)(Hack)[cr].dsk" size 194816 crc FAC68415 md5 3F9382F1F9D6E924A0E78636187E268E sha1 853B5B3E96E273D18B0072D2D9565D7F8692A3EA )
+)
+game (
 	name "Bounder (Gremlin Graphics Software)"
 	description "Bounder (Gremlin Graphics Software)"
 	rom ( name "Bounder (1986)(Gremlin Graphics Software).dsk" size 176103 crc DEE486DD md5 B10B28EC889893061C053CA8001DC679 sha1 1D77E3402BFC4DE82F35CA2D49B2F87D5D020EE7 )
@@ -2010,8 +2024,8 @@ game (
 game (
 	name "Bard's Tale, The (Electronic Arts) (de)"
 	description "Bard's Tale, The (Electronic Arts) (de)"
-	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(Side B)(de).dsk" size 194304 crc C0AFB5CB md5 D6C54F2BD0B985F1AC3782E0BEFF18AD sha1 4F9849B9D9BAFCABF6576736ECE95F8A187B6D4B )
-	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(Side A)(de).dsk" size 194816 crc 602AAB4D md5 5C242FE5640161A6D2B576106D493122 sha1 8FF3226211124681223E53EA59368E551D8A2162 )
+	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(de)(Side B).dsk" size 194304 crc C0AFB5CB md5 D6C54F2BD0B985F1AC3782E0BEFF18AD sha1 4F9849B9D9BAFCABF6576736ECE95F8A187B6D4B )
+	rom ( name "Bard's Tale, The (1988)(Electronic Arts)(de)(Side A).dsk" size 194816 crc 602AAB4D md5 5C242FE5640161A6D2B576106D493122 sha1 8FF3226211124681223E53EA59368E551D8A2162 )
 )
 game (
 	name "Big Sleaze, The (Piranha)"
@@ -2026,8 +2040,8 @@ game (
 game (
 	name "Baby Jo - Going Home (Imagine Software)"
 	description "Baby Jo - Going Home (Imagine Software)"
-	rom ( name "Baby Jo - Going Home (1991)(Imagine Software)(Side B)[v2].dsk" size 195635 crc 8CBB85D9 md5 302C19921E6D824B06F406436D6A6F2F sha1 112CE119D0A7D207716A0969BC9CD27A92CE63D9 )
-	rom ( name "Baby Jo - Going Home (1991)(Imagine Software)(Side A)[v2].dsk" size 201797 crc D015805A md5 EB53809A84F5E6D2A331384867F41B68 sha1 20444068DCA4621D3384826DABE8C6A4D3F30168 )
+	rom ( name "Baby Jo - Going Home (1991)(Imagine Software)(v2)(Side B).dsk" size 195635 crc 8CBB85D9 md5 302C19921E6D824B06F406436D6A6F2F sha1 112CE119D0A7D207716A0969BC9CD27A92CE63D9 )
+	rom ( name "Baby Jo - Going Home (1991)(Imagine Software)(v2)(Side A).dsk" size 201797 crc D015805A md5 EB53809A84F5E6D2A331384867F41B68 sha1 20444068DCA4621D3384826DABE8C6A4D3F30168 )
 )
 game (
 	name "Backgammon (CP Software) (Spain)"
@@ -2052,13 +2066,13 @@ game (
 game (
 	name "Chuck Yeager's Advanced Flight Trainer (Electronic Arts)"
 	description "Chuck Yeager's Advanced Flight Trainer (Electronic Arts)"
-	rom ( name "Chuck Yeager's Advanced Flight Trainer (1989)(Electronic Arts)(Side A)[v2].dsk" size 134589 crc 514D61AD md5 48C48DCEB07ACC0FEADAA446E34A922C sha1 2412A788F2E05554095C303665A6CA09F147AA10 )
-	rom ( name "Chuck Yeager's Advanced Flight Trainer (1989)(Electronic Arts)(Side B)[v2].dsk" size 195635 crc 732F1945 md5 CF4273353C2BA9D8DEFD2A51BF27E30F sha1 2D194AC55C91966E97C6DC288C891EC596F51DE4 )
+	rom ( name "Chuck Yeager's Advanced Flight Trainer (1989)(Electronic Arts)(v2)(Side A).dsk" size 134589 crc 514D61AD md5 48C48DCEB07ACC0FEADAA446E34A922C sha1 2412A788F2E05554095C303665A6CA09F147AA10 )
+	rom ( name "Chuck Yeager's Advanced Flight Trainer (1989)(Electronic Arts)(v2)(Side B).dsk" size 195635 crc 732F1945 md5 CF4273353C2BA9D8DEFD2A51BF27E30F sha1 2D194AC55C91966E97C6DC288C891EC596F51DE4 )
 )
 game (
 	name "Cross Horde (Caruso, Fabrizio)"
 	description "Cross Horde (Caruso, Fabrizio)"
-	rom ( name "Cross Horde (2021)(Caruso, Fabrizio)[cr][pd].dsk" size 204544 crc 2653AC21 md5 4008844257B179E57C1821AD5933E02D sha1 B8BFD7E47F7F4D86F8EFDA30A1CA5977C3020D52 )
+	rom ( name "Cross Horde (2021)(Caruso, Fabrizio)(PD)[cr].dsk" size 204544 crc 2653AC21 md5 4008844257B179E57C1821AD5933E02D sha1 B8BFD7E47F7F4D86F8EFDA30A1CA5977C3020D52 )
 )
 game (
 	name "City for Ransom (Wow Software)"
@@ -2176,6 +2190,11 @@ game (
 	rom ( name "Crimen Perfecto, El (1987)(Logipresse)(es)[cr].dsk" size 194816 crc F4CE35A8 md5 7601B49089E12744692C7337602860AB sha1 F111FD364BFEE2652A4251A8905301CC73AE79FF )
 )
 game (
+	name "Crazy Cars II (Titus) (Bugs)"
+	description "Crazy Cars II (Titus) (Bugs)"
+	rom ( name "Crazy Cars II (1989)(Titus)[b].dsk" size 174848 crc 9F07DF32 md5 A24371E77CF0B3960CD20ADE2842B35D sha1 E17F849FCBB7A37B9DB2B8C3F8E1BD7D7941BFE8 )
+)
+game (
 	name "Cauldron (Palace Software)"
 	description "Cauldron (Palace Software)"
 	rom ( name "Cauldron (1985)(Palace Software).dsk" size 78080 crc 7B270970 md5 2AD803B627373F00F0A059CE55D13EAE sha1 8AA99D4D6F9CC155F654162A93528ED489151256 )
@@ -2202,6 +2221,12 @@ game (
 	rom ( name "Chibi Akuma's Episode 1 Invasion (2018)(Keith Sear)(v1.666)(Side B).dsk" size 194816 crc 3D75A099 md5 86143C5822123310B13E41BFEF9EC045 sha1 B7ECC916AFE1E3CB28058EDEB6FC8E855CF85DB3 )
 )
 game (
+	name "Crazy Shoot (Loriciels) (France) (Phaser)"
+	description "Crazy Shoot (Loriciels) (France) (Phaser)"
+	rom ( name "Crazy Shoot (1989)(Loriciels)(fr)(West Phaser)(Side B).dsk" size 201797 crc 35FB2D md5 BFE41CB1928956738E3FCC4324F3C6B1 sha1 CDE64F368F6DACCF18E8876934BF988125BBDC88 )
+	rom ( name "Crazy Shoot (1989)(Loriciels)(fr)(West Phaser)(Side A).dsk" size 201797 crc CE81CFFA md5 31E4A7E9A1155BCED79DCC2AB75AD82C sha1 E45D79717CB2742C2AA591FCB3B0B3105FC8B637 )
+)
+game (
 	name "CORE (A&F Software)"
 	description "CORE (A&F Software)"
 	rom ( name "CORE (1986)(A&F Software)[cr].dsk" size 194816 crc AF8F2D05 md5 F5166F90E3FE2DCC9DE086FCD63DFA77 sha1 249E54E1D27C901C94E965E78FD1A941A64F1847 )
@@ -2209,7 +2234,7 @@ game (
 game (
 	name "Caves of Darkness (Emma Kingsmill)"
 	description "Caves of Darkness (Emma Kingsmill)"
-	rom ( name "Caves of Darkness (1991)(Emma Kingsmill)[cr][pd].dsk" size 194816 crc 84ACF7C6 md5 79315FF7F92A00ED110A8EED5C7F43F4 sha1 D3F6A1AB9CC0612688B37655FD382D0023C6704C )
+	rom ( name "Caves of Darkness (1991)(Emma Kingsmill)(PD)[cr].dsk" size 194816 crc 84ACF7C6 md5 79315FF7F92A00ED110A8EED5C7F43F4 sha1 D3F6A1AB9CC0612688B37655FD382D0023C6704C )
 )
 game (
 	name "Cursed be the City (The Adventure Workshop)"
@@ -2234,7 +2259,7 @@ game (
 game (
 	name "Caves of Bewbews (Amstrad Adventure PD Library)"
 	description "Caves of Bewbews (Amstrad Adventure PD Library)"
-	rom ( name "Caves of Bewbews (1990)(Amstrad Adventure PD Library)[cr][pd].dsk" size 194816 crc 8828C438 md5 E97D05097E72B0ABCA84FF239F00BF89 sha1 A9D822F5BFA2040B69399F27219F5FB8F3878BF9 )
+	rom ( name "Caves of Bewbews (1990)(Amstrad Adventure PD Library)(PD)[cr].dsk" size 194816 crc 8828C438 md5 E97D05097E72B0ABCA84FF239F00BF89 sha1 A9D822F5BFA2040B69399F27219F5FB8F3878BF9 )
 )
 game (
 	name "Crazy Brick (Ingo Bordach) (de)"
@@ -2289,7 +2314,7 @@ game (
 game (
 	name "Crazy Snake (Fraggle and Duck)"
 	description "Crazy Snake (Fraggle and Duck)"
-	rom ( name "Crazy Snake (1992)(Fraggle and Duck)[cr][pd].dsk" size 194816 crc D98EF21A md5 C112EC07875AA3059610DD633AE339D1 sha1 BE76A36D91DB96F9AAF34FD57B6D1661850C639D )
+	rom ( name "Crazy Snake (1992)(Fraggle and Duck)(PD)[cr].dsk" size 194816 crc D98EF21A md5 C112EC07875AA3059610DD633AE339D1 sha1 BE76A36D91DB96F9AAF34FD57B6D1661850C639D )
 )
 game (
 	name "Cosmo (Infogrames) (France)"
@@ -2368,14 +2393,14 @@ game (
 	rom ( name "Cisco Heat (1991)(Image Works).dsk" size 217457 crc 26273E82 md5 9975912AA2A7F18055C843FA968B9E6F sha1 3806E9CF515719F1775866E263D4FC639577C951 )
 )
 game (
-	name "Caverns of Mars (Inconnu)"
-	description "Caverns of Mars (Inconnu)"
-	rom ( name "Caverns of Mars (1985)(Inconnu)[cr].dsk" size 194816 crc 4A8FB3D4 md5 100EAFAB5864AABC434491064ACB15A1 sha1 1EF7D0DD176B4941EF7B374644554987865B7CE2 )
+	name "Caverns of Mars (-)"
+	description "Caverns of Mars (-)"
+	rom ( name "Caverns of Mars (1985)(-)[cr].dsk" size 194816 crc 4A8FB3D4 md5 100EAFAB5864AABC434491064ACB15A1 sha1 1EF7D0DD176B4941EF7B374644554987865B7CE2 )
 )
 game (
 	name "Castle Adventure Simulator (Rantanplan) (de)"
 	description "Castle Adventure Simulator (Rantanplan) (de)"
-	rom ( name "Castle Adventure Simulator (1993)(Rantanplan)(de)[cr][pd].dsk" size 194816 crc E580E156 md5 5BCDE43EFC592E5001B0C5D30A54AA67 sha1 34902EF7D0AC01C4A2721EADDEDC7BC08635C640 )
+	rom ( name "Castle Adventure Simulator (1993)(Rantanplan)(PD)(de)[cr].dsk" size 194816 crc E580E156 md5 5BCDE43EFC592E5001B0C5D30A54AA67 sha1 34902EF7D0AC01C4A2721EADDEDC7BC08635C640 )
 )
 game (
 	name "Cauldron II (Palace Software) (France)"
@@ -2428,6 +2453,11 @@ game (
 	rom ( name "Chain Reaction (1988)(Elite Systems)(Side A).dsk" size 195635 crc F82670FA md5 E15DEAABCEDC63011551C4362C5C6BEF sha1 5F15CFD32DC2135DEA962C0354AC09936F5D596F )
 )
 game (
+	name "Cabal (Ocean Software) (Bugs)"
+	description "Cabal (Ocean Software) (Bugs)"
+	rom ( name "Cabal (1989)(Ocean Software)[b].dsk" size 194816 crc C738216E md5 4FF443E36C6293A05780D64880F4AB9E sha1 10586EDA0F910D42FDE424E302DE5D2F7356205B )
+)
+game (
 	name "Cybernoid (Hewson)"
 	description "Cybernoid (Hewson)"
 	rom ( name "Cybernoid (1988)(Hewson).dsk" size 174848 crc 94D17670 md5 DA98036CD7F1D8D051651D85F1F33E3F sha1 05B55AF62234E71D3943FC485C6B42953BDB3754 )
@@ -2441,12 +2471,11 @@ game (
 	name "Cubit (Amsoft)"
 	description "Cubit (Amsoft)"
 	rom ( name "Cubit (1984)(Amsoft)[tape].dsk" size 204544 crc 3E4D2B70 md5 77CB0D899183B7FD7730506B649595BD sha1 15128120F606ABF701BECB352F88E398B2A09646 )
-	rom ( name "Cubit (1984)(Amsoft)[tape)[cr].dsk" size 204544 crc ABCEB000 md5 9AFEA82F9735921237503069B840C187 sha1 93C1DC6A183BCC5D5B8E42BDB5ACECFA46D30ED0 )
 )
 game (
 	name "Colossus Mahjong (CDS Software LTD)"
 	description "Colossus Mahjong (CDS Software LTD)"
-	rom ( name "Colossus Mahjong (1987)(CDS Software LTD)[v2][CPM].dsk" size 195635 crc AF529A6A md5 EC551F4D322D651123282F7E3181FECE sha1 511B604361EF631D0E07BE8092160400C1447475 )
+	rom ( name "Colossus Mahjong (1987)(CDS Software LTD)(v2)[CPM].dsk" size 195635 crc AF529A6A md5 EC551F4D322D651123282F7E3181FECE sha1 511B604361EF631D0E07BE8092160400C1447475 )
 )
 game (
 	name "Crystal Castles (US Gold)"
@@ -2457,6 +2486,11 @@ game (
 	name "Chip's Challenge (US Gold)"
 	description "Chip's Challenge (US Gold)"
 	rom ( name "Chip's Challenge (1990)(US Gold).dsk" size 265413 crc 9718D06 md5 5EAC65E8861B3C71E70C28ED61330449 sha1 AA8783EBB7085501C661CBD78DA7E60167CDA6B8 )
+)
+game (
+	name "Cubit (Amsoft) (de)"
+	description "Cubit (Amsoft) (de)"
+	rom ( name "Cubit (1984)(Amsoft)(de)[tape].dsk" size 204544 crc ABCEB000 md5 9AFEA82F9735921237503069B840C187 sha1 93C1DC6A183BCC5D5B8E42BDB5ACECFA46D30ED0 )
 )
 game (
 	name "Comando Tracer (Dinamic Software) (Spain)"
@@ -2478,6 +2512,11 @@ game (
 	name "Cylu (Firebird)"
 	description "Cylu (Firebird)"
 	rom ( name "Cylu (1985)(Firebird)[cr].dsk" size 194816 crc D3C89C04 md5 B4865463B3B92F9AAB7E8A35D32D1385 sha1 9E2046E222E58D5F9C09A716BA81140AA3C7D759 )
+)
+game (
+	name "Crazy Shoot (Loriciels) (Phaser)"
+	description "Crazy Shoot (Loriciels) (Phaser)"
+	rom ( name "Crazy Shoot (1989)(Loriciels)(West Phaser).dsk" size 204544 crc 7CE1CA31 md5 0CF6C8EE26B6ACD3F6F166DB8C17DAC9 sha1 2ED31E6D9C4AAE8CA78AAE263981EDB6EC5287B0 )
 )
 game (
 	name "Cyberball (Domark)"
@@ -2505,6 +2544,11 @@ game (
 	rom ( name "Comando Quatro (1989)(Zigurat Software)(es).dsk" size 80781 crc A89233AB md5 1B1098C230D9D9AEC460F0A2E3952388 sha1 D8AD49F2C8D393F0D364642BF5987556087921DC )
 )
 game (
+	name "Cosmic Sheriff (Dinamic Software) (Spain) (LightGun)"
+	description "Cosmic Sheriff (Dinamic Software) (Spain) (LightGun)"
+	rom ( name "Cosmic Sheriff (1989)(Dinamic Software)(es)(LightGun).dsk" size 91136 crc 5DEB3022 md5 A3831335E4BE7EE6C98EB8F70205027E sha1 76339A3A78B1D428043257F028FC7C0F60B51BD3 )
+)
+game (
 	name "Cosa Nostra (Opera Soft) (Spain)"
 	description "Cosa Nostra (Opera Soft) (Spain)"
 	rom ( name "Cosa Nostra (1986)(Opera Soft)(es).dsk" size 81915 crc B52C665D md5 93A30E879A059378E72F5E6260572C6B sha1 590334F6F9B4E4A5E4DCAD1CF47C89409154343A )
@@ -2527,7 +2571,7 @@ game (
 game (
 	name "Cross Bomber (Caruso, Fabrizio)"
 	description "Cross Bomber (Caruso, Fabrizio)"
-	rom ( name "Cross Bomber (2021)(Caruso, Fabrizio)[cr][pd].dsk" size 204544 crc 4F93CF60 md5 F7C1178346D23C8A905827232AFF01E4 sha1 1FC3F6A26A4C174F68D94138B4C0A4270A184CF8 )
+	rom ( name "Cross Bomber (2021)(Caruso, Fabrizio)(PD)[cr].dsk" size 204544 crc 4F93CF60 md5 F7C1178346D23C8A905827232AFF01E4 sha1 1FC3F6A26A4C174F68D94138B4C0A4270A184CF8 )
 )
 game (
 	name "Chubby Gristle (Grandslam)"
@@ -2583,17 +2627,12 @@ game (
 game (
 	name "Caecilia Metella (Sleepwalker PDS)"
 	description "Caecilia Metella (Sleepwalker PDS)"
-	rom ( name "Caecilia Metella (1994)(Sleepwalker PDS)[cr][pd].dsk" size 194816 crc 98F9C4E5 md5 23790531CFD2D24134E752E855BE64D1 sha1 BFAAAF4158C094A9494405298807BDB3516A5A51 )
+	rom ( name "Caecilia Metella (1994)(Sleepwalker PDS)(PD)[cr].dsk" size 194816 crc 98F9C4E5 md5 23790531CFD2D24134E752E855BE64D1 sha1 BFAAAF4158C094A9494405298807BDB3516A5A51 )
 )
 game (
 	name "Captain Blood (Ere Informatique) (M5)"
 	description "Captain Blood (Ere Informatique) (M5)"
 	rom ( name "Captain Blood (1988)(Ere Informatique)(M5)[retail].dsk" size 199680 crc E00E41DD md5 DDD1672C0C7801CB60FF6AD2587C0561 sha1 E031313CF4F2B5B621B23C29CA95638AC044BAC6 )
-)
-game (
-	name "Cosmic Sheriff (Dinamic Software) (Spain)"
-	description "Cosmic Sheriff (Dinamic Software) (Spain)"
-	rom ( name "Cosmic Sheriff (1989)(Dinamic Software)(es)[lightgun].dsk" size 91136 crc 5DEB3022 md5 A3831335E4BE7EE6C98EB8F70205027E sha1 76339A3A78B1D428043257F028FC7C0F60B51BD3 )
 )
 game (
 	name "California Games (US Gold)"
@@ -2616,12 +2655,6 @@ game (
 	description "Cine Clap (Ubisoft) (France)"
 	rom ( name "Cine Clap (1986)(Ubisoft)(fr)(Side B).dsk" size 194816 crc F6158B1F md5 4297C1D200C9B24F167D74E8253AD5FC sha1 BA790677CEF28781808B78B6FA366F21031FD9FC )
 	rom ( name "Cine Clap (1986)(Ubisoft)(fr)(Side A).dsk" size 200192 crc 212F7414 md5 14FD6DA6A34EFFF2AA63442C0389F74C sha1 D4EDD16375AF6641DC4FB2E49D024A12D492D97C )
-)
-game (
-	name "Crazy Shoot (Loriciels) (France)"
-	description "Crazy Shoot (Loriciels) (France)"
-	rom ( name "Crazy Shoot (1989)(Loriciels)(fr)(Side B)[West Phaser].dsk" size 201797 crc 35FB2D md5 BFE41CB1928956738E3FCC4324F3C6B1 sha1 CDE64F368F6DACCF18E8876934BF988125BBDC88 )
-	rom ( name "Crazy Shoot (1989)(Loriciels)(fr)(Side A)[West Phaser].dsk" size 201797 crc CE81CFFA md5 31E4A7E9A1155BCED79DCC2AB75AD82C sha1 E45D79717CB2742C2AA591FCB3B0B3105FC8B637 )
 )
 game (
 	name "Cricket-Crazy (The Dreaming Djinn)"
@@ -2647,11 +2680,6 @@ game (
 	name "Curro Jimenez (Zigurat) (Spain)"
 	description "Curro Jimenez (Zigurat) (Spain)"
 	rom ( name "Curro Jimenez (1989)(Zigurat)(es).dsk" size 91136 crc F4C4AD7B md5 F68820D27B1914FF574DE429A4F4DB13 sha1 9C0D227FCF91C5F8F54DFD2A8446433DCFEBB329 )
-)
-game (
-	name "Cabal (Ocean Software)"
-	description "Cabal (Ocean Software)"
-	rom ( name "Cabal (1989)(Ocean Software)[b].dsk" size 194816 crc C738216E md5 4FF443E36C6293A05780D64880F4AB9E sha1 10586EDA0F910D42FDE424E302DE5D2F7356205B )
 )
 game (
 	name "Clasic Tenis (Amstrad User Club)"
@@ -2686,7 +2714,7 @@ game (
 game (
 	name "Cross Chase (Caruso, Fabrizio)"
 	description "Cross Chase (Caruso, Fabrizio)"
-	rom ( name "Cross Chase (2018)(Caruso, Fabrizio)[cr][pd].dsk" size 194816 crc 47207274 md5 946A0D1F0BB015A3AE9D5A3CB997824F sha1 38EE0083AE9DA6442E7C2F80D744FD841B09E460 )
+	rom ( name "Cross Chase (2018)(Caruso, Fabrizio)(PD)[cr].dsk" size 194816 crc 47207274 md5 946A0D1F0BB015A3AE9D5A3CB997824F sha1 38EE0083AE9DA6442E7C2F80D744FD841B09E460 )
 )
 game (
 	name "Corridor Conflict (The Power House)"
@@ -2711,7 +2739,7 @@ game (
 game (
 	name "Crystal Mission (Andreas Stroizcek) (M2)"
 	description "Crystal Mission (Andreas Stroizcek) (M2)"
-	rom ( name "Crystal Mission (1991)(Andreas Stroizcek)(M2)[cr][pd].dsk" size 194816 crc 9C78AE17 md5 4B6FF7C7FF40C7D3CC633DB67768ABBA sha1 FC30D82F17602F94D659A708008608BC2FA66CD1 )
+	rom ( name "Crystal Mission (1991)(Andreas Stroizcek)(PD)(M2)[cr].dsk" size 194816 crc 9C78AE17 md5 4B6FF7C7FF40C7D3CC633DB67768ABBA sha1 FC30D82F17602F94D659A708008608BC2FA66CD1 )
 )
 game (
 	name "Clever & Smart (Magic Bytes) (M3)"
@@ -2752,6 +2780,11 @@ game (
 	name "Con-Quest (Mastertronic)"
 	description "Con-Quest (Mastertronic)"
 	rom ( name "Con-Quest (1986)(Mastertronic)[cr].dsk" size 204544 crc A961C9BA md5 C9A65FCEEE3264E2E006E485B961D84E sha1 AF30E3945C9EC189DDFFBDA169D4DFB6A74C71F2 )
+)
+game (
+	name "Country Cottages (Sterling Software) (Spain) (Hack)"
+	description "Country Cottages (Sterling Software) (Spain) (Hack)"
+	rom ( name "Country Cottages (1984)(Sterling Software)(es)(Hack)[cr].dsk" size 204544 crc 94903702 md5 A13A388D27A2B7A40E470E9B953C7EE1 sha1 8ED2A9FEF1838521ACA13256981C3619FBF9C193 )
 )
 game (
 	name "Catch 23 (Martech)"
@@ -2799,11 +2832,6 @@ game (
 	rom ( name "Classic Trainer (1989)(GTI Software)[cr].dsk" size 194816 crc 54D75C4A md5 EFF009886AECBAE3663A7147F15E2A36 sha1 2092C99C1F15166D8AEE04A04D80560217D93EAB )
 )
 game (
-	name "Ci-U-Than Trilogy III - Chichen Itza (Aventuras AD) (Spain)"
-	description "Ci-U-Than Trilogy III - Chichen Itza (Aventuras AD) (Spain)"
-	rom ( name "Ci-U-Than Trilogy III - Chichen Itza (1992)(Aventuras AD)(es)[b].dsk" size 205401 crc E418E803 md5 96B398EFC3706A5C7BC1E1847D8BA286 sha1 A915FF6CDB6B4DCBFB87BD7B4E003E5583C16D5E )
-)
-game (
 	name "Chimera (Firebird)"
 	description "Chimera (Firebird)"
 	rom ( name "Chimera (1985)(Firebird)[tape].dsk" size 194816 crc D4DCD1CE md5 53AC7B1C19A92E2E24EACBBC87ECDF59 sha1 F2403C0EC7D0CB8AAE6201D6DDB8F53BB174A5CD )
@@ -2811,7 +2839,7 @@ game (
 game (
 	name "Cycit (Bug-Byte Software)"
 	description "Cycit (Bug-Byte Software)"
-	rom ( name "Cycit (1986)(Bug-Byte Software)[cr][v2].dsk" size 204544 crc 39AAE782 md5 4329EC1F9D635AB5D5E9AD2974B07422 sha1 77219DC3B49C57AD0624B452A4D521B2AEC9EDC3 )
+	rom ( name "Cycit (1986)(Bug-Byte Software)(v2)[cr].dsk" size 204544 crc 39AAE782 md5 4329EC1F9D635AB5D5E9AD2974B07422 sha1 77219DC3B49C57AD0624B452A4D521B2AEC9EDC3 )
 )
 game (
 	name "Commando (Elite Systems)"
@@ -2826,12 +2854,11 @@ game (
 game (
 	name "CPC Invaders (SIS Software)"
 	description "CPC Invaders (SIS Software)"
-	rom ( name "CPC Invaders (1993)(SIS Software)[cr][pd].dsk" size 194816 crc 658ADF06 md5 0D361B607295D2741F8D294250F64BA2 sha1 216082E6542023F909816D3EE3AB5E862B1954FC )
+	rom ( name "CPC Invaders (1993)(SIS Software)(PD)[cr].dsk" size 194816 crc 658ADF06 md5 0D361B607295D2741F8D294250F64BA2 sha1 216082E6542023F909816D3EE3AB5E862B1954FC )
 )
 game (
 	name "Crazy Cars II (Titus)"
 	description "Crazy Cars II (Titus)"
-	rom ( name "Crazy Cars II (1989)(Titus)[b].dsk" size 174848 crc 9F07DF32 md5 A24371E77CF0B3960CD20ADE2842B35D sha1 E17F849FCBB7A37B9DB2B8C3F8E1BD7D7941BFE8 )
 	rom ( name "Crazy Cars II (1989)(Titus)[cr][f].dsk" size 194816 crc F80DF676 md5 001370962C129D32B01A99A874C7F6F5 sha1 777979623590F349784A756A09A3643C4D455D61 )
 )
 game (
@@ -2926,14 +2953,9 @@ game (
 	rom ( name "Castle Master II - The Crypt (UK) (1990)[cr][f].dsk" size 204544 crc CCC69659 md5 E8206160A22F274DE12EC90AC76ADD12 sha1 866F24144B0A1A13C9D24B09B067291C5839B0A2 )
 )
 game (
-	name "Crazy Shoot (Loriciels)"
-	description "Crazy Shoot (Loriciels)"
-	rom ( name "Crazy Shoot (1989)(Loriciels)[West Phaser].dsk" size 204544 crc 7CE1CA31 md5 0CF6C8EE26B6ACD3F6F166DB8C17DAC9 sha1 2ED31E6D9C4AAE8CA78AAE263981EDB6EC5287B0 )
-)
-game (
 	name "Can I Cheat the Death (Amstrad Adventure PD Library)"
 	description "Can I Cheat the Death (Amstrad Adventure PD Library)"
-	rom ( name "Can I Cheat the Death (1990)(Amstrad Adventure PD Library)[cr][pd].dsk" size 194816 crc 11864F72 md5 0B5DD3EA42819B6013B115789B643EA4 sha1 634985FE9F232D312DAF80BB089F01991F2B5CB4 )
+	rom ( name "Can I Cheat the Death (1990)(Amstrad Adventure PD Library)(PD)[cr].dsk" size 194816 crc 11864F72 md5 0B5DD3EA42819B6013B115789B643EA4 sha1 634985FE9F232D312DAF80BB089F01991F2B5CB4 )
 )
 game (
 	name "Crazy Golf (Amsoft)"
@@ -2944,16 +2966,6 @@ game (
 	name "Chicago 30's (Topo Soft)"
 	description "Chicago 30's (Topo Soft)"
 	rom ( name "Chicago 30's (1988)(Topo Soft).dsk" size 220581 crc E010F7D4 md5 53A0608E661C3B4E3321022D2561AE55 sha1 2AAD79FB6F759ACFCDD751A1B737418F303EF975 )
-)
-game (
-	name "Chicago 30's (Topo Soft) (Spain)"
-	description "Chicago 30's (Topo Soft) (Spain)"
-	rom ( name "Chicago 30's (1988)(Topo Soft)(es)[cr][repair].dsk" size 204544 crc AE7D96B2 md5 80732100B224EE9481B80F76DB17F54E sha1 52C70E8584093FB7E44FAEE4974B905B4CBDDE05 )
-)
-game (
-	name "Country Cottages (Sterling Software) (Spain)"
-	description "Country Cottages (Sterling Software) (Spain)"
-	rom ( name "Country Cottages (1984)(Sterling Software)(es)[cr][h].dsk" size 204544 crc 94903702 md5 A13A388D27A2B7A40E470E9B953C7EE1 sha1 8ED2A9FEF1838521ACA13256981C3619FBF9C193 )
 )
 game (
 	name "Captain Planet (Mindscape)"
@@ -2979,7 +2991,7 @@ game (
 game (
 	name "Cross Snake (Caruso, Fabrizio)"
 	description "Cross Snake (Caruso, Fabrizio)"
-	rom ( name "Cross Snake (2020)(Caruso, Fabrizio)[cr][pd].dsk" size 194816 crc 7177BF58 md5 C724EDFC03E38176D0F2EC0B44B16C68 sha1 05B5AD68AA9FA1B8863168FB62487B1FC0274808 )
+	rom ( name "Cross Snake (2020)(Caruso, Fabrizio)(PD)[cr].dsk" size 194816 crc 7177BF58 md5 C724EDFC03E38176D0F2EC0B44B16C68 sha1 05B5AD68AA9FA1B8863168FB62487B1FC0274808 )
 )
 game (
 	name "Chronos (Mastertronic)"
@@ -3012,9 +3024,14 @@ game (
 	rom ( name "Confuzion (1985)(Incentive)[cr].dsk" size 194816 crc ED61051F md5 BC4558B4BEE5F592C6FB91C9C21FFAEB sha1 C7C850C763E7A07CEF5B1060E5EA61CE6098DBB9 )
 )
 game (
+	name "Ci-U-Than Trilogy III - Chichen Itza (Aventuras AD) (Spain) (Bugs)"
+	description "Ci-U-Than Trilogy III - Chichen Itza (Aventuras AD) (Spain) (Bugs)"
+	rom ( name "Ci-U-Than Trilogy III - Chichen Itza (1992)(Aventuras AD)(es)[b].dsk" size 205401 crc E418E803 md5 96B398EFC3706A5C7BC1E1847D8BA286 sha1 A915FF6CDB6B4DCBFB87BD7B4E003E5583C16D5E )
+)
+game (
 	name "Cubemeleon (CPC) (France)"
 	description "Cubemeleon (CPC) (France)"
-	rom ( name "Cubemeleon (1986)(CPC)(fr)[cr][v3].dsk" size 194816 crc CB1FB4A2 md5 651F11C3646E778EBCA7CCB6C53FA053 sha1 B83CE0E6E981642C179E05DED40A8C8CFFF2CA8B )
+	rom ( name "Cubemeleon (1986)(CPC)(fr)(v3)[cr].dsk" size 194816 crc CB1FB4A2 md5 651F11C3646E778EBCA7CCB6C53FA053 sha1 B83CE0E6E981642C179E05DED40A8C8CFFF2CA8B )
 )
 game (
 	name "Crash Garrett (ERE Informatique) (France)"
@@ -3025,7 +3042,7 @@ game (
 game (
 	name "Crazy Stamps (D. Mueller) (de)"
 	description "Crazy Stamps (D. Mueller) (de)"
-	rom ( name "Crazy Stamps (1986)(D. Mueller)(de)[cr][pd].dsk" size 194816 crc D356F77A md5 08B4D60E4DB50BA11A5B896F6F3F4F69 sha1 9FD401F3AD6A3DA7AFCEB1CBFE51CFEA9C2BAAC6 )
+	rom ( name "Crazy Stamps (1986)(D. Mueller)(PD)(de)[cr].dsk" size 194816 crc D356F77A md5 08B4D60E4DB50BA11A5B896F6F3F4F69 sha1 9FD401F3AD6A3DA7AFCEB1CBFE51CFEA9C2BAAC6 )
 )
 game (
 	name "Comet Game, The (Firebird)"
@@ -3097,12 +3114,6 @@ game (
 	description "Darkman (Ocean)"
 	rom ( name "Darkman (1991)(Ocean)(Side B).dsk" size 216197 crc 4D6EB9BA md5 346CE57EC3A033DBD6EE1331C4DED2A4 sha1 D06121661CC5F6986A162DCFC56BF99CDC932CBB )
 	rom ( name "Darkman (1991)(Ocean)(Side A).dsk" size 215685 crc D60D7D79 md5 15A3F3CDE7FCA8ECBFEF21FD4A35AAA7 sha1 463C888E9003ACBD397C2AA3A9468BD92C09A379 )
-)
-game (
-	name "Dr. Doom's Revenge (Empire Software) (M4)"
-	description "Dr. Doom's Revenge (Empire Software) (M4)"
-	rom ( name "Dr. Doom's Revenge (1989)(Empire Software)(M4)(Side B).dsk" size 194816 crc 7EA86998 md5 58647112EDD44734CC099349D4E15932 sha1 C224673D38411B96C270A1239AB73DBD6A8F210A )
-	rom ( name "Dr. Doom's Revenge (1989)(Empire Software)(M4)(Side A)[codes].dsk" size 194816 crc 3443AC53 md5 7D7FB3223539BC5FD13B8A1F6C0C02A4 sha1 B0EF4D68F772580F0A0A0A11C034B18C0870CBBF )
 )
 game (
 	name "Defender (Amstrad Video-Play) (Spain)"
@@ -3303,6 +3314,12 @@ game (
 	rom ( name "Dynamite Dan (1985)(Mirrorsoft)[tape].dsk" size 194816 crc 550AC9F9 md5 C8C3CF7CC5DDC970067B522793D5779B sha1 E4EDB166799AAE05AE12DDCC44FB687235F22CB2 )
 )
 game (
+	name "Donde Esta Carmen Sandiego (Broderbund Software) (Spain) (Codes)"
+	description "Donde Esta Carmen Sandiego (Broderbund Software) (Spain) (Codes)"
+	rom ( name "Donde Esta Carmen Sandiego (1990)(Broderbund Software)(es)(Side B)[codes].dsk" size 205399 crc DC8A705F md5 A2F76585E14870928300C4D3C003B2F5 sha1 E4D31BD1D9DF620F2DB2BDD76A89BE22BF2231E6 )
+	rom ( name "Donde Esta Carmen Sandiego (1990)(Broderbund Software)(es)(Side A)[codes].dsk" size 205399 crc 2C5B434 md5 B3CFA6E4AA832206D47F033502E65A8B sha1 D4ACF21C01913CCFF80D87576285B16284378E6E )
+)
+game (
 	name "Dynamic Duo (Firebird)"
 	description "Dynamic Duo (Firebird)"
 	rom ( name "Dynamic Duo (1989)(Firebird).dsk" size 88231 crc 2F36C5CD md5 09162346BBEC740444DC7656DBF1505E sha1 B50E639F63B1F70258789A20C4C101A8A0D4103D )
@@ -3368,6 +3385,11 @@ game (
 	rom ( name "Dames 3D Champion (1987)(Cobra Soft)(fr).dsk" size 198211 crc B1CA3B57 md5 A09CA1430C5D4B1FB8DE659138E69789 sha1 56C53E82481110CA98141F55EA5EB7E8E6A9A3B5 )
 )
 game (
+	name "Dan Dare II - Mekon's Revenge (Virgin Games) (Bugs)"
+	description "Dan Dare II - Mekon's Revenge (Virgin Games) (Bugs)"
+	rom ( name "Dan Dare II - Mekon's Revenge (1988)(Virgin Games)[b].dsk" size 214283 crc C04B912B md5 C9ACF4274C06DA20CA6A84584852CD1A sha1 502F2F27FF0DA20663F35B2C6C20A45EAFB3A6F5 )
+)
+game (
 	name "Duet - Commando '86 (Elite Systems)"
 	description "Duet - Commando '86 (Elite Systems)"
 	rom ( name "Duet - Commando '86 (1987)(Elite Systems)[cr].dsk" size 194816 crc 68F975D7 md5 09F81AF6E9F4491D65533DA87B8CAE45 sha1 B4999EDF82135D466F567F6E62D24E86D8EA5422 )
@@ -3409,16 +3431,16 @@ game (
 	rom ( name "Dominoes (1987)(Blue Ribbon Software)[tape].dsk" size 194816 crc 8D4A1AB8 md5 AA5EA8315A557E4D3CE80FBA42DCB888 sha1 FB71654F3DBEC695AD53E51778DF2735E5127608 )
 )
 game (
-	name "Donde Esta Carmen Sandiego (Broderbund Software) (Spain)"
-	description "Donde Esta Carmen Sandiego (Broderbund Software) (Spain)"
-	rom ( name "Donde Esta Carmen Sandiego (1990)(Broderbund Software)(es)(Side A)[codes - 1500].dsk" size 205399 crc 2C5B434 md5 B3CFA6E4AA832206D47F033502E65A8B sha1 D4ACF21C01913CCFF80D87576285B16284378E6E )
-	rom ( name "Donde Esta Carmen Sandiego (1990)(Broderbund Software)(es)(Side B).dsk" size 205399 crc DC8A705F md5 A2F76585E14870928300C4D3C003B2F5 sha1 E4D31BD1D9DF620F2DB2BDD76A89BE22BF2231E6 )
-)
-game (
 	name "Dragon Spirit (Domark)"
 	description "Dragon Spirit (Domark)"
 	rom ( name "Dragon Spirit (1989)(Domark)(Side A).dsk" size 195635 crc C53E8BE1 md5 19E2B1A0DDCD865F6931529EF68371FE sha1 0723D4A217C5E2A6036C0B47A1161C2A47603965 )
 	rom ( name "Dragon Spirit (1989)(Domark)(Side B).dsk" size 195635 crc 88AA6A8E md5 31B601966B45E605A1B395CBD3E4BF3A sha1 DBD194EF22D754AC2CDE56D08962EC557DF682BA )
+)
+game (
+	name "Donald's Alphabet Chase (Disney) (M5) (Codes)"
+	description "Donald's Alphabet Chase (Disney) (M5) (Codes)"
+	rom ( name "Donald's Alphabet Chase (1988)(Disney)(M5)(Side B)[codes].dsk" size 195635 crc 6E1A4DA1 md5 3C9E13514F239C566DF542FB3212DD49 sha1 DE30AFE613718B07F1E5AA384B07A3E7745B3F90 )
+	rom ( name "Donald's Alphabet Chase (1988)(Disney)(M5)(Side A)[codes].dsk" size 195635 crc 98021E34 md5 3772FFAD6F49B034336F6D5F4AE51F21 sha1 583BDD2282300B189C71F8F74FBD857EAAFCA1DB )
 )
 game (
 	name "Diamond Trap (Computing With The Amstrad)"
@@ -3547,12 +3569,6 @@ game (
 	rom ( name "Dragon Breed (1989)(Activision).dsk" size 204515 crc D9DC8F56 md5 5C1EE8EA87B0E73924BB3E600A07E52F sha1 2C35F5F6EE7429B4AABABFCA9E42E7C746409DEA )
 )
 game (
-	name "Donald's Alphabet Chase (Disney) (M5)"
-	description "Donald's Alphabet Chase (Disney) (M5)"
-	rom ( name "Donald's Alphabet Chase (1988)(Disney)(M5)(Side B).dsk" size 195635 crc 6E1A4DA1 md5 3C9E13514F239C566DF542FB3212DD49 sha1 DE30AFE613718B07F1E5AA384B07A3E7745B3F90 )
-	rom ( name "Donald's Alphabet Chase (1988)(Disney)(M5)(Side A)[codes].dsk" size 195635 crc 98021E34 md5 3772FFAD6F49B034336F6D5F4AE51F21 sha1 583BDD2282300B189C71F8F74FBD857EAAFCA1DB )
-)
-game (
 	name "Danger Adventurer at Work (WoW Software)"
 	description "Danger Adventurer at Work (WoW Software)"
 	rom ( name "Danger Adventurer at Work (1991)(WoW Software)[tape].dsk" size 194816 crc 5E98FE2A md5 171DCF02FEAB1038EF949FBB5588067B sha1 92E9F3742030043D54ABF04E7BA40DE6D690B29B )
@@ -3595,7 +3611,7 @@ game (
 game (
 	name "Deadly Evil (Players Premier Software)"
 	description "Deadly Evil (Players Premier Software)"
-	rom ( name "Deadly Evil (1990)(Players Premier Software)[cr][v2].dsk" size 204544 crc D50D3B34 md5 8BADBEA17C12B8566CAAABC309CDC213 sha1 155F59D452BBBC06C9DE7BA27781A583A97FB917 )
+	rom ( name "Deadly Evil (1990)(Players Premier Software)(v2)[cr].dsk" size 204544 crc D50D3B34 md5 8BADBEA17C12B8566CAAABC309CDC213 sha1 155F59D452BBBC06C9DE7BA27781A583A97FB917 )
 )
 game (
 	name "Dam Busters, The (US Gold)"
@@ -3627,12 +3643,22 @@ game (
 	name "Driller (Incentive Software)"
 	description "Driller (Incentive Software)"
 	rom ( name "Driller (1987)(Incentive Software)[cr].dsk" size 194816 crc 73CFF695 md5 24206DAD95C849609210B4C6316868ED sha1 8E13D69BE7A7B999073EBA8406A76F647369E69F )
-	rom ( name "Driller (1987)(Incentive Software)[codes].dsk" size 184097 crc 24A54215 md5 6FE97914F3ABBDE015BDC2DF3623CE70 sha1 FB655C534336855026805D3AE1404C933F15156B )
 )
 game (
 	name "Doodle Bug (Players Software)"
 	description "Doodle Bug (Players Software)"
 	rom ( name "Doodle Bug (1987)(Players Software)[cr].dsk" size 204544 crc 260957B5 md5 5FCCC0C9EB63A1F1B5E75C585D8A6543 sha1 FF1F775675270E4B0B327F37A92D8E8681C8B4D7 )
+)
+game (
+	name "Driller (Incentive Software) (Codes)"
+	description "Driller (Incentive Software) (Codes)"
+	rom ( name "Driller (1987)(Incentive Software)[codes].dsk" size 184097 crc 24A54215 md5 6FE97914F3ABBDE015BDC2DF3623CE70 sha1 FB655C534336855026805D3AE1404C933F15156B )
+)
+game (
+	name "Dr. Doom's Revenge (Empire Software) (M4) (Codes)"
+	description "Dr. Doom's Revenge (Empire Software) (M4) (Codes)"
+	rom ( name "Dr. Doom's Revenge (1989)(Empire Software)(M4)(Side B)[codes].dsk" size 194816 crc 7EA86998 md5 58647112EDD44734CC099349D4E15932 sha1 C224673D38411B96C270A1239AB73DBD6A8F210A )
+	rom ( name "Dr. Doom's Revenge (1989)(Empire Software)(M4)(Side A)[codes].dsk" size 194816 crc 3443AC53 md5 7D7FB3223539BC5FD13B8A1F6C0C02A4 sha1 B0EF4D68F772580F0A0A0A11C034B18C0870CBBF )
 )
 game (
 	name "Dun Darach (Gargoyle Games)"
@@ -3678,7 +3704,6 @@ game (
 	name "Dan Dare II - Mekon's Revenge (Virgin Games)"
 	description "Dan Dare II - Mekon's Revenge (Virgin Games)"
 	rom ( name "Dan Dare II - Mekon's Revenge (1988)(Virgin Games)[cr][f].dsk" size 194816 crc ED93F172 md5 2CE192EDACC70F44BA7EEE17AECB3C09 sha1 C120B83D95C315D4D91B9ED123FE90E3B6D3B0E3 )
-	rom ( name "Dan Dare II - Mekon's Revenge (1988)(Virgin Games)[b].dsk" size 214283 crc C04B912B md5 C9ACF4274C06DA20CA6A84584852CD1A sha1 502F2F27FF0DA20663F35B2C6C20A45EAFB3A6F5 )
 )
 game (
 	name "Dragon's Gold (Amsoft)"
@@ -3736,11 +3761,6 @@ game (
 	rom ( name "Evening Star (1987)(Hewson).dsk" size 41989 crc 6C18DB2F md5 42C7DC634512B8A1F5A94906E065BBAE sha1 B86AA05411BC3CE58D37C794D820307089CD90CA )
 )
 game (
-	name "Eve of Shadows (Amstrad Adventure PD Library)"
-	description "Eve of Shadows (Amstrad Adventure PD Library)"
-	rom ( name "Eve of Shadows (1991)(Amstrad Adventure PD Library)(PD)[cr][b].dsk" size 194816 crc 76132797 md5 73D2094B6D4878471289E74110449078 sha1 0BF9A1F60C39A3755BFCA6ED56B1ACDA8724E196 )
-)
-game (
 	name "Energy Warrior (Mastertronic)"
 	description "Energy Warrior (Mastertronic)"
 	rom ( name "Energy Warrior (1987)(Mastertronic)[cr].dsk" size 194816 crc 14733DCC md5 AAC31E24709F7C85198F36AA4B3A2B98 sha1 5F691CB414EE7FFE77FD800EFCCEFE8FB3CCA036 )
@@ -3785,11 +3805,6 @@ game (
 	name "Endzone (Alternative Software)"
 	description "Endzone (Alternative Software)"
 	rom ( name "Endzone (1989)(Alternative Software)[tape][f].dsk" size 194816 crc B4BA020B md5 E3511793E6E8E9F7E9F25DA042277C18 sha1 46D86DFD9B01A432EFCAB9781BD8E6A5413A7E5C )
-)
-game (
-	name "Eliminator (Hewson)"
-	description "Eliminator (Hewson)"
-	rom ( name "Eliminator (1988)(Hewson)[b].dsk" size 231083 crc 773A2875 md5 24A21974B1DCCBFB3358B111D7F95021 sha1 82D9AAF7797D77A89CE5CE7394CCB75FB6DF87C1 )
 )
 game (
 	name "Express Raider (US Gold)"
@@ -3878,14 +3893,14 @@ game (
 	rom ( name "Elidon (1985)(Orpheus)[tape].dsk" size 204544 crc 3BEFE4CE md5 6CFCA3B2BB00CA8AFC288519F8ED18BD sha1 A9B2BF1EFBF328D52CCAAA970336B5955144345E )
 )
 game (
+	name "European II - The European Cup (E&J Software) (Spain) (Hack)"
+	description "European II - The European Cup (E&J Software) (Spain) (Hack)"
+	rom ( name "European II - The European Cup (1989)(E&J Software)(es)(Hack)[cr].dsk" size 194816 crc 1666D286 md5 3FC8365235B958040B733F4EF8601722 sha1 8DCEC19CCF55A6D42821682A939F08ABD6F13ADA )
+)
+game (
 	name "European Superleague (CDS Software LTD)"
 	description "European Superleague (CDS Software LTD)"
 	rom ( name "European Superleague (1990)(CDS Software LTD).dsk" size 194816 crc C00D99DB md5 4A7AF57C4E204F89BB135A277E5326F1 sha1 865FB9C4C9E84B4352C92E2523A6CC02716EB7C5 )
-)
-game (
-	name "European II - The European Cup (E&J Software) (Spain)"
-	description "European II - The European Cup (E&J Software) (Spain)"
-	rom ( name "European II - The European Cup (1989)(E&J Software)(es)[cr][h].dsk" size 194816 crc 1666D286 md5 3FC8365235B958040B733F4EF8601722 sha1 8DCEC19CCF55A6D42821682A939F08ABD6F13ADA )
 )
 game (
 	name "Elite (Firebird) (de)"
@@ -3911,6 +3926,11 @@ game (
 	name "Eye (Endurance Games)"
 	description "Eye (Endurance Games)"
 	rom ( name "Eye (1987)(Endurance Games).dsk" size 65743 crc 21B5A146 md5 6E13AD0415D92C8E74D54F8E1F33C48A sha1 28E069C5E88737B144552E4B73EB94DB349C1932 )
+)
+game (
+	name "Eliminator (Hewson) (Bugs)"
+	description "Eliminator (Hewson) (Bugs)"
+	rom ( name "Eliminator (1988)(Hewson)[b].dsk" size 231083 crc 773A2875 md5 24A21974B1DCCBFB3358B111D7F95021 sha1 82D9AAF7797D77A89CE5CE7394CCB75FB6DF87C1 )
 )
 game (
 	name "Emilio Butragueno Futbol (Topo Soft) (Spain)"
@@ -3956,6 +3976,11 @@ game (
 	name "Echelon (US Gold)"
 	description "Echelon (US Gold)"
 	rom ( name "Echelon (1988)(US Gold).dsk" size 220581 crc A4F72E8D md5 05EEFF21DC8D4F1574C7AB164035ED9D sha1 88365347A15BDF0FB47B08E86606DE435597F847 )
+)
+game (
+	name "Eve of Shadows (Amstrad Adventure PD Library) (Bugs)"
+	description "Eve of Shadows (Amstrad Adventure PD Library) (Bugs)"
+	rom ( name "Eve of Shadows (1991)(Amstrad Adventure PD Library)(PD)[cr][b].dsk" size 194816 crc 76132797 md5 73D2094B6D4878471289E74110449078 sha1 0BF9A1F60C39A3755BFCA6ED56B1ACDA8724E196 )
 )
 game (
 	name "Enlightenment - Druid II (Firebird)"
@@ -4101,7 +4126,6 @@ game (
 game (
 	name "F-15 Strike Eagle (Microprose Software)"
 	description "F-15 Strike Eagle (Microprose Software)"
-	rom ( name "F-15 Strike Eagle (1986)(Microprose Software)[codes].dsk" size 195379 crc 7F03A79B md5 A2E73D0006608EEF86F2DF256AC09C3B sha1 32C38EE55F3874DD169D4D6FF2A01B3D81CBE687 )
 	rom ( name "F-15 Strike Eagle (1986)(Microprose Software)[cr].dsk" size 194816 crc 45D91D85 md5 0B83FAEADEAACC4CABFBC964DBE493CF sha1 BB675A7754FE622A5D91EB29E535E808B5CD8F65 )
 )
 game (
@@ -4225,6 +4249,11 @@ game (
 	rom ( name "Fighter Command (1986)(Cascade Games)[cr].dsk" size 194816 crc 993226D2 md5 AC83DC292DADF0B051FC625BCFB70415 sha1 AC2E24FE7DA6AA5FB6E57B922A38C5200B577485 )
 )
 game (
+	name "F-15 Strike Eagle (Microprose Software) (Codes)"
+	description "F-15 Strike Eagle (Microprose Software) (Codes)"
+	rom ( name "F-15 Strike Eagle (1986)(Microprose Software)[codes].dsk" size 195379 crc 7F03A79B md5 A2E73D0006608EEF86F2DF256AC09C3B sha1 32C38EE55F3874DD169D4D6FF2A01B3D81CBE687 )
+)
+game (
 	name "Futur Racer (Amstar & Cpc) (France)"
 	description "Futur Racer (Amstar & Cpc) (France)"
 	rom ( name "Futur Racer (1989)(Amstar & Cpc)(fr)[cr].dsk" size 194816 crc 573D30B4 md5 56D9CEDCA4C10C55729DFD136830604B sha1 4C00869B374548B937B0E95233F6BEF1BDA13267 )
@@ -4278,11 +4307,6 @@ game (
 	name "Formula One (CRL Group)"
 	description "Formula One (CRL Group)"
 	rom ( name "Formula One (1985)(CRL Group)[cr].dsk" size 194816 crc D6361B0E md5 E0741D238927FD55CBBC278009503477 sha1 49CD19AE2D16FD009F3A5D0C5A02A684FF695AE6 )
-)
-game (
-	name "F-16 Combat Pilot (Digital Integration) (M3)"
-	description "F-16 Combat Pilot (Digital Integration) (M3)"
-	rom ( name "F-16 Combat Pilot (1991)(Digital Integration)(M3)[codes].dsk" size 217457 crc 36618F61 md5 5EA9F99168AB28E8A151A1E809186B20 sha1 BE45D83BA3E59987D02128CA84D4227569C01EC2 )
 )
 game (
 	name "Fire and Forget II (Titus)"
@@ -4455,6 +4479,11 @@ game (
 	rom ( name "Foso, El (1985)(Jasap Software)(es)[cr].dsk" size 194816 crc D2671F44 md5 AE28B99C86376FDF25A6735F74F8AC3A sha1 F19296D4E7E0C05F0EFB8338D9B44261F9BF92E6 )
 )
 game (
+	name "F-16 Combat Pilot (Digital Integration) (M3) (Codes)"
+	description "F-16 Combat Pilot (Digital Integration) (M3) (Codes)"
+	rom ( name "F-16 Combat Pilot (1991)(Digital Integration)(M3)[codes].dsk" size 217457 crc 36618F61 md5 5EA9F99168AB28E8A151A1E809186B20 sha1 BE45D83BA3E59987D02128CA84D4227569C01EC2 )
+)
+game (
 	name "Forgotten Worlds (US Gold)"
 	description "Forgotten Worlds (US Gold)"
 	rom ( name "Forgotten Worlds (1989)(US Gold).dsk" size 220581 crc B74E5F17 md5 04DA205C56D176C6781C576C3C3AAA20 sha1 B00E82DC769FD813DB0EC07F5F28855803D76B17 )
@@ -4547,6 +4576,11 @@ game (
 	rom ( name "Green Beret (1986)(Ocean Software).dsk" size 195635 crc BAE9BB8F md5 1097CB604930C136634D4E8219E3360F sha1 59C7F76B2AFD63D532485F5E2498D686DCD08611 )
 )
 game (
+	name "Golden Basket (Opera Soft) (Spain) (Codes)"
+	description "Golden Basket (Opera Soft) (Spain) (Codes)"
+	rom ( name "Golden Basket (1990)(Opera Soft)(es)[codes].dsk" size 219405 crc 80C97E6 md5 5D0E1A41F7BE448CB6F7F4831351A64B sha1 99837E8B9DBE156BF95E30C1DE407B36B32249A4 )
+)
+game (
 	name "Games, The - Winter Edition (US Gold)"
 	description "Games, The - Winter Edition (US Gold)"
 	rom ( name "Games, The - Winter Edition (1988)(US Gold)(Side A).dsk" size 195653 crc ED14021D md5 51EF1347E442EFF43C8164BB64923C1A sha1 904EE39A2438B7504ED8247B224D5F71BBE31A30 )
@@ -4560,18 +4594,12 @@ game (
 game (
 	name "Golden Basket (Opera Soft) (Spain)"
 	description "Golden Basket (Opera Soft) (Spain)"
-	rom ( name "Golden Basket (1990)(Opera Soft)(es)[codes].dsk" size 219405 crc 80C97E6 md5 5D0E1A41F7BE448CB6F7F4831351A64B sha1 99837E8B9DBE156BF95E30C1DE407B36B32249A4 )
 	rom ( name "Golden Basket (1990)(Opera Soft)(es)[cr].dsk" size 204544 crc D3CE1181 md5 F45F972DF3B10CCA056B45BDB0626E38 sha1 EDE6BBC561A34EE24AF6384EE28E312C912BD80A )
 )
 game (
 	name "Gremlins 2 (Topo Soft) (Spain)"
 	description "Gremlins 2 (Topo Soft) (Spain)"
 	rom ( name "Gremlins 2 (1990)(Topo Soft)(es).dsk" size 220160 crc 363985D0 md5 7A4B0B3FBCBC15FA26C11F5A0BF04B79 sha1 D2D889210E1585F39DE79CE61DA50487EDC2831F )
-)
-game (
-	name "Guillermo Tell (Opera Soft) (Spain)"
-	description "Guillermo Tell (Opera Soft) (Spain)"
-	rom ( name "Guillermo Tell (1989)(Opera Soft)(es)[LightGun].dsk" size 219405 crc 38A6771E md5 7447D26E45386DB3BC256AF6F7C04F9C sha1 0BC50B5A9E4ADA000884C2A8AFF2288D9690B52C )
 )
 game (
 	name "Gob (TJC)"
@@ -4646,8 +4674,8 @@ game (
 game (
 	name "Guild of Thieves, The (Rainbird Software)"
 	description "Guild of Thieves, The (Rainbird Software)"
-	rom ( name "Guild of Thieves, The (1988)(Rainbird Software)(Side A)[v2].dsk" size 195637 crc 429F78F6 md5 AC560E623EA571B7F52753844D854BAA sha1 9D272D0921F49D29A4DDDE9103E01DB5DFC13FC3 )
-	rom ( name "Guild of Thieves, The (1988)(Rainbird Software)(Side B)[v2].dsk" size 195637 crc E9DDD253 md5 86AEAA7626DE2DD4298CBA87D984D0A9 sha1 72024E27CA23920ACB1077A3E17C012C9A8B045C )
+	rom ( name "Guild of Thieves, The (1988)(Rainbird Software)(v2)(Side A).dsk" size 195637 crc 429F78F6 md5 AC560E623EA571B7F52753844D854BAA sha1 9D272D0921F49D29A4DDDE9103E01DB5DFC13FC3 )
+	rom ( name "Guild of Thieves, The (1988)(Rainbird Software)(v2)(Side B).dsk" size 195637 crc E9DDD253 md5 86AEAA7626DE2DD4298CBA87D984D0A9 sha1 72024E27CA23920ACB1077A3E17C012C9A8B045C )
 )
 game (
 	name "Gridrider (PC Amstrad International)"
@@ -4715,12 +4743,6 @@ game (
 	rom ( name "Gorbaf el Vikingo (1987)(Software Center)(es)[cr].dsk" size 194816 crc A4BC521A md5 21F40D2982BAC1D99F49439E91EA8BCE sha1 3FEB6E0B5619EB8427D80ADE3C5EFC2521DFB1DA )
 )
 game (
-	name "Grange Hill (1987)"
-	description "Grange Hill (1987)"
-	rom ( name "Grange Hill (S) (1987)[cr].dsk" size 194816 crc 5F83FBDD md5 233136779F1A9C608E58ADFB73513B36 sha1 BD1FD1EDC4D83AD115AFCF36294419679781A0D9 )
-	rom ( name "Grange Hill (UK) (1987)[cr][repair].dsk" size 204544 crc 9FB9DCB7 md5 FB3BAAE53253BD7E8B68729E4F6E8756 sha1 24C85D0DBFD5ED338782EC5511729EB4507DEBC7 )
-)
-game (
 	name "Gems of Stradus (Amsoft)"
 	description "Gems of Stradus (Amsoft)"
 	rom ( name "Gems of Stradus (1984)(Amsoft)[tape].dsk" size 194816 crc D2BFF6BD md5 D2CDA2AA25AB4917A3E4252D8B10DA0D sha1 9F8F0E7663827FCF3125E32E46FFA89D5B9CA352 )
@@ -4761,6 +4783,11 @@ game (
 	rom ( name "GI Hero (1988)(Firebird).dsk" size 194816 crc 1EB29361 md5 8E044A4AE09753686D189478EE51B494 sha1 EABDF9C517B4DAF30E2D4110FA6F08FAC7E42965 )
 )
 game (
+	name "Grange Hill (Grandslam) (Spain)"
+	description "Grange Hill (Grandslam) (Spain)"
+	rom ( name "Grange Hill (1987)(Grandslam)(es)[cr].dsk" size 194816 crc 5F83FBDD md5 233136779F1A9C608E58ADFB73513B36 sha1 BD1FD1EDC4D83AD115AFCF36294419679781A0D9 )
+)
+game (
 	name "Gabrielle (Ubisoft) (France)"
 	description "Gabrielle (Ubisoft) (France)"
 	rom ( name "Gabrielle (1987)(Ubisoft)(fr).dsk" size 273753 crc 20DCBF76 md5 FE270B865DB6AE7E5E6754A97A9BB919 sha1 6C9C32E13CBA67F065B9CF7697747F06C82AAFEB )
@@ -4785,7 +4812,6 @@ game (
 	name "Goody (Opera Soft) (Spain)"
 	description "Goody (Opera Soft) (Spain)"
 	rom ( name "Goody (1987)(Opera Soft)(es)[cr][f].dsk" size 81664 crc BC911BD9 md5 B3F689053F10CCC5306B611728483BA4 sha1 054C42411A96AA712C4793772995CA2E6999EF56 )
-	rom ( name "Goody (1987)(Opera Soft)(es)[b].dsk" size 81919 crc 795638DC md5 A88C6EC60C36A6332829297DDC5A55D2 sha1 4F760ECD091956D003832286771B91804B01BA36 )
 )
 game (
 	name "Garfield - Winter's Tail (The Edge Software)"
@@ -4825,7 +4851,7 @@ game (
 game (
 	name "Ghost 'n Goblins (Elite Systems)"
 	description "Ghost 'n Goblins (Elite Systems)"
-	rom ( name "Ghost 'n Goblins (1986)(Elite Systems)[v2].dsk" size 195635 crc 8CEB4FA3 md5 64FCFB91444EE65B52386EF2D4B484E2 sha1 8253E83063EA77519BC768CF6AC84B8D5B642F91 )
+	rom ( name "Ghost 'n Goblins (1986)(Elite Systems)(v2).dsk" size 195635 crc 8CEB4FA3 md5 64FCFB91444EE65B52386EF2D4B484E2 sha1 8253E83063EA77519BC768CF6AC84B8D5B642F91 )
 )
 game (
 	name "Galaxy Force (Activision)"
@@ -4842,8 +4868,6 @@ game (
 	description "Gunship (Microprose Software)"
 	rom ( name "Gunship (1988)(Microprose Software)(Side B).dsk" size 194816 crc 648096F9 md5 DBAC26F85FC8B8DC27CEB574B0F8CACB sha1 951A1209283C779DA9B3E33581A2A7DC5843BF41 )
 	rom ( name "Gunship (1988)(Microprose Software)(Side A).dsk" size 195328 crc 7F1E18B6 md5 E073EC265CC216D3399C631238B3A017 sha1 48DCF4D277E6E484153787AD20F2F24EEF97D410 )
-	rom ( name "Gunship (1988)(Microprose Software)(Side B)[fr][v3].dsk" size 195635 crc 43D7ECE6 md5 351BB17EF331F0EB9BEF7AA7AD128747 sha1 3A3D9485FC97A282C32A456B0F919E13EE3D6E87 )
-	rom ( name "Gunship (1988)(Microprose Software)(Side A)[fr][v3].dsk" size 200261 crc CA159214 md5 CB7194300C27097199D2CB321F25240D sha1 69F1C4E6C7B9FDDF07D21D1454B2EDD1DAA3851A )
 )
 game (
 	name "Gladiator (Domark)"
@@ -4934,12 +4958,18 @@ game (
 game (
 	name "Ghostbusters II (Activision)"
 	description "Ghostbusters II (Activision)"
-	rom ( name "Ghostbusters II (1989)(Activision)[v2].dsk" size 205491 crc F4EE9DE8 md5 38AC49FAB3C0916AD2C421E8B845F2C6 sha1 50F51D11A9F63BAC506FFF10DE8C2D6B73FF4ABB )
+	rom ( name "Ghostbusters II (1989)(Activision)(v2).dsk" size 205491 crc F4EE9DE8 md5 38AC49FAB3C0916AD2C421E8B845F2C6 sha1 50F51D11A9F63BAC506FFF10DE8C2D6B73FF4ABB )
 )
 game (
 	name "Gregory Loses his Clock (Mastertronic)"
 	description "Gregory Loses his Clock (Mastertronic)"
 	rom ( name "Gregory Loses his Clock (1985)(Mastertronic)[tape].dsk" size 194816 crc 651B2E79 md5 0F59D223B8994D51DB5478592FB66A46 sha1 BAD6CD409E56FB6EDD118CC553077FD129736BC9 )
+)
+game (
+	name "Gunship (Microprose Software) (France)"
+	description "Gunship (Microprose Software) (France)"
+	rom ( name "Gunship (1988)(Microprose Software)(fr)(v3)(Side A).dsk" size 200261 crc CA159214 md5 CB7194300C27097199D2CB321F25240D sha1 69F1C4E6C7B9FDDF07D21D1454B2EDD1DAA3851A )
+	rom ( name "Gunship (1988)(Microprose Software)(fr)(v3)(Side B).dsk" size 195635 crc 43D7ECE6 md5 351BB17EF331F0EB9BEF7AA7AD128747 sha1 3A3D9485FC97A282C32A456B0F919E13EE3D6E87 )
 )
 game (
 	name "Grell and Falla (Codemasters Software)"
@@ -4978,6 +5008,11 @@ game (
 	rom ( name "Ghost Hunters (1987)(Codemasters Software)[tape].dsk" size 194816 crc B131CE39 md5 EC9965BE424E78B8C321429335EDE019 sha1 4C9DB6F429CD6CDD5E73B6A286A30E8705B3B283 )
 )
 game (
+	name "Guillermo Tell (Opera Soft) (Spain) (LightGun)"
+	description "Guillermo Tell (Opera Soft) (Spain) (LightGun)"
+	rom ( name "Guillermo Tell (1989)(Opera Soft)(es)(LightGun).dsk" size 219405 crc 38A6771E md5 7447D26E45386DB3BC256AF6F7C04F9C sha1 0BC50B5A9E4ADA000884C2A8AFF2288D9690B52C )
+)
+game (
 	name "GBA Championship Basketball (Activision)"
 	description "GBA Championship Basketball (Activision)"
 	rom ( name "GBA Championship Basketball (1987)(Activision).dsk" size 70097 crc 2071CE74 md5 AACF75AE389FA67DBD14175AA97B7DF4 sha1 9B24122693DA5E6B8938DDD6434167F7980E8ACC )
@@ -4986,6 +5021,11 @@ game (
 	name "GFL Championship Football (Activision)"
 	description "GFL Championship Football (Activision)"
 	rom ( name "GFL Championship Football (1987)(Activision).dsk" size 108541 crc DC1F7BD4 md5 BECBB8F930421EB87F2182D1C3C4BFA6 sha1 5BBE1583EB0F88689135E184A13C4915E20EA067 )
+)
+game (
+	name "Goody (Opera Soft) (Spain) (Bugs)"
+	description "Goody (Opera Soft) (Spain) (Bugs)"
+	rom ( name "Goody (1987)(Opera Soft)(es)[b].dsk" size 81919 crc 795638DC md5 A88C6EC60C36A6332829297DDC5A55D2 sha1 4F760ECD091956D003832286771B91804B01BA36 )
 )
 game (
 	name "Golden Path (Amsoft)"
@@ -5026,7 +5066,7 @@ game (
 game (
 	name "Gonzzalezz (Opera Soft) (Spain)"
 	description "Gonzzalezz (Opera Soft) (Spain)"
-	rom ( name "Gonzzalezz (1989)(Opera Soft)(es)[v2].dsk" size 219407 crc B458D701 md5 9B8E1CA71C00716F36445DF26F99BB81 sha1 FFADB915B9DB0B8AD500634F08947406955B99D0 )
+	rom ( name "Gonzzalezz (1989)(Opera Soft)(es)(v2).dsk" size 219407 crc B458D701 md5 9B8E1CA71C00716F36445DF26F99BB81 sha1 FFADB915B9DB0B8AD500634F08947406955B99D0 )
 )
 game (
 	name "Grand Prix 500cc 2 (Microids)"
@@ -5094,6 +5134,12 @@ game (
 	rom ( name "Highlander (1986)(Ocean Software)[cr].dsk" size 204544 crc B6FCEDC6 md5 01B2C4CA40426B78EA12322E0558C531 sha1 49A3A24634D6B4E0E578C34594F9F56A469C0577 )
 )
 game (
+	name "Heroes of the Lance (US Gold) (Codes)"
+	description "Heroes of the Lance (US Gold) (Codes)"
+	rom ( name "Heroes of the Lance (1988)(US Gold)(Side B)[codes].dsk" size 195635 crc 593B4ABD md5 F29B8D4304826D929DBB07E56B4E07FA sha1 94BBF033276E13D6306F7D06A04AC3E9078C7178 )
+	rom ( name "Heroes of the Lance (1988)(US Gold)(Side A)[codes].dsk" size 195635 crc 5D038C8E md5 8831E872F138A36FCFE7CD7453B26065 sha1 D1510850076E5A8594C7B2F9EF611CEC62A7E492 )
+)
+game (
 	name "Hawk Storm (Players Premier)"
 	description "Hawk Storm (Players Premier)"
 	rom ( name "Hawk Storm (1990)(Players Premier)[cr].dsk" size 194816 crc 4E6C1074 md5 DCCE4506EF3E5A622C4BC4C38E89E78F sha1 E848A005C7BB27B1BAB8B13263B38CAF183AFDDC )
@@ -5137,8 +5183,8 @@ game (
 game (
 	name "Hostages - Operation Jupiter (Infogrames)"
 	description "Hostages - Operation Jupiter (Infogrames)"
-	rom ( name "Hostages - Operation Jupiter (1990)(Infogrames)(Side B)(v2).dsk" size 169984 crc 94340E6F md5 DF9F64BD18FB8CC81C40E15A14E22E97 sha1 A9E657CC23F3CD8473196EEEEF74C02D21666A22 )
-	rom ( name "Hostages - Operation Jupiter (1990)(Infogrames)(Side A)(v2).dsk" size 202315 crc 2EEE44C4 md5 7C03A55D66EFE3C13E224ED8DA4C7E02 sha1 45AB0D26FDC7E5678CCB5ECF9A5C455AF9464830 )
+	rom ( name "Hostages - Operation Jupiter (1990)(Infogrames)(v2)(Side B).dsk" size 169984 crc 94340E6F md5 DF9F64BD18FB8CC81C40E15A14E22E97 sha1 A9E657CC23F3CD8473196EEEEF74C02D21666A22 )
+	rom ( name "Hostages - Operation Jupiter (1990)(Infogrames)(v2)(Side A).dsk" size 202315 crc 2EEE44C4 md5 7C03A55D66EFE3C13E224ED8DA4C7E02 sha1 45AB0D26FDC7E5678CCB5ECF9A5C455AF9464830 )
 )
 game (
 	name "High Epidemy (FIL) (France)"
@@ -5164,12 +5210,6 @@ game (
 	name "Human Killing Machine (US Gold)"
 	description "Human Killing Machine (US Gold)"
 	rom ( name "Human Killing Machine (1989)(US Gold).dsk" size 144384 crc B9126A6E md5 E6626CD6919903FD4257CB989EE9FB60 sha1 D27521618B14B698A3F5FB0FB107254E77059BDF )
-)
-game (
-	name "Heroes of the Lance (US Gold)"
-	description "Heroes of the Lance (US Gold)"
-	rom ( name "Heroes of the Lance (1988)(US Gold)(Side B).dsk" size 195635 crc 593B4ABD md5 F29B8D4304826D929DBB07E56B4E07FA sha1 94BBF033276E13D6306F7D06A04AC3E9078C7178 )
-	rom ( name "Heroes of the Lance (1988)(US Gold)(Side A)[codes].dsk" size 195635 crc 5D038C8E md5 8831E872F138A36FCFE7CD7453B26065 sha1 D1510850076E5A8594C7B2F9EF611CEC62A7E492 )
 )
 game (
 	name "Heilige Rustung Des Antiriad, Die (Palace Software) (de)"
@@ -5283,11 +5323,6 @@ game (
 	rom ( name "Hi Q Quiz (1989)(CDS Software LTD)[cr].dsk" size 194816 crc 154002CA md5 A64398E963015D06C7536005BD794610 sha1 71BCE64517CEEFA4FF7A58C73A80EF44EEE50BCD )
 )
 game (
-	name "Hyperspace - Time-Space Adventures (Cobra Soft)"
-	description "Hyperspace - Time-Space Adventures (Cobra Soft)"
-	rom ( name "Hyperspace - Time-Space Adventures (2019)(Cobra Soft)(Hack)[cr].dsk" size 204544 crc 6F9312FA md5 A755911F5589D24B6E0DF6B4FA8E93E9 sha1 C15E1E8C0EF123AE94C1C38F6A0BB505B6102C39 )
-)
-game (
 	name "High Frontier (Activision)"
 	description "High Frontier (Activision)"
 	rom ( name "High Frontier (1987)(Activision).dsk" size 81621 crc 4D10C25D md5 AAEDE1F2DCE3047B9351A9AFFCDD76CC sha1 ABB9BE807000CC9B8F17374FF322B3FC3F1B39D2 )
@@ -5310,8 +5345,8 @@ game (
 game (
 	name "Hurlements (Ubisoft) (France)"
 	description "Hurlements (Ubisoft) (France)"
-	rom ( name "Hurlements (1988)(Ubisoft)(fr)(Side B)(v2).dsk" size 273755 crc 7FED0FD7 md5 171A772B5250C7C1512DA8468E7FFFB3 sha1 410AA53E897FCE92F91AE0B176248B7B5212F0F2 )
-	rom ( name "Hurlements (1988)(Ubisoft)(fr)(Side A)(v2).dsk" size 195635 crc 37376EBA md5 F864B9DB011C2A1CA7DC8E49B2C9CFE6 sha1 00BE6C254957810CDE3910A1BE048953A8DB4AB6 )
+	rom ( name "Hurlements (1988)(Ubisoft)(fr)(v2)(Side B).dsk" size 273755 crc 7FED0FD7 md5 171A772B5250C7C1512DA8468E7FFFB3 sha1 410AA53E897FCE92F91AE0B176248B7B5212F0F2 )
+	rom ( name "Hurlements (1988)(Ubisoft)(fr)(v2)(Side A).dsk" size 195635 crc 37376EBA md5 F864B9DB011C2A1CA7DC8E49B2C9CFE6 sha1 00BE6C254957810CDE3910A1BE048953A8DB4AB6 )
 )
 game (
 	name "Horloger 2, L' (Amsoft) (France)"
@@ -5415,14 +5450,19 @@ game (
 	rom ( name "Hawaii (1987)(Excalibur)(fr)(Side A)[cr].dsk" size 194816 crc 74B874E2 md5 9514B4289C7C7273BCF8AE7ABB18EAC3 sha1 320BFDBC8BF5B7FBA15010E5DD93C8E0820ED1F1 )
 )
 game (
-	name "Hero Quest (Gremlin Graphics Software) (Spain)"
-	description "Hero Quest (Gremlin Graphics Software) (Spain)"
-	rom ( name "Hero Quest (1991)(Gremlin Graphics Software)(es)[b].dsk" size 197120 crc 257AF370 md5 4E8081F5FECBE64076D00C5147108F6F sha1 E1F965D5B110AC346A9DD3151B9FBD38595054F6 )
+	name "Hyperspace - Time-Space Adventures (Cobra Soft) (Hack)"
+	description "Hyperspace - Time-Space Adventures (Cobra Soft) (Hack)"
+	rom ( name "Hyperspace - Time-Space Adventures (2019)(Cobra Soft)(Hack)[cr].dsk" size 204544 crc 6F9312FA md5 A755911F5589D24B6E0DF6B4FA8E93E9 sha1 C15E1E8C0EF123AE94C1C38F6A0BB505B6102C39 )
 )
 game (
 	name "Haunted Hedges (Amsoft)"
 	description "Haunted Hedges (Amsoft)"
 	rom ( name "Haunted Hedges (1984)(Amsoft)[cr].dsk" size 194816 crc E468E3E7 md5 2F2B9A747D5EA7CBD87F37BACF2DBA23 sha1 E75C2E1D51CCE08E5AB234B2A824AF69AD6F6067 )
+)
+game (
+	name "Hero Quest (Gremlin Graphics Software) (Spain) (Bugs)"
+	description "Hero Quest (Gremlin Graphics Software) (Spain) (Bugs)"
+	rom ( name "Hero Quest (1991)(Gremlin Graphics Software)(es)[b].dsk" size 197120 crc 257AF370 md5 4E8081F5FECBE64076D00C5147108F6F sha1 E1F965D5B110AC346A9DD3151B9FBD38595054F6 )
 )
 game (
 	name "Hydra (Domark)"
@@ -5486,6 +5526,11 @@ game (
 	rom ( name "Highway Patrol (1989)(Microids).dsk" size 195645 crc 2E5E1912 md5 119AC1D0A90D6E76EB271E5D120FD107 sha1 12D86F29DED8C97637FFA2B52E02629AED6448A1 )
 )
 game (
+	name "Hyperspace - Aventures Spatio-Temporelles (Cobra Soft) (Spain) (Hack)"
+	description "Hyperspace - Aventures Spatio-Temporelles (Cobra Soft) (Spain) (Hack)"
+	rom ( name "Hyperspace - Aventures Spatio-Temporelles (2018)(Cobra Soft)(es)(Hack)[cr].dsk" size 204544 crc E842BA0A md5 55CEF6169965254D7765D0A3C77D2295 sha1 FF088F0CD34D582A296ABD3EAD467E05B602BA66 )
+)
+game (
 	name "Helicoptero 2000 (Interceptor Software)"
 	description "Helicoptero 2000 (Interceptor Software)"
 	rom ( name "Helicoptero 2000 (1985)(Interceptor Software)[cr].dsk" size 194816 crc AA82FA6C md5 F4A20E0CDFEC7C4413A34084B0649901 sha1 C498145F557382551322D04278E6F07DDE52F1B1 )
@@ -5537,11 +5582,6 @@ game (
 	description "Hopital Danger (B. & J. Dissoubret) (France)"
 	rom ( name "Hopital Danger (1989)(B. & J. Dissoubret)(fr)(Side A)(PD)[cr].dsk" size 194816 crc 90668523 md5 040FBEF44CA41E52AABAA1C16F2D3439 sha1 351C3C8FC61B121F8203191A6D906D093948CA83 )
 	rom ( name "Hopital Danger (1989)(B. & J. Dissoubret)(fr)(Side B)(PD)[cr].dsk" size 215296 crc A0EF0055 md5 B09FB298B92FD92277F7CCA759BB4E00 sha1 EC063231ACA085B1CC3C4DF2232C9F1289F8A1A7 )
-)
-game (
-	name "Hyperspace - Aventures Spatio-Temporelles (Cobra Soft) (Spain)"
-	description "Hyperspace - Aventures Spatio-Temporelles (Cobra Soft) (Spain)"
-	rom ( name "Hyperspace - Aventures Spatio-Temporelles (2018)(Cobra Soft)(Hack)(es)[cr].dsk" size 204544 crc E842BA0A md5 55CEF6169965254D7765D0A3C77D2295 sha1 FF088F0CD34D582A296ABD3EAD467E05B602BA66 )
 )
 game (
 	name "Humphrey (Zigurat Software) (Spain)"
@@ -5638,8 +5678,7 @@ game (
 game (
 	name "Ikari Warriors (Elite Systems)"
 	description "Ikari Warriors (Elite Systems)"
-	rom ( name "Ikari Warriors (1988)(Elite Systems)[v2].dsk" size 195635 crc 36D943EA md5 17BF48436A87A4BF8949430863BC282B sha1 ED94853A8DDCDEAB86AE3F4B3209D65846A1AC1F )
-	rom ( name "Ikari Warriors (1988)(Elite Systems).dsk" size 112384 crc E7DF0E60 md5 F8FD927C255FFA2751462AA147E030BC sha1 75409A903CE98AEC53DA4C58301315B0B375EF3E )
+	rom ( name "Ikari Warriors (1988)(Elite Systems)(v2).dsk" size 195635 crc 36D943EA md5 17BF48436A87A4BF8949430863BC282B sha1 ED94853A8DDCDEAB86AE3F4B3209D65846A1AC1F )
 )
 game (
 	name "It's a Knockout (Ocean Software)"
@@ -5650,6 +5689,11 @@ game (
 	name "Indoor Soccer (Codemasters Software)"
 	description "Indoor Soccer (Codemasters Software)"
 	rom ( name "Indoor Soccer (1989)(Codemasters Software)[cr].dsk" size 194816 crc 779BF2AE md5 41D79047CA4ECE849B3A4BD6B40B7D28 sha1 70F61CBEB9201716AF5BF9478ED08463F190F6F3 )
+)
+game (
+	name "Indiana Jones and the Last Crusade (US Gold) (Codes)"
+	description "Indiana Jones and the Last Crusade (US Gold) (Codes)"
+	rom ( name "Indiana Jones and the Last Crusade (1989)(US Gold)(v3)[codes].dsk" size 258755 crc 586C9898 md5 E9AB5FA1CE2DDD441FA793CE7CB6F173 sha1 79D2E1F5DB163224892D85D0E5BB7C826616DFF7 )
 )
 game (
 	name "Indoor Soccer (Magnificent 7)"
@@ -5745,12 +5789,7 @@ game (
 game (
 	name "Island (WiteKB)"
 	description "Island (WiteKB)"
-	rom ( name "Island (2002)(WiteKB)[cr][pd].dsk" size 194816 crc 36182AE md5 B3A8760F651A391841CA586BB805C870 sha1 D48ABECD13F1738D3E44C72A8D892A048CCC4E4F )
-)
-game (
-	name "Indiana Jones and the Last Crusade (US Gold)"
-	description "Indiana Jones and the Last Crusade (US Gold)"
-	rom ( name "Indiana Jones and the Last Crusade (1989)(US Gold)[v3][codes].dsk" size 258755 crc 586C9898 md5 E9AB5FA1CE2DDD441FA793CE7CB6F173 sha1 79D2E1F5DB163224892D85D0E5BB7C826616DFF7 )
+	rom ( name "Island (2002)(WiteKB)(PD)[cr].dsk" size 194816 crc 36182AE md5 B3A8760F651A391841CA586BB805C870 sha1 D48ABECD13F1738D3E44C72A8D892A048CCC4E4F )
 )
 game (
 	name "Into the Eagle's Nest (Pandora)"
@@ -5785,7 +5824,7 @@ game (
 game (
 	name "International 3D Tennis (Palace Software)"
 	description "International 3D Tennis (Palace Software)"
-	rom ( name "International 3D Tennis (1990)(Palace Software)[v2].dsk" size 209843 crc E5C9F091 md5 1D17E867DE7EC5AD22A9877996873A86 sha1 DCC6409E3A29DAF901B22DB3DD90ECBF9F3D9F3D )
+	rom ( name "International 3D Tennis (1990)(Palace Software)(v2).dsk" size 209843 crc E5C9F091 md5 1D17E867DE7EC5AD22A9877996873A86 sha1 DCC6409E3A29DAF901B22DB3DD90ECBF9F3D9F3D )
 )
 game (
 	name "Inertie (Ubi Soft) (France)"
@@ -5844,6 +5883,11 @@ game (
 	rom ( name "Jungle Jane (1986)(Bug-Byte)[cr][464].dsk" size 194816 crc FF3ADA47 md5 FAB09D619CF8A2098E25D4D1AA84AE3F sha1 FBD0F88060468A8DF29F7F12D26B65C8325EC267 )
 )
 game (
+	name "Jai Alai (Opera Soft) (Spain) (Codes)"
+	description "Jai Alai (Opera Soft) (Spain) (Codes)"
+	rom ( name "Jai Alai (1991)(Opera Soft)(es)[codes].dsk" size 219405 crc E76F838A md5 E3D1D2E8990C49B9C3C85F1E06F1D006 sha1 89B3045B74E967CA7EF0A1B86F2452671A440BCD )
+)
+game (
 	name "Joe Blade 2 (Players)"
 	description "Joe Blade 2 (Players)"
 	rom ( name "Joe Blade 2 (1988)(Players)[cr].dsk" size 194816 crc C0FB0B5B md5 130B2A42FA6BC8986344EA164A4AAF9F sha1 01F50878D9DAC07CD4D1D69353AE209DC206A30C )
@@ -5874,15 +5918,10 @@ game (
 	rom ( name "Jet Bike Simulator (1988)(Codemasters Software).dsk" size 194816 crc E0DA82C4 md5 3F6798A9A0A8A1A17A730CA5FA532C3E sha1 4FDFAE41A6AF1839E5498D76EC43F47F3458F52D )
 )
 game (
-	name "Jai Alai (Opera Soft) (Spain)"
-	description "Jai Alai (Opera Soft) (Spain)"
-	rom ( name "Jai Alai (1991)(Opera Soft)(es)[codes].dsk" size 219405 crc E76F838A md5 E3D1D2E8990C49B9C3C85F1E06F1D006 sha1 89B3045B74E967CA7EF0A1B86F2452671A440BCD )
-)
-game (
 	name "Jahangir Khan World Championship Squash (Krisalis Software) (M3)"
 	description "Jahangir Khan World Championship Squash (Krisalis Software) (M3)"
-	rom ( name "Jahangir Khan World Championship Squash (1991)(Krisalis Software)(M3)(Side A)(Club).dsk" size 194816 crc F4548F27 md5 7D7F6E6AAF62B2946ADF30BCB50180DC sha1 B1BC32171CB5AC20976B1BD9740770FF315CE61B )
-	rom ( name "Jahangir Khan World Championship Squash (1991)(Krisalis Software)(M3)(Side B)(Tournament).dsk" size 194816 crc 26D80460 md5 0C427325A6DDB19F3D0E5DB43D1D532C sha1 79534BBB9DAD61210C8BB0F5B3A873D08DEFD3DC )
+	rom ( name "Jahangir Khan World Championship Squash (1991)(Krisalis Software)(M3)(Side B)[Tournament].dsk" size 194816 crc 26D80460 md5 0C427325A6DDB19F3D0E5DB43D1D532C sha1 79534BBB9DAD61210C8BB0F5B3A873D08DEFD3DC )
+	rom ( name "Jahangir Khan World Championship Squash (1991)(Krisalis Software)(M3)(Side A)[Club].dsk" size 194816 crc F4548F27 md5 7D7F6E6AAF62B2946ADF30BCB50180DC sha1 B1BC32171CB5AC20976B1BD9740770FF315CE61B )
 )
 game (
 	name "Jet-Boot Jack (Amsoft)"
@@ -5957,7 +5996,7 @@ game (
 game (
 	name "Jason of the Argonauts (The Guild)"
 	description "Jason of the Argonauts (The Guild)"
-	rom ( name "Jason of the Argonauts (1990)(The Guild)[cr][pd].dsk" size 194816 crc AFD4245E md5 FDE307D4008FA6EBC7AE610CF5BEB6A8 sha1 60017C424B0C2F3CFF3FFE85C5CCDC8C30D7F28F )
+	rom ( name "Jason of the Argonauts (1990)(The Guild)(PD)[cr].dsk" size 194816 crc AFD4245E md5 FDE307D4008FA6EBC7AE610CF5BEB6A8 sha1 60017C424B0C2F3CFF3FFE85C5CCDC8C30D7F28F )
 )
 game (
 	name "Jonah Barrington's Squash (Mastertronic)"
@@ -5967,10 +6006,10 @@ game (
 game (
 	name "Jack Nicklaus Golf (Accolade)"
 	description "Jack Nicklaus Golf (Accolade)"
-	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(Disk 2 Side B)[Desert Mountain][v2].dsk" size 194816 crc 1E427001 md5 AC6C6C9AC3A1FFC195D10F2F5213134B sha1 A5AB00EC08F3A08597FF3D81FE406286762F9590 )
-	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(Disk 1 Side B)[Greatest][v2].dsk" size 196096 crc B0EB63E7 md5 A7F40048C540FDD3FBBFE7F3F08300FE sha1 FCF720F414CB0E6913D93DBEDF8EF0F3931E8DED )
-	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(Disk 2 Side A)[Castle Pines][v2].dsk" size 194816 crc 388EA7D md5 659F7E5281CBAC61058117C15321D360 sha1 55C6D77023FABF71DB40D44B9A10F7918FC0F433 )
-	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(Disk 1 Side A)[Program][v2].dsk" size 73585 crc 3DB4AF9C md5 629CB6B30A7AA1D00DA1E5BB2BACC2FC sha1 710EE3B76F8733C382641F3F3AA2C5B479EFC8DD )
+	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(v2)(Disk 1 Side A)[Program].dsk" size 73585 crc 3DB4AF9C md5 629CB6B30A7AA1D00DA1E5BB2BACC2FC sha1 710EE3B76F8733C382641F3F3AA2C5B479EFC8DD )
+	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(v2)(Disk 1 Side B)[Greatest].dsk" size 196096 crc B0EB63E7 md5 A7F40048C540FDD3FBBFE7F3F08300FE sha1 FCF720F414CB0E6913D93DBEDF8EF0F3931E8DED )
+	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(v2)(Disk 2 Side B)[Desert Mountain].dsk" size 194816 crc 1E427001 md5 AC6C6C9AC3A1FFC195D10F2F5213134B sha1 A5AB00EC08F3A08597FF3D81FE406286762F9590 )
+	rom ( name "Jack Nicklaus Golf (1989)(Accolade)(v2)(Disk 2 Side A)[Castle Pines].dsk" size 194816 crc 388EA7D md5 659F7E5281CBAC61058117C15321D360 sha1 55C6D77023FABF71DB40D44B9A10F7918FC0F433 )
 )
 game (
 	name "Joyaux De Babylone, Les (Interceptor Software)"
@@ -6018,19 +6057,19 @@ game (
 	rom ( name "Jeux Sans Frontieres - Intervilles (1986)(Ocean Software)[cr].dsk" size 194816 crc B5D6A0D6 md5 1E3EF418F18BD3BAADDA557886570CD2 sha1 4A598EC65914078E443189C8D12FBB4A27F6C5B9 )
 )
 game (
-	name "Jeu du Roy, Le (FIL) (France)"
-	description "Jeu du Roy, Le (FIL) (France)"
-	rom ( name "Jeu du Roy, Le (1988)(FIL)(fr)[b].dsk" size 204800 crc BAC47F1 md5 48F03792E09A7A0DA7F65DA586CDA3D1 sha1 4959F43914243CB09A6DE254E21EBAFE4040CB31 )
-)
-game (
 	name "Juggernaut (CRL Group)"
 	description "Juggernaut (CRL Group)"
 	rom ( name "Juggernaut (1985)(CRL Group)[cr].dsk" size 204544 crc 43665E0D md5 9465B342567A9D2123361FD431D7F108 sha1 5D6F9CEFEB8C39542BA1A3A0BA5C76E6B3C845F2 )
 )
 game (
+	name "Jeu du Roy, Le (FIL) (France) (Bugs)"
+	description "Jeu du Roy, Le (FIL) (France) (Bugs)"
+	rom ( name "Jeu du Roy, Le (1988)(FIL)(fr)[b].dsk" size 204800 crc BAC47F1 md5 48F03792E09A7A0DA7F65DA586CDA3D1 sha1 4959F43914243CB09A6DE254E21EBAFE4040CB31 )
+)
+game (
 	name "Juego del Ahorcado (-) (M5)"
 	description "Juego del Ahorcado (-) (M5)"
-	rom ( name "Juego del Ahorcado (19xx)(-)(M5)[cr][pd].dsk" size 194816 crc BE7F2E78 md5 B633119E3CFFA79BE568CB3BE24B8B2E sha1 6C032FFC38AA60F1CA7C3FC8490747F4CCC36CB0 )
+	rom ( name "Juego del Ahorcado (19xx)(-)(PD)(M5)[cr].dsk" size 194816 crc BE7F2E78 md5 B633119E3CFFA79BE568CB3BE24B8B2E sha1 6C032FFC38AA60F1CA7C3FC8490747F4CCC36CB0 )
 )
 game (
 	name "Jammin (Amsoft)"
@@ -6072,8 +6111,14 @@ game (
 game (
 	name "Knight Games (English Software)"
 	description "Knight Games (English Software)"
-	rom ( name "Knight Games (1986)(English Software)(Side A)(v2).dsk" size 195379 crc 36C62E3A md5 41FF236F79E89983B31CF5EA4E292ABC sha1 7E8D9AB7ADBCE69C6AFEBC0295856085FEDC6B82 )
-	rom ( name "Knight Games (1986)(English Software)(Side B)(v2).dsk" size 195635 crc F6442AF9 md5 5443D3CC496B86A841851D44E4A3A5B2 sha1 00BC80191260AD521FFC4434B6769A4F405B058D )
+	rom ( name "Knight Games (1986)(English Software)(v2)(Side B).dsk" size 195635 crc F6442AF9 md5 5443D3CC496B86A841851D44E4A3A5B2 sha1 00BC80191260AD521FFC4434B6769A4F405B058D )
+	rom ( name "Knight Games (1986)(English Software)(v2)(Side A).dsk" size 195379 crc 36C62E3A md5 41FF236F79E89983B31CF5EA4E292ABC sha1 7E8D9AB7ADBCE69C6AFEBC0295856085FEDC6B82 )
+)
+game (
+	name "Knight Games (English Software) (Spain) (Hack)"
+	description "Knight Games (English Software) (Spain) (Hack)"
+	rom ( name "Knight Games (1986)(English Software)(es)(Hack)(Side B)[cr].dsk" size 204544 crc F47B9241 md5 CBDD6DEC21CE25E96CACCDCD8679072E sha1 1A5079646F72621A67794B5395474FB0F9F16C71 )
+	rom ( name "Knight Games (1986)(English Software)(es)(Hack)(Side A)[cr].dsk" size 204544 crc E0987148 md5 569A54188763B49AFB03C854D2F9822F sha1 88F80053932FEC9DB863979EE15650E1F3B4276E )
 )
 game (
 	name "K.Y.A. (Loriciels) (Spain)"
@@ -6147,6 +6192,12 @@ game (
 	rom ( name "Kobyashi Naru (1987)(Mastertronic)[cr].dsk" size 194816 crc 47F50E26 md5 E7D1C815E0B33569A92330D60737E8D7 sha1 29B36E7C20B2A53801B24DCAE1EB98505353D59A )
 )
 game (
+	name "Killer Star (Loisitech) (France) (Bugs)"
+	description "Killer Star (Loisitech) (France) (Bugs)"
+	rom ( name "Killer Star (1986)(Loisitech)(fr)(Side A)[b].dsk" size 247552 crc DC4F94CA md5 F81CC32646817B98A1F1263DE398DA5B sha1 B1D984B9373F1F7F6FD394A84B9527E2C40C233D )
+	rom ( name "Killer Star (1986)(Loisitech)(fr)(Side B)[b].dsk" size 247552 crc D447D1C4 md5 705D86D5729740F78DE2453C21529B2D sha1 9DDD8F904B437F706761383D5E84DE2B20A5775C )
+)
+game (
 	name "Kong Strikes Back (Ocean Software)"
 	description "Kong Strikes Back (Ocean Software)"
 	rom ( name "Kong Strikes Back (1984)(Ocean Software)[cr].dsk" size 194816 crc EED8EE05 md5 26D357B0F789451231B52776C4824DE0 sha1 468A11AC56446D4DBACE3B66A0F95B96358019A6 )
@@ -6172,12 +6223,6 @@ game (
 	rom ( name "Killer Cobra (1987)(Mastertronic)[cr].dsk" size 204544 crc AEE30FE7 md5 1E9FD5C7F607528F96829856B4ABAE4C sha1 ECF14E7866B0B8C8D13A901DA47E2AE714C763A8 )
 )
 game (
-	name "Knight Games (English Software) (Spain)"
-	description "Knight Games (English Software) (Spain)"
-	rom ( name "Knight Games (1986)(English Software)(es)(Hack)(Side B)[cr].dsk" size 204544 crc F47B9241 md5 CBDD6DEC21CE25E96CACCDCD8679072E sha1 1A5079646F72621A67794B5395474FB0F9F16C71 )
-	rom ( name "Knight Games (1986)(English Software)(es)(Hack)(Side A)[cr].dsk" size 204544 crc E0987148 md5 569A54188763B49AFB03C854D2F9822F sha1 88F80053932FEC9DB863979EE15650E1F3B4276E )
-)
-game (
 	name "Killed Until Dead (US Gold)"
 	description "Killed Until Dead (US Gold)"
 	rom ( name "Killed Until Dead (1987)(US Gold)(Side A).dsk" size 195379 crc C6628383 md5 56220806229D3A5322F9E2AE416687EA sha1 5D5A331AF5AAAF83C1269F0B19A380A910900675 )
@@ -6197,12 +6242,6 @@ game (
 	name "Keep Yourself Alive (Loriciels) (Spain)"
 	description "Keep Yourself Alive (Loriciels) (Spain)"
 	rom ( name "Keep Yourself Alive (1987)(Loriciels)(es).dsk" size 196147 crc AB58ECD4 md5 206AA959F31744C38FDF477120CF4C58 sha1 CCAD54E684FB4B6FCF1F9CB69F288C126BE1030F )
-)
-game (
-	name "Killer Star (Loisitech) (France)"
-	description "Killer Star (Loisitech) (France)"
-	rom ( name "Killer Star (1986)(Loisitech)(fr)(Side A)[b].dsk" size 247552 crc DC4F94CA md5 F81CC32646817B98A1F1263DE398DA5B sha1 B1D984B9373F1F7F6FD394A84B9527E2C40C233D )
-	rom ( name "Killer Star (1986)(Loisitech)(fr)(Side B)[b].dsk" size 247552 crc D447D1C4 md5 705D86D5729740F78DE2453C21529B2D sha1 9DDD8F904B437F706761383D5E84DE2B20A5775C )
 )
 game (
 	name "Kong's Revenge (Zigurat Software) (Spain)"
@@ -6340,7 +6379,7 @@ game (
 game (
 	name "Labyrinth Hall (Amstrad Adventure PD Library)"
 	description "Labyrinth Hall (Amstrad Adventure PD Library)"
-	rom ( name "Labyrinth Hall (1987)(Amstrad Adventure PD Library)[cr][pd].dsk" size 194816 crc 7DD16BD1 md5 5864627EB36397926C8AAF133DD3D457 sha1 5BF35669084BCFF7CEC0D0DA19CB09C10A27BD6D )
+	rom ( name "Labyrinth Hall (1987)(Amstrad Adventure PD Library)(PD)[cr].dsk" size 194816 crc 7DD16BD1 md5 5864627EB36397926C8AAF133DD3D457 sha1 5BF35669084BCFF7CEC0D0DA19CB09C10A27BD6D )
 )
 game (
 	name "Lifeterm (Alternative Software)"
@@ -6350,7 +6389,7 @@ game (
 game (
 	name "Lights Out (Rudiger) (France)"
 	description "Lights Out (Rudiger) (France)"
-	rom ( name "Lights Out (1997)(Rudiger)(fr)[cr][pd].dsk" size 194816 crc F2D8DFFA md5 04E65B2C24B3E3E226CFD20651ABBAE5 sha1 7F8E1D7CE76C140FB39DF22029A45C119D9E79B9 )
+	rom ( name "Lights Out (1997)(Rudiger)(fr)(PD)[cr].dsk" size 194816 crc F2D8DFFA md5 04E65B2C24B3E3E226CFD20651ABBAE5 sha1 7F8E1D7CE76C140FB39DF22029A45C119D9E79B9 )
 )
 game (
 	name "Lurking Horror, The (Infocom)"
@@ -6388,11 +6427,6 @@ game (
 	rom ( name "Liberator (1989)(Proein Soft Line).dsk" size 194816 crc 4EEC7616 md5 3FF9D91D223C4338E823F59C033409AA sha1 435CC739585D02E04FA15BAF0F8C8B6A012CE482 )
 )
 game (
-	name "Legend of Apache Gold, The (Incentive)"
-	description "Legend of Apache Gold, The (Incentive)"
-	rom ( name "Legend of Apache Gold, The (1986)(Incentive)[cr][h].dsk" size 194816 crc BBE80A27 md5 9C9FC0F1D87EB4C4FA02D7B361460832 sha1 69EE6D339742835A6A8372267C679A1BDE6C880F )
-)
-game (
 	name "Laser Squad (Blade Software) (M2)"
 	description "Laser Squad (Blade Software) (M2)"
 	rom ( name "Laser Squad (1989)(Blade Software)(M2).dsk" size 195635 crc 66ECB73B md5 0523EB171E8BC5CB897FCEE48950B788 sha1 AD617DDBCC10EE64F6E0E3410B9AC643AD035C9E )
@@ -6405,7 +6439,7 @@ game (
 game (
 	name "Loom (Arkos)"
 	description "Loom (Arkos)"
-	rom ( name "Loom (1996)(Arkos)[cr][pd].dsk" size 194816 crc 59802F2A md5 B2D896D4BB94993D3318CF56B08CDB64 sha1 AB106A5D5F0DAF503706BD27067466A3C58F6CB1 )
+	rom ( name "Loom (1996)(Arkos)(PD)[cr].dsk" size 194816 crc 59802F2A md5 B2D896D4BB94993D3318CF56B08CDB64 sha1 AB106A5D5F0DAF503706BD27067466A3C58F6CB1 )
 )
 game (
 	name "Laberinto Sultan, El (Amsoft) (Spain)"
@@ -6449,7 +6483,7 @@ game (
 game (
 	name "Lisa Strip Pot (Ludo's Software Distribution) (France)"
 	description "Lisa Strip Pot (Ludo's Software Distribution) (France)"
-	rom ( name "Lisa Strip Pot (1985)(Ludo's Software Distribution)(fr)[cr][pd].dsk" size 194816 crc D4BC3547 md5 765322F0402EC73A64F9E6B60BBAE29E sha1 4496419D5A8931DD2D86457E888FA8A52D968B3E )
+	rom ( name "Lisa Strip Pot (1985)(Ludo's Software Distribution)(PD)(fr)[cr].dsk" size 194816 crc D4BC3547 md5 765322F0402EC73A64F9E6B60BBAE29E sha1 4496419D5A8931DD2D86457E888FA8A52D968B3E )
 )
 game (
 	name "Last Duel (US Gold)"
@@ -6560,8 +6594,8 @@ game (
 game (
 	name "Legend (Delta Software) (Spain)"
 	description "Legend (Delta Software) (Spain)"
-	rom ( name "Legend (1990)(Delta Software)(es)(Side B)[v2].dsk" size 205399 crc 6BCC211 md5 D38346BD94482C5C19BD18C37C2207F3 sha1 D5F7CCB3434DF6102EEFC9FE924ECFEEDA308A81 )
-	rom ( name "Legend (1990)(Delta Software)(es)(Side A)[v2].dsk" size 205399 crc D65ED5E md5 0B4E7CE7C100DB133093AB5DAFC17A51 sha1 3D27F8B12BEE633BEE8D4E230D1249B60C809AA0 )
+	rom ( name "Legend (1990)(Delta Software)(es)(v2)(Side A).dsk" size 205399 crc D65ED5E md5 0B4E7CE7C100DB133093AB5DAFC17A51 sha1 3D27F8B12BEE633BEE8D4E230D1249B60C809AA0 )
+	rom ( name "Legend (1990)(Delta Software)(es)(v2)(Side B).dsk" size 205399 crc 6BCC211 md5 D38346BD94482C5C19BD18C37C2207F3 sha1 D5F7CCB3434DF6102EEFC9FE924ECFEEDA308A81 )
 )
 game (
 	name "Lorna (Topo Soft) (Spain)"
@@ -6602,7 +6636,7 @@ game (
 game (
 	name "Last of the Smileys (Amstrad Action)"
 	description "Last of the Smileys (Amstrad Action)"
-	rom ( name "Last of the Smileys (1995)(Amstrad Action)[cr][pd].dsk" size 194816 crc FF869F60 md5 26821DCC82A0667085E0D759ADBDBF15 sha1 93FCC7BAB3200ABE195578F999F857CEA16F1914 )
+	rom ( name "Last of the Smileys (1995)(Amstrad Action)(PD)[cr].dsk" size 194816 crc FF869F60 md5 26821DCC82A0667085E0D759ADBDBF15 sha1 93FCC7BAB3200ABE195578F999F857CEA16F1914 )
 )
 game (
 	name "Last Ninja 2 (System 3)"
@@ -6624,7 +6658,7 @@ game (
 game (
 	name "Little Game (Lojze Dolenc)"
 	description "Little Game (Lojze Dolenc)"
-	rom ( name "Little Game (1987)(Lojze Dolenc)[cr][pd].dsk" size 194816 crc 9A2BD0A6 md5 AD553DBA9C7C21A4D1C8D9206CD5D400 sha1 66EFC70BC157AA93DDE94A1CFB1001BC1F5F7580 )
+	rom ( name "Little Game (1987)(Lojze Dolenc)(PD)[cr].dsk" size 194816 crc 9A2BD0A6 md5 AD553DBA9C7C21A4D1C8D9206CD5D400 sha1 66EFC70BC157AA93DDE94A1CFB1001BC1F5F7580 )
 )
 game (
 	name "Legende (FIL) (France)"
@@ -6636,6 +6670,11 @@ game (
 	name "Lee Enfield - The Tournament Of Death (Infogrames)"
 	description "Lee Enfield - The Tournament Of Death (Infogrames)"
 	rom ( name "Lee Enfield - The Tournament Of Death (1988)(Infogrames).dsk" size 189696 crc E89E115E md5 1C89201734F9392884CC928232509482 sha1 5B32E6DB199C1610DDA96523100D00222168B7F8 )
+)
+game (
+	name "Legend of Apache Gold, The (Incentive) (Hack)"
+	description "Legend of Apache Gold, The (Incentive) (Hack)"
+	rom ( name "Legend of Apache Gold, The (1986)(Incentive)(Hack)[cr].dsk" size 194816 crc BBE80A27 md5 9C9FC0F1D87EB4C4FA02D7B361460832 sha1 69EE6D339742835A6A8372267C679A1BDE6C880F )
 )
 game (
 	name "Lord of the Rings - Game Two - Shadows of Mordor (Melbourne House)"
@@ -6684,6 +6723,12 @@ game (
 	rom ( name "North & South (1989)(Infogrames)(M3)(Side A).dsk" size 215291 crc BF564629 md5 0869365AE60F6461ACBA6D213A30E1D8 sha1 B55B5ECAB2CA14EC93C5FD437AAE82D74C741067 )
 )
 game (
+	name "Nigromante, El (Ubi Soft) (Spain) (Hack)"
+	description "Nigromante, El (Ubi Soft) (Spain) (Hack)"
+	rom ( name "Nigromante, El (2019)(Ubi Soft)(es)(Hack)(Side A)[cr].dsk" size 204544 crc EBD801CD md5 C74C20A7417892348918F9CCDE09CA63 sha1 F94850749C157968E6637BC6AE04611703A329F2 )
+	rom ( name "Nigromante, El (2019)(Ubi Soft)(es)(Hack)(Side B)[cr].dsk" size 204544 crc F7E07877 md5 997DE76E30AB6FAD2A28DB782325AB8A sha1 3646412B8FBBC231DB3072EA3AC35C9182FF80EC )
+)
+game (
 	name "Navy Moves (Dinamic Software)"
 	description "Navy Moves (Dinamic Software)"
 	rom ( name "Navy Moves (1988)(Dinamic Software).dsk" size 161431 crc 9299697C md5 F3570A26ED5F8A22E2569AB6293ED365 sha1 224567DC3DC15EAB0DF252FFE9D76072E284F1F2 )
@@ -6724,6 +6769,11 @@ game (
 	rom ( name "Nervous Break Down (1985)(Hebdogiciel)(fr)[cr].dsk" size 194816 crc 7807F952 md5 7C3551C33E159AB2A6AEBB9FFFDD3C7E sha1 CB8BD8D889840236F323E48DC642D2EC6AA01D45 )
 )
 game (
+	name "Night Gunner (Digital Integration) (M3) (Codes)"
+	description "Night Gunner (Digital Integration) (M3) (Codes)"
+	rom ( name "Night Gunner (1989)(Digital Integration)(M3)[codes].dsk" size 71168 crc 5867C8E4 md5 418F6982368E478966A4350B05CD0F24 sha1 E7FA8347C1FEEF369CFE0918B3FF908C032BCD30 )
+)
+game (
 	name "Nemesis the Warlock (Martech Games)"
 	description "Nemesis the Warlock (Martech Games)"
 	rom ( name "Nemesis the Warlock (1987)(Martech Games).dsk" size 185425 crc F5B719CC md5 C12DEB875BED79D2D9D8C76464FE20AE sha1 46C5EC1F84AC044D331A0790DE2E8E212DA3B37E )
@@ -6743,12 +6793,6 @@ game (
 	description "Narc (Ocean Software)"
 	rom ( name "Narc (1990)(Ocean Software)(Side B).dsk" size 220672 crc D9091CEC md5 2A1F3CF0A390DFBF0AC90402DB41D04A sha1 5778242A7E2A3B778165B0F1C8FF0B9274DA3867 )
 	rom ( name "Narc (1990)(Ocean Software)(Side A).dsk" size 220672 crc ADC86F57 md5 D9D56313D3FD576730C85811184606E1 sha1 5C497970E44223881EB59B1E28529F6DBE699372 )
-)
-game (
-	name "Nigromante, El (Ubi Soft) (Spain)"
-	description "Nigromante, El (Ubi Soft) (Spain)"
-	rom ( name "Nigromante, El (2019)(Ubi Soft)(es)(Hack)(Side A)[cr].dsk" size 204544 crc EBD801CD md5 C74C20A7417892348918F9CCDE09CA63 sha1 F94850749C157968E6637BC6AE04611703A329F2 )
-	rom ( name "Nigromante, El (2019)(Ubi Soft)(es)(Hack)(Side B)[cr].dsk" size 204544 crc F7E07877 md5 997DE76E30AB6FAD2A28DB782325AB8A sha1 3646412B8FBBC231DB3072EA3AC35C9182FF80EC )
 )
 game (
 	name "Netherworld (Hewson)"
@@ -6855,6 +6899,11 @@ game (
 	rom ( name "Ninja Warriors, The (1989)(Virgin Games).dsk" size 179456 crc FA3A4AD5 md5 1D9D5602BCFC5F75765A5D95DC191C1B sha1 69B813169C42CF202383EB01822583C72F544746 )
 )
 game (
+	name "Navy Moves (Dinamic Software) (Spain) (Hack)"
+	description "Navy Moves (Dinamic Software) (Spain) (Hack)"
+	rom ( name "Navy Moves (1988)(Dinamic Software)(es)(Hack)[cr].dsk" size 144896 crc ACF62400 md5 8CF09CBBF235B8DEB701C40A2ADACA8F sha1 8DF28B8ECD4A5CD051D154B2C83D1CDFCEB6330B )
+)
+game (
 	name "Nemesis (Konami)"
 	description "Nemesis (Konami)"
 	rom ( name "Nemesis (1987)(Konami).dsk" size 88231 crc B35ED50 md5 EC53DE122C1A9072EBEF116727139D5D sha1 47582BAA8EC3BB626395DB99665AA33E59E20B21 )
@@ -6875,11 +6924,6 @@ game (
 	rom ( name "Nightmare Park (1985)(Strategy Software)[cr].dsk" size 194816 crc 63916CE0 md5 93C83776E54C2404F2E856FA0C0D0B33 sha1 65FE7314C443A822C43F8B6266D2621B41063DC0 )
 )
 game (
-	name "Navy Moves (Dinamic Software) (Spain)"
-	description "Navy Moves (Dinamic Software) (Spain)"
-	rom ( name "Navy Moves (1988)(Dinamic Software)(Hack)(es)[cr].dsk" size 144896 crc ACF62400 md5 8CF09CBBF235B8DEB701C40A2ADACA8F sha1 8DF28B8ECD4A5CD051D154B2C83D1CDFCEB6330B )
-)
-game (
 	name "Night Booster (Cobra Soft) (France)"
 	description "Night Booster (Cobra Soft) (France)"
 	rom ( name "Night Booster (1985)(Cobra Soft)(fr)[cr].dsk" size 194816 crc E920B1E1 md5 490E49657418FD80B494A8A0D4325EB7 sha1 DDCD25F3DB3B83ED8698FFE3F52AD53542C1321C )
@@ -6887,7 +6931,6 @@ game (
 game (
 	name "Night Gunner (Digital Integration) (M3)"
 	description "Night Gunner (Digital Integration) (M3)"
-	rom ( name "Night Gunner (1989)(Digital Integration)(M3)[codes].dsk" size 71168 crc 5867C8E4 md5 418F6982368E478966A4350B05CD0F24 sha1 E7FA8347C1FEEF369CFE0918B3FF908C032BCD30 )
 	rom ( name "Night Gunner (1989)(Digital Integration)(M3)[cr].dsk" size 194816 crc A43EB279 md5 AA4A0503A4FF04FC7617B275037C7B37 sha1 2624BC3DAE2075A5EA2FE6EA599D2EE086A28BF7 )
 )
 game (
@@ -7020,12 +7063,6 @@ game (
 	rom ( name "Ocean Conqueror (1988)(Hewson)[cr].dsk" size 194816 crc 2B92D514 md5 FFD11FB662C161E72A1B7B88D67ED6A5 sha1 78CD2FB76D705C16C635D2803B9D4B64F3120D60 )
 )
 game (
-	name "Oeil de Set, L' (Ubisoft) (France)"
-	description "Oeil de Set, L' (Ubisoft) (France)"
-	rom ( name "Oeil de Set, L' (1987)(Ubisoft)(fr)(Side A)[v2].dsk" size 195891 crc 951A0C7D md5 3AB17C758CB14D043008FD9321C53F5E sha1 0B600CDBD52AAA350AFD85983116CDFFE663C0CD )
-	rom ( name "Oeil de Set, L' (1987)(Ubisoft)(fr)(Side B)[v2].dsk" size 195891 crc 80BF6A46 md5 57E21134EE3534BC35FD9081A58AE147 sha1 4A6067CB1CE1E1D3395C8F80C9E8D4BBF56690C8 )
-)
-game (
 	name "Oh Mummy! (Amsoft) (Spain)"
 	description "Oh Mummy! (Amsoft) (Spain)"
 	rom ( name "Oh Mummy! (1984)(Amsoft)(es)[cr].dsk" size 194816 crc 6ABD6CE2 md5 96759626D2D34028EAED2B92019806D4 sha1 D5347F4539B33F021F8E94CEC53D5F4C83CE3E7D )
@@ -7041,6 +7078,11 @@ game (
 	description "Orphee (Loriciels) (France)"
 	rom ( name "Orphee (1985)(Loriciels)(fr)(Side A).dsk" size 192033 crc 2317E673 md5 14FDC9D88B55A020F083DA9BCAEC585E sha1 7523EAAB6022E33EE82FCBC0E0F4455706F6ACE9 )
 	rom ( name "Orphee (1985)(Loriciels)(fr)(Side B).dsk" size 195635 crc A5291E8C md5 3C836A3281278AA09838FFF32B2C1C52 sha1 6AB188F8CAE52C834D472449C375916100DC8090 )
+)
+game (
+	name "Operation Wolf (Ocean Software) (LightGun)"
+	description "Operation Wolf (Ocean Software) (LightGun)"
+	rom ( name "Operation Wolf (1988)(Ocean Software)(LightGun).dsk" size 194816 crc 940D89A md5 BE8988DA2B5292DC1C6F64A56B62B9B2 sha1 2321E34A6D467E3C2484908E09D4F6EFD5A10053 )
 )
 game (
 	name "Operation Thunderbolt (Ocean Software)"
@@ -7087,13 +7129,18 @@ game (
 game (
 	name "Operation Wolf (Ocean Software)"
 	description "Operation Wolf (Ocean Software)"
-	rom ( name "Operation Wolf (1988)(Ocean Software)[LightGun].dsk" size 194816 crc 940D89A md5 BE8988DA2B5292DC1C6F64A56B62B9B2 sha1 2321E34A6D467E3C2484908E09D4F6EFD5A10053 )
 	rom ( name "Operation Wolf (1988)(Ocean Software).dsk" size 199680 crc 7C6C1E2E md5 6537D7344A9920A61847FA150C29B5BF sha1 CA1BCA757B46BC3941A9B1641EF0BA0E8B47AE8D )
 )
 game (
 	name "Orifice from Outer Space (Plasma Touch)"
 	description "Orifice from Outer Space (Plasma Touch)"
 	rom ( name "Orifice from Outer Space (19xx)(Plasma Touch)[cr].dsk" size 194816 crc C61BDDB3 md5 9F30BCE582DB26BBDAB3B89D80A36A5A sha1 37368D2D9E21DB53991AAB42F241354A51CC03A0 )
+)
+game (
+	name "Oeil de Set, L' (Ubi Soft) (France)"
+	description "Oeil de Set, L' (Ubi Soft) (France)"
+	rom ( name "Oeil de Set, L' (1987)(Ubi Soft)(fr)(v2)(Side B).dsk" size 195891 crc 80BF6A46 md5 57E21134EE3534BC35FD9081A58AE147 sha1 4A6067CB1CE1E1D3395C8F80C9E8D4BBF56690C8 )
+	rom ( name "Oeil de Set, L' (1987)(Ubi Soft)(fr)(v2)(Side A).dsk" size 195891 crc 951A0C7D md5 3AB17C758CB14D043008FD9321C53F5E sha1 0B600CDBD52AAA350AFD85983116CDFFE663C0CD )
 )
 game (
 	name "Out of This World (Ariolasoft)"
@@ -7149,6 +7196,12 @@ game (
 	name "Pyramides d'Atlantys, Les (Microids) (France)"
 	description "Pyramides d'Atlantys, Les (Microids) (France)"
 	rom ( name "Pyramides d'Atlantys, Les (1986)(Microids)(fr).dsk" size 197427 crc C4190BB5 md5 2C1443543E68492C5BD617E27E3C63EC sha1 459BD7F271B29F9B42BD37938974DE6589564CAD )
+)
+game (
+	name "Pit-Fighter (Domark) (Bugs)"
+	description "Pit-Fighter (Domark) (Bugs)"
+	rom ( name "Pit-Fighter (1991)(Domark)(Side A)[b].dsk" size 175075 crc 8AF478EB md5 DDC9FD8EDAD10AA9D2AEE609BC1C2647 sha1 1B32DC626435D15ED56CA1D87E33873856378B5E )
+	rom ( name "Pit-Fighter (1991)(Domark)(Side B)[b].dsk" size 175075 crc 1F135FE1 md5 FE59443AFBF724840DA77DF3C3BFC52C sha1 D1E1C55B931DBD3722D7FB24E25198E92733D522 )
 )
 game (
 	name "Paperboy 2 (Mindscape)"
@@ -7248,11 +7301,6 @@ game (
 	rom ( name "Profanation 2 - Escape from Abu Simbel (2017)(4Mhz).dsk" size 194816 crc 4EBC8925 md5 CBDDFF7E954B38C5B14B3F1BDDE5DAC7 sha1 F2E85017CADE5755C8F0AD77ECC0AA32D4203E53 )
 )
 game (
-	name "Poli Diaz Boxeo (Opera Soft)"
-	description "Poli Diaz Boxeo (Opera Soft)"
-	rom ( name "Poli Diaz Boxeo (1991)(Opera Soft)[o][codes].dsk" size 225807 crc C84ACED2 md5 48683CE366CD0C82DD8506C419083A0E sha1 C96DB2FF5E246F988A5FB0897A8372206A9AC947 )
-)
-game (
 	name "Poussy (Fanatic) (France)"
 	description "Poussy (Fanatic) (France)"
 	rom ( name "Poussy (1991)(Fanatic)(fr).dsk" size 204544 crc E0107438 md5 C8679CB8882533A93AF3510DC7EDD281 sha1 AF6D639EB0EB7DC86EDFB6FEDBB18BE9CA9A0C3E )
@@ -7266,6 +7314,11 @@ game (
 	name "Park Patrol (Firebird)"
 	description "Park Patrol (Firebird)"
 	rom ( name "Park Patrol (1986)(Firebird)[cr].dsk" size 194816 crc AD884F7D md5 2936DA9D31606729F2114A3AD5842ED1 sha1 13DF428B71376E97A9342CCEB68FBA8C7DAEF383 )
+)
+game (
+	name "Pro Tennis Tour (Ubi Soft) (Codes)"
+	description "Pro Tennis Tour (Ubi Soft) (Codes)"
+	rom ( name "Pro Tennis Tour (1990)(Ubi Soft)[codes].dsk" size 195637 crc 70AF3425 md5 16023110E80ECD56569F404965891DE3 sha1 1E9958D5F125FD87365F6FBD18B15908D145DC7A )
 )
 game (
 	name "Pro Golf Simulator (Codemasters Software)"
@@ -7329,6 +7382,11 @@ game (
 	rom ( name "Pang (1990)(Schneider Magazin)[cr].dsk" size 194816 crc 89D771F2 md5 DF95E5552728076F4097E0DFCCCA5CAC sha1 E5C5FF6CAA090E5BFD82C6915F1FA8C2D1917DD8 )
 )
 game (
+	name "Poli Diaz Boxeo (Opera Soft) (Codes)"
+	description "Poli Diaz Boxeo (Opera Soft) (Codes)"
+	rom ( name "Poli Diaz Boxeo (1991)(Opera Soft)[o][codes].dsk" size 225807 crc C84ACED2 md5 48683CE366CD0C82DD8506C419083A0E sha1 C96DB2FF5E246F988A5FB0897A8372206A9AC947 )
+)
+game (
 	name "Pulsator (Martech)"
 	description "Pulsator (Martech)"
 	rom ( name "Pulsator (1988)(Martech).dsk" size 194816 crc D290885B md5 7FEEF0A5464E75E9E55A41A0F2531827 sha1 343D15865BCC88ACA31B1AF0FD06126B0C24E274 )
@@ -7367,12 +7425,6 @@ game (
 	name "Phantis (Dinamic Software) (Spain)"
 	description "Phantis (Dinamic Software) (Spain)"
 	rom ( name "Phantis (1987)(Dinamic Software)(es).dsk" size 118272 crc A60EBA03 md5 1C0ECB8E54F563A921F3E7205625185A sha1 0CF13BE494C817C2C29C25F78015B8187375811E )
-)
-game (
-	name "Pit-Fighter (Domark)"
-	description "Pit-Fighter (Domark)"
-	rom ( name "Pit-Fighter (1991)(Domark)(Side A)[b].dsk" size 175075 crc 8AF478EB md5 DDC9FD8EDAD10AA9D2AEE609BC1C2647 sha1 1B32DC626435D15ED56CA1D87E33873856378B5E )
-	rom ( name "Pit-Fighter (1991)(Domark)(Side B)[b].dsk" size 175075 crc 1F135FE1 md5 FE59443AFBF724840DA77DF3C3BFC52C sha1 D1E1C55B931DBD3722D7FB24E25198E92733D522 )
 )
 game (
 	name "Plaga Galactica, La (Amsoft) (Spain)"
@@ -7475,7 +7527,6 @@ game (
 game (
 	name "Poogaboo (Opera Soft) (Spain)"
 	description "Poogaboo (Opera Soft) (Spain)"
-	rom ( name "Poogaboo (1991)(Opera Soft)(es)[o][codes].dsk" size 225805 crc 60D2E10F md5 726BEFC4266F73FA288B7515811462CA sha1 96CE269C62B9DF986F2B47E25976F1F038D52755 )
 	rom ( name "Poogaboo (1991)(Opera Soft)(es)[cr].dsk" size 204544 crc CCAF43E1 md5 BCE92C7EC06688FDC1A0989978F07DB3 sha1 A992776C457BDB7EAA9453BD4E2E371621763311 )
 )
 game (
@@ -7692,7 +7743,6 @@ game (
 	name "Pro Tennis Tour (Ubi Soft)"
 	description "Pro Tennis Tour (Ubi Soft)"
 	rom ( name "Pro Tennis Tour (1990)(Ubi Soft)[cr].dsk" size 194816 crc 7A74D9FD md5 457C29C69BAE420D7269A212E51DCE9F sha1 8BA2C08F69E1E25DF0E2F9AF031990A4A1123144 )
-	rom ( name "Pro Tennis Tour (1990)(Ubi Soft)[codes].dsk" size 195637 crc 70AF3425 md5 16023110E80ECD56569F404965891DE3 sha1 1E9958D5F125FD87365F6FBD18B15908D145DC7A )
 )
 game (
 	name "Poder Oscuro, El (Zigurat Software) (Spain)"
@@ -7742,8 +7792,8 @@ game (
 game (
 	name "Pinball Magic (Loriciels) (M2)"
 	description "Pinball Magic (Loriciels) (M2)"
-	rom ( name "Pinball Magic (1990)(Loriciels)(M2)(Side A)[v2].dsk" size 202053 crc 5DCE5C79 md5 0C3F28625ADB5B2FA777FA3452E09D11 sha1 100207C38954D2B830B4756BE1DCE933FC40B226 )
-	rom ( name "Pinball Magic (1990)(Loriciels)(M2)(Side B)[v2].dsk" size 195635 crc F5E8002E md5 944F3234A6D1C8A84DCDCA233E49CDA8 sha1 D2514A0594DE97F190B6114CAD9465888B6D1151 )
+	rom ( name "Pinball Magic (1990)(Loriciels)(M2)(v2)(Side B).dsk" size 195635 crc F5E8002E md5 944F3234A6D1C8A84DCDCA233E49CDA8 sha1 D2514A0594DE97F190B6114CAD9465888B6D1151 )
+	rom ( name "Pinball Magic (1990)(Loriciels)(M2)(v2)(Side A).dsk" size 202053 crc 5DCE5C79 md5 0C3F28625ADB5B2FA777FA3452E09D11 sha1 100207C38954D2B830B4756BE1DCE933FC40B226 )
 )
 game (
 	name "Passager du Temps, Le (ERE Informatique) (France)"
@@ -7752,15 +7802,15 @@ game (
 	rom ( name "Passager du Temps, Le (1987)(ERE Informatique)(fr)(Side A).dsk" size 198211 crc FC391FD4 md5 AD9E947114D29AF5201CF76DD2E66586 sha1 D177CB2BEA857037F667C3EC32A847AC4CD80A5B )
 )
 game (
+	name "Poogaboo (Opera Soft) (Spain) (Codes)"
+	description "Poogaboo (Opera Soft) (Spain) (Codes)"
+	rom ( name "Poogaboo (1991)(Opera Soft)(es)[o][codes].dsk" size 225805 crc 60D2E10F md5 726BEFC4266F73FA288B7515811462CA sha1 96CE269C62B9DF986F2B47E25976F1F038D52755 )
+)
+game (
 	name "Pop-Up (Loriciels) (France)"
 	description "Pop-Up (Loriciels) (France)"
 	rom ( name "Pop-Up (1990)(Loriciels)(fr)(Side A).dsk" size 195637 crc C93EB89B md5 75A3BB40274508D996CC01DC2240CCD1 sha1 B89EC901A9754836ACB31F35AFACC07EC76654B6 )
 	rom ( name "Pop-Up (1990)(Loriciels)(fr)(Side B).dsk" size 199680 crc CB25934F md5 ED7237B46045085EFC8E79282D4D6BA6 sha1 9164417B1AB8E0B4C29AF2FE6EA59EFFF4D0D2E2 )
-)
-game (
-	name "Prince de Perse (Broderbund Software) (France)"
-	description "Prince de Perse (Broderbund Software) (France)"
-	rom ( name "Prince de Perse (1990)(Broderbund Software)(fr)[codes].dsk" size 195631 crc C8C547D0 md5 4E9DDE13A7C21C99A4AA90453C199BDD sha1 FA271689E7FFFC7A98BFF69DF7FBA7B43A3191D0 )
 )
 game (
 	name "Postman Pat (Alternative Software)"
@@ -7796,6 +7846,11 @@ game (
 	name "Party Machine (Computing With The Amstrad)"
 	description "Party Machine (Computing With The Amstrad)"
 	rom ( name "Party Machine (1987)(Computing With The Amstrad)[cr].dsk" size 194816 crc 4294D4B2 md5 0E8B780FC147FC9E8D812CC9982689BA sha1 E0C843D859F01C9A5B8BBDE643D45713FCF0808A )
+)
+game (
+	name "Prince de Perse (Broderbund Software) (France) (Codes)"
+	description "Prince de Perse (Broderbund Software) (France) (Codes)"
+	rom ( name "Prince de Perse (1990)(Broderbund Software)(fr)[codes].dsk" size 195631 crc C8C547D0 md5 4E9DDE13A7C21C99A4AA90453C199BDD sha1 FA271689E7FFFC7A98BFF69DF7FBA7B43A3191D0 )
 )
 game (
 	name "Predator 2 (Image Works)"
@@ -7883,11 +7938,6 @@ game (
 	rom ( name "Qabbalah (1986)(Amsoft)[cr].dsk" size 194816 crc 3E40EB55 md5 4176DFBBB2ECDDA8FE39DBA58FBF69BF sha1 F99D7EAC1DE8296D0D52EAAF19A3936408ECEE05 )
 )
 game (
-	name "Quartet (Activision)"
-	description "Quartet (Activision)"
-	rom ( name "Quartet (1987)(Activision)[b].dsk" size 72960 crc 4F55E966 md5 58129FE8489D50C4F0472522C00CE8B1 sha1 0DE7E51B21A94958703672AD93D89B74E366E21D )
-)
-game (
 	name "Questor (Cascade Games)"
 	description "Questor (Cascade Games)"
 	rom ( name "Questor (1986)(Cascade Games).dsk" size 195635 crc 313915C9 md5 D7B64EBE23ECA726742E49D8426AFBAF sha1 C2DFA0FEA4C9F1A300F587CE1A178DC63528D7C8 )
@@ -7896,6 +7946,11 @@ game (
 	name "Question of Sport, A (Elite Systems)"
 	description "Question of Sport, A (Elite Systems)"
 	rom ( name "Question of Sport, A (1988)(Elite Systems).dsk" size 195635 crc EE8F9219 md5 43CD6A8CF28062ECF0FFE97E6C54C7C1 sha1 00512A713442E9CB055E1D0E1CD264CB29816CE6 )
+)
+game (
+	name "Quartet (Activision) (Bugs)"
+	description "Quartet (Activision) (Bugs)"
+	rom ( name "Quartet (1987)(Activision)[b].dsk" size 72960 crc 4F55E966 md5 58129FE8489D50C4F0472522C00CE8B1 sha1 0DE7E51B21A94958703672AD93D89B74E366E21D )
 )
 game (
 	name "Robocop (Ocean Software)"
@@ -8114,7 +8169,7 @@ game (
 game (
 	name "Ravening (Sylvain Guehl) (France)"
 	description "Ravening (Sylvain Guehl) (France)"
-	rom ( name "Ravening (1992)(Sylvain Guehl)(fr)[cr][pd].dsk" size 194816 crc 11D42E74 md5 49EB14400932D056FAE300C1CE98B36B sha1 C87B5F494C9C093AD86359B033A9218B88EF311F )
+	rom ( name "Ravening (1992)(Sylvain Guehl)(PD)(fr)[cr].dsk" size 194816 crc 11D42E74 md5 49EB14400932D056FAE300C1CE98B36B sha1 C87B5F494C9C093AD86359B033A9218B88EF311F )
 )
 game (
 	name "Robocop (Ocean Software) (France)"
@@ -8156,7 +8211,7 @@ game (
 game (
 	name "Ring des Lichts, Der (Frank Senft) (de)"
 	description "Ring des Lichts, Der (Frank Senft) (de)"
-	rom ( name "Ring des Lichts, Der (1997)(Frank Senft)(de)[pd].dsk" size 194816 crc ED8CBAB5 md5 9A1405C5B02DCA8F2D3F89CC5B22CEB4 sha1 AB28276659024F172AAA4F8C72F71ED85104D030 )
+	rom ( name "Ring des Lichts, Der (1997)(Frank Senft)(PD)(de).dsk" size 194816 crc ED8CBAB5 md5 9A1405C5B02DCA8F2D3F89CC5B22CEB4 sha1 AB28276659024F172AAA4F8C72F71ED85104D030 )
 )
 game (
 	name "Rex Hard (Mister Chip) (Spain)"
@@ -8206,12 +8261,12 @@ game (
 game (
 	name "Rocky Horror Show, The (CRL Group)"
 	description "Rocky Horror Show, The (CRL Group)"
-	rom ( name "Rocky Horror Show, The (1985)(CRL Group)[v1.1].dsk" size 194816 crc 658CBEF1 md5 4D9905F54F63C6A28C296E52F27A2EBB sha1 7D78E0E223DC7C286AAC42B420891A57758B3890 )
+	rom ( name "Rocky Horror Show, The (1985)(CRL Group)(v1.1).dsk" size 194816 crc 658CBEF1 md5 4D9905F54F63C6A28C296E52F27A2EBB sha1 7D78E0E223DC7C286AAC42B420891A57758B3890 )
 )
 game (
 	name "Road Runner (US Gold)"
 	description "Road Runner (US Gold)"
-	rom ( name "Road Runner (1985)(US Gold)[v2].dsk" size 200261 crc 239A14E3 md5 FA755DF9DE7438C2CE25CEC20C2CC802 sha1 DDC3E5D2B8356EDC37E891105CC7675C5C54FABA )
+	rom ( name "Road Runner (1985)(US Gold)(v2).dsk" size 200261 crc 239A14E3 md5 FA755DF9DE7438C2CE25CEC20C2CC802 sha1 DDC3E5D2B8356EDC37E891105CC7675C5C54FABA )
 )
 game (
 	name "RAM (Topo Soft) (Spain)"
@@ -8244,6 +8299,11 @@ game (
 	rom ( name "Run for Gold (1985)(Five Ways Software)[tape].dsk" size 194816 crc C0124F1 md5 CFF20397653DA93CAAEFEB1DA3D8986F sha1 C5B174179D97A7690F10E55AA8FF113D35C0A4AB )
 )
 game (
+	name "Rescue on Fractalus (Activision) (Bugs)"
+	description "Rescue on Fractalus (Activision) (Bugs)"
+	rom ( name "Rescue on Fractalus (1986)(Activision)[b].dsk" size 195379 crc 3D52FF08 md5 FE673293F15102DE72F4696BBC7D1027 sha1 8E152099125D2471DF61F6CD742363D00521B145 )
+)
+game (
 	name "Reversi - Challenger (Cobra Soft) (M2)"
 	description "Reversi - Challenger (Cobra Soft) (M2)"
 	rom ( name "Reversi - Challenger (1985)(Cobra Soft)(M2).dsk" size 199168 crc E85FAFD6 md5 8A8A215A63F1A357536D219DABEEEB9B sha1 107DAB0595664CC2483E51E9BA5187EB98BC9320 )
@@ -8262,7 +8322,7 @@ game (
 game (
 	name "Robocide (Asclepios Software)"
 	description "Robocide (Asclepios Software)"
-	rom ( name "Robocide (19xx)(Asclepios Software)[cr][pd].dsk" size 194816 crc 6E33D7E5 md5 9150491331D8B9041D50B8CEA64FE955 sha1 FA35AA1B9E4820CEB0CB26C442B77AE7E3AD0F12 )
+	rom ( name "Robocide (19xx)(Asclepios Software)(PD)[cr].dsk" size 194816 crc 6E33D7E5 md5 9150491331D8B9041D50B8CEA64FE955 sha1 FA35AA1B9E4820CEB0CB26C442B77AE7E3AD0F12 )
 )
 game (
 	name "Ralf II (CPC Infos)"
@@ -8303,8 +8363,13 @@ game (
 game (
 	name "Real Ghostbusters, The (Activision)"
 	description "Real Ghostbusters, The (Activision)"
-	rom ( name "Real Ghostbusters, The (1989)(Activision)(Side A)[v2].dsk" size 220049 crc 42FB20B8 md5 2EA35E432AF885BA0B6D3E02A1935CDE sha1 D5660EF987134897D35893F9EF9002831E306EC4 )
-	rom ( name "Real Ghostbusters, The (1989)(Activision)(Side B)[v2].dsk" size 220049 crc 68E69274 md5 6858EBFAE7CE46D05E2854F9EFA8A233 sha1 E7CEA83C1455CCADA808FC14D818BEDEA3724B90 )
+	rom ( name "Real Ghostbusters, The (1989)(Activision)(v2)(Side B).dsk" size 220049 crc 68E69274 md5 6858EBFAE7CE46D05E2854F9EFA8A233 sha1 E7CEA83C1455CCADA808FC14D818BEDEA3724B90 )
+	rom ( name "Real Ghostbusters, The (1989)(Activision)(v2)(Side A).dsk" size 220049 crc 42FB20B8 md5 2EA35E432AF885BA0B6D3E02A1935CDE sha1 D5660EF987134897D35893F9EF9002831E306EC4 )
+)
+game (
+	name "Rescate en el Golfo (Opera Soft) (M2) (Codes)"
+	description "Rescate en el Golfo (Opera Soft) (M2) (Codes)"
+	rom ( name "Rescate en el Golfo (1990)(Opera Soft)(M2)[codes].dsk" size 219405 crc F79E9E5D md5 EED1DCD6E8D35BB100C9EFD03197ED8B sha1 CAA3A72E286D2E8EBDA4E1D3D0DD33C786B826E2 )
 )
 game (
 	name "Rat Connection (MBC Informatique) (France)"
@@ -8314,7 +8379,7 @@ game (
 game (
 	name "Rygar (US Gold)"
 	description "Rygar (US Gold)"
-	rom ( name "Rygar (1987)(US Gold)[v2].dsk" size 194560 crc 558ABE44 md5 57BF5AB69D8D54295E8E8B7E459AF604 sha1 636A8669C7275FE99A3B97082987EBB49DC237B5 )
+	rom ( name "Rygar (1987)(US Gold)(v2).dsk" size 194560 crc 558ABE44 md5 57BF5AB69D8D54295E8E8B7E459AF604 sha1 636A8669C7275FE99A3B97082987EBB49DC237B5 )
 )
 game (
 	name "Ramparts (US Gold)"
@@ -8382,11 +8447,6 @@ game (
 	rom ( name "Rally (1986)(CPC)(fr)[cr].dsk" size 194816 crc 47D6FE0A md5 9AFCDC3BE92649F42E65EE46F5DAFEA9 sha1 7DBEE37EB38D681D850F4FAF7E5B6A44842506CF )
 )
 game (
-	name "Rescate en el Golfo (Opera Soft) (M2)"
-	description "Rescate en el Golfo (Opera Soft) (M2)"
-	rom ( name "Rescate en el Golfo (1990)(Opera Soft)(M2)[codes].dsk" size 219405 crc F79E9E5D md5 EED1DCD6E8D35BB100C9EFD03197ED8B sha1 CAA3A72E286D2E8EBDA4E1D3D0DD33C786B826E2 )
-)
-game (
 	name "RC Quest (Moving Pixels)"
 	description "RC Quest (Moving Pixels)"
 	rom ( name "RC Quest (1993)(Moving Pixels)[cr].dsk" size 194816 crc 465C7238 md5 6CAEF7BDD9BB98F5D483B08AAAB47BDA sha1 BD27459D13EB084E21757429402450AFC7CC98D3 )
@@ -8416,11 +8476,6 @@ game (
 	name "Roland in the Caves (Indescomp)"
 	description "Roland in the Caves (Indescomp)"
 	rom ( name "Roland in the Caves (1984)(Indescomp).dsk" size 195635 crc 371EAAC1 md5 243BB38EC1010D89FD62427DB2CFCB60 sha1 EC92DF42CDBFB807589916626206ACE94F5A4792 )
-)
-game (
-	name "Rescue on Fractalus (Activision)"
-	description "Rescue on Fractalus (Activision)"
-	rom ( name "Rescue on Fractalus (1986)(Activision)[b].dsk" size 195379 crc 3D52FF08 md5 FE673293F15102DE72F4696BBC7D1027 sha1 8E152099125D2471DF61F6CD742363D00521B145 )
 )
 game (
 	name "Rally Cross (Anco Software)"
@@ -8628,17 +8683,12 @@ game (
 game (
 	name "Sapiens (Loriciels) (France)"
 	description "Sapiens (Loriciels) (France)"
-	rom ( name "Sapiens (1986)(Loriciels)(fr)[v2].dsk" size 195635 crc 1E15C4C1 md5 5E40DC06D56ED5C75E43F456BF6F36DD sha1 D4DAD4543891796C81327BB3C89F9E2D3F21A8AD )
+	rom ( name "Sapiens (1986)(Loriciels)(fr)(v2).dsk" size 195635 crc 1E15C4C1 md5 5E40DC06D56ED5C75E43F456BF6F36DD sha1 D4DAD4543891796C81327BB3C89F9E2D3F21A8AD )
 )
 game (
 	name "Strip Takin (Eric Hiller) (France)"
 	description "Strip Takin (Eric Hiller) (France)"
 	rom ( name "Strip Takin (19xx)(Eric Hiller)(fr)[cr].dsk" size 194816 crc 2652E26E md5 BFFCD49B66FA6B2603171E1100C8ED5A sha1 90BB1E845243245E14C93981AC9A6E2B502D9B92 )
-)
-game (
-	name "Solar Invasion (Mastertronic)"
-	description "Solar Invasion (Mastertronic)"
-	rom ( name "Solar Invasion (1989)(Mastertronic)[cr][LightGun].dsk" size 194816 crc FCB65DDE md5 DA2539AC7CEF88923B8D80B7FFAFD354 sha1 6F4356C3EADF8FCC76376D130DC298147055D0A7 )
 )
 game (
 	name "Spy vs Spy III - Arctic Antics (Databyte)"
@@ -8691,6 +8741,11 @@ game (
 	rom ( name "Super Sam (1985)(Budgie)[cr].dsk" size 194816 crc 6BC6492B md5 65F6A4757598E0ADCE0E0429598E8804 sha1 5C736675B8E8968C1BEF88C95718BA76A3C3E0C0 )
 )
 game (
+	name "Shinobi - Remaster (Fmtrx) (Hack)"
+	description "Shinobi - Remaster (Fmtrx) (Hack)"
+	rom ( name "Shinobi - Remaster (1989)(Fmtrx)(v1.02)(Hack)[cr][f].dsk" size 204544 crc BD6C0AF md5 DB4B8FA88648CC9BB61F0E31656147E0 sha1 F6D93733FA223B41F4CF92131EEEA10C803897D1 )
+)
+game (
 	name "Starion (Melbourne House)"
 	description "Starion (Melbourne House)"
 	rom ( name "Starion (1985)(Melbourne House)[cr].dsk" size 204544 crc 702B10DA md5 224A867733286A756687C585A78B86B4 sha1 10865C6E35E79B165FDFAA0A3D3B97317A3F4F61 )
@@ -8704,6 +8759,16 @@ game (
 	name "Smash (PC Amstrad International)"
 	description "Smash (PC Amstrad International)"
 	rom ( name "Smash (1988)(PC Amstrad International)[cr].dsk" size 194816 crc AD8C6D7 md5 AEF5609C481951A6D6EE5598C34603F4 sha1 0125B7120079A32F6DF3DF86EDCF0394033D3429 )
+)
+game (
+	name "Solar Invasion (Mastertronic) (LightGun)"
+	description "Solar Invasion (Mastertronic) (LightGun)"
+	rom ( name "Solar Invasion (1989)(Mastertronic)(LightGun)[cr].dsk" size 194816 crc FCB65DDE md5 DA2539AC7CEF88923B8D80B7FFAFD354 sha1 6F4356C3EADF8FCC76376D130DC298147055D0A7 )
+)
+game (
+	name "Sharpes Deeds (Incentive) (Hack)"
+	description "Sharpes Deeds (Incentive) (Hack)"
+	rom ( name "Sharpes Deeds (1987)(Incentive)(Hack)[cr].dsk" size 194816 crc 9F9F22E3 md5 280E43A6BD99166152D9C06FF77035BE sha1 275AC7955ED4C4FAE513E6C634C040384342DF5C )
 )
 game (
 	name "Swords & Sorcery (PSS)"
@@ -8723,12 +8788,12 @@ game (
 game (
 	name "Secrets of Ur, The (Amstrad Adventure PD Library)"
 	description "Secrets of Ur, The (Amstrad Adventure PD Library)"
-	rom ( name "Secrets of Ur, The (19xx)(Amstrad Adventure PD Library)[cr][pd].dsk" size 194816 crc B1801FA7 md5 7A922B33F4D1E0A4801DB37A03EF382A sha1 13BC7C02EEB859E0667FAAA2687242B7434B342A )
+	rom ( name "Secrets of Ur, The (19xx)(Amstrad Adventure PD Library)(PD)[cr].dsk" size 194816 crc B1801FA7 md5 7A922B33F4D1E0A4801DB37A03EF382A sha1 13BC7C02EEB859E0667FAAA2687242B7434B342A )
 )
 game (
 	name "Super Tetris (Frequency)"
 	description "Super Tetris (Frequency)"
-	rom ( name "Super Tetris (1997)(Frequency)[cr][pd].dsk" size 194816 crc E103B180 md5 6D9CBCC5B04FDD862090CA916965AF60 sha1 3278CE02E26D1701A91546A14337AFD4660EDBE1 )
+	rom ( name "Super Tetris (1997)(Frequency)(PD)[cr].dsk" size 194816 crc E103B180 md5 6D9CBCC5B04FDD862090CA916965AF60 sha1 3278CE02E26D1701A91546A14337AFD4660EDBE1 )
 )
 game (
 	name "Stationfall (Infocom)"
@@ -8753,13 +8818,13 @@ game (
 game (
 	name "Stifflip & Co (Palace Software) (de)"
 	description "Stifflip & Co (Palace Software) (de)"
-	rom ( name "Stifflip & Co (1987)(Palace Software)(Side A)(de).dsk" size 195635 crc 2314F143 md5 C76AF4383EB21810891AB58103E33660 sha1 8F27234A45F9879C9949A6E873453FD27356153E )
-	rom ( name "Stifflip & Co (1987)(Palace Software)(Side B)(de).dsk" size 195635 crc 93C69FCD md5 A792C7E228706A5E63C62B82024382FB sha1 5FEE64226DEA81FA2EB9848CD77DD746B98EBB6A )
+	rom ( name "Stifflip & Co (1987)(Palace Software)(de)(Side A).dsk" size 195635 crc 2314F143 md5 C76AF4383EB21810891AB58103E33660 sha1 8F27234A45F9879C9949A6E873453FD27356153E )
+	rom ( name "Stifflip & Co (1987)(Palace Software)(de)(Side B).dsk" size 195635 crc 93C69FCD md5 A792C7E228706A5E63C62B82024382FB sha1 5FEE64226DEA81FA2EB9848CD77DD746B98EBB6A )
 )
 game (
 	name "Silicon Dreams (Level 9 Computing)"
 	description "Silicon Dreams (Level 9 Computing)"
-	rom ( name "Silicon Dreams (1986)(Level 9 Computing)[v2].dsk" size 195635 crc 2A17A0BE md5 516C90254E2F9D65B89E241CA6A2221D sha1 9F38C5339D7FFEA2619819B9E1844293BE280EAF )
+	rom ( name "Silicon Dreams (1986)(Level 9 Computing)(v2).dsk" size 195635 crc 2A17A0BE md5 516C90254E2F9D65B89E241CA6A2221D sha1 9F38C5339D7FFEA2619819B9E1844293BE280EAF )
 )
 game (
 	name "Silent Service (Microprose Software)"
@@ -8784,7 +8849,7 @@ game (
 game (
 	name "Sherman M4 (Loriciels) (France)"
 	description "Sherman M4 (Loriciels) (France)"
-	rom ( name "Sherman M4 (1990)(Loriciels)(fr)[v2].dsk" size 197427 crc 86E337D md5 AD5B690D93CD0EBCAA1B4FBB35CFF1CC sha1 17F1986B900A860EFE808417974F18AA493478D2 )
+	rom ( name "Sherman M4 (1990)(Loriciels)(fr)(v2).dsk" size 197427 crc 86E337D md5 AD5B690D93CD0EBCAA1B4FBB35CFF1CC sha1 17F1986B900A860EFE808417974F18AA493478D2 )
 )
 game (
 	name "Salamander (Konami)"
@@ -8799,7 +8864,7 @@ game (
 game (
 	name "Spots (Jaysoft)"
 	description "Spots (Jaysoft)"
-	rom ( name "Spots (1993)(Jaysoft)[cr][pd].dsk" size 194816 crc DA93DCB2 md5 EB3C623776888CB34BF7426EBA463E98 sha1 3A305CABC9FB432D7074DF62B8823C8D1BB20CEE )
+	rom ( name "Spots (1993)(Jaysoft)(PD)[cr].dsk" size 194816 crc DA93DCB2 md5 EB3C623776888CB34BF7426EBA463E98 sha1 3A305CABC9FB432D7074DF62B8823C8D1BB20CEE )
 )
 game (
 	name "Soldier of Light (ACE) (Spain)"
@@ -8825,11 +8890,6 @@ game (
 	name "Satelit (CPC) (France)"
 	description "Satelit (CPC) (France)"
 	rom ( name "Satelit (1988)(CPC)(fr)[cr].dsk" size 194816 crc DF1FBC63 md5 8FCDA86483FED36DE696F82FEA77E1FD sha1 2B056129931C58DB1A995FF5FF439E6B908755F7 )
-)
-game (
-	name "Super Skweek (Loriciels)"
-	description "Super Skweek (Loriciels)"
-	rom ( name "Super Skweek (1990)(Loriciels)[b].dsk" size 207360 crc 1993C727 md5 6CF7890E5C0D344CCE2715D39BE8A414 sha1 00A039FE7750834D57ED520EE9631BCBCC9892D4 )
 )
 game (
 	name "Stainless Steel (Mikrogen)"
@@ -8869,7 +8929,7 @@ game (
 game (
 	name "Scalextric (Leisure Genius) (France)"
 	description "Scalextric (Leisure Genius) (France)"
-	rom ( name "Scalextric (1987)(Leisure Genius)(fr)[v2].dsk" size 195379 crc E3FBE93F md5 E9E1C393C72FBA16B44FA6795C6E22CE sha1 24C45C399E8ADEC48582ACDF6159EF83814B3C03 )
+	rom ( name "Scalextric (1987)(Leisure Genius)(fr)(v2).dsk" size 195379 crc E3FBE93F md5 E9E1C393C72FBA16B44FA6795C6E22CE sha1 24C45C399E8ADEC48582ACDF6159EF83814B3C03 )
 )
 game (
 	name "Scramble Spirits (Grandslam)"
@@ -8885,6 +8945,11 @@ game (
 	name "Soleil Noir (Opera Soft) (France)"
 	description "Soleil Noir (Opera Soft) (France)"
 	rom ( name "Soleil Noir (1989)(Opera Soft)(fr).dsk" size 219405 crc 927F9670 md5 BEF7CCC6EE879212F401C137C7A5A8D1 sha1 0531DDF9C2104812EF166FEB8A2F924CEB5300BF )
+)
+game (
+	name "Super Skweek (Loriciels) (Bugs)"
+	description "Super Skweek (Loriciels) (Bugs)"
+	rom ( name "Super Skweek (1990)(Loriciels)[b].dsk" size 207360 crc 1993C727 md5 6CF7890E5C0D344CCE2715D39BE8A414 sha1 00A039FE7750834D57ED520EE9631BCBCC9892D4 )
 )
 game (
 	name "Slightly Magic (Codemasters Software)"
@@ -8981,12 +9046,12 @@ game (
 game (
 	name "Space Duel, The (Andreas Stroiczek) (de)"
 	description "Space Duel, The (Andreas Stroiczek) (de)"
-	rom ( name "Space Duel, The (1990)(Andreas Stroiczek)(de)[cr][pd].dsk" size 204544 crc 20FCA483 md5 8B85E3E389185197C8514C28AA58092C sha1 97107FACD127505DFCC54D116BCBAF3A6E09E215 )
+	rom ( name "Space Duel, The (1990)(Andreas Stroiczek)(PD)(de)[cr].dsk" size 204544 crc 20FCA483 md5 8B85E3E389185197C8514C28AA58092C sha1 97107FACD127505DFCC54D116BCBAF3A6E09E215 )
 )
 game (
 	name "Suicide Squad (Magazin Players Dream)"
 	description "Suicide Squad (Magazin Players Dream)"
-	rom ( name "Suicide Squad (1987)(Magazin Players Dream)[cr][pd].dsk" size 194816 crc 1984568A md5 7D5EB602C00777E2934C497EF2941D75 sha1 BC76533FEBABDD344B88608327CCDF7536703468 )
+	rom ( name "Suicide Squad (1987)(Magazin Players Dream)(PD)[cr].dsk" size 194816 crc 1984568A md5 7D5EB602C00777E2934C497EF2941D75 sha1 BC76533FEBABDD344B88608327CCDF7536703468 )
 )
 game (
 	name "Space Mission (Cascade Games)"
@@ -9043,12 +9108,12 @@ game (
 game (
 	name "Shanghai (-)"
 	description "Shanghai (-)"
-	rom ( name "Shanghai (1988)(-)[cr][pd].dsk" size 194816 crc E1FCEC53 md5 4F8A7612B7942879AAB3C0AA6C96A23E sha1 824C48344028D877064FBFED2D246551727BBF36 )
+	rom ( name "Shanghai (1988)(-)(PD)[cr].dsk" size 194816 crc E1FCEC53 md5 4F8A7612B7942879AAB3C0AA6C96A23E sha1 824C48344028D877064FBFED2D246551727BBF36 )
 )
 game (
 	name "Salva las Letras (-) (Spain)"
 	description "Salva las Letras (-) (Spain)"
-	rom ( name "Salva las Letras (19xx)(-)(es)[cr][pd].dsk" size 204544 crc 300C27DB md5 42BD54FC76305213B293D7B7BC2429DF sha1 9CC3253FE3F8520501C283CFB1994385779812A2 )
+	rom ( name "Salva las Letras (19xx)(-)(PD)(es)[cr].dsk" size 204544 crc 300C27DB md5 42BD54FC76305213B293D7B7BC2429DF sha1 9CC3253FE3F8520501C283CFB1994385779812A2 )
 )
 game (
 	name "Stomp (DK' Tronics)"
@@ -9063,17 +9128,12 @@ game (
 game (
 	name "Space Invaders Arcade Emulator (-)"
 	description "Space Invaders Arcade Emulator (-)"
-	rom ( name "Space Invaders Arcade Emulator (2017)(-)[cr][pd][v1.02].dsk" size 204544 crc FAB74DCA md5 76D17B105A0F15FD12FED1CB910E8A7E sha1 A503EC1E428934989BB6CA3628F2A82A72E996C0 )
+	rom ( name "Space Invaders Arcade Emulator (2017)(-)(PD)(v1.02)[cr].dsk" size 204544 crc FAB74DCA md5 76D17B105A0F15FD12FED1CB910E8A7E sha1 A503EC1E428934989BB6CA3628F2A82A72E996C0 )
 )
 game (
 	name "SOS 100% (Amstrad Cent Pour Cent) (France)"
 	description "SOS 100% (Amstrad Cent Pour Cent) (France)"
 	rom ( name "SOS 100% (1988)(Amstrad Cent Pour Cent)(fr)[cr].dsk" size 194816 crc 953BF28B md5 5380913357865BE2C621481F8284AFB6 sha1 A0F0684265F364111EFC4DE7E3DABFE02C2AA8BF )
-)
-game (
-	name "Strip Poker Animado (Knight Soft) (Spain)"
-	description "Strip Poker Animado (Knight Soft) (Spain)"
-	rom ( name "Strip Poker Animado (1987)(Knight Soft)(Hack)(es)[cr][f].dsk" size 194816 crc AD77EA49 md5 E71D28F77F0B32B61715BB3B61710A3E sha1 81D92C90EFBA3DCF1786CC7D33995BC19D122A38 )
 )
 game (
 	name "Saga of Erik the Viking, The (Level 9 Computing)"
@@ -9094,7 +9154,7 @@ game (
 game (
 	name "Seas of Blood (Adventure International)"
 	description "Seas of Blood (Adventure International)"
-	rom ( name "Seas of Blood (1985)(Adventure International)[cr][v2].dsk" size 194816 crc AF81D0AD md5 D8278A26D43C56CF03BA0EEFB2436B67 sha1 A546D4D32A2F05E5462F22073C3C6D901B3B0662 )
+	rom ( name "Seas of Blood (1985)(Adventure International)(v2)[cr].dsk" size 194816 crc AF81D0AD md5 D8278A26D43C56CF03BA0EEFB2436B67 sha1 A546D4D32A2F05E5462F22073C3C6D901B3B0662 )
 )
 game (
 	name "Submarino Experimental Neptuno (Ediciones Manali) (Spain)"
@@ -9124,7 +9184,6 @@ game (
 game (
 	name "Star Wars - Return Of The Jedi (Domark)"
 	description "Star Wars - Return Of The Jedi (Domark)"
-	rom ( name "Star Wars - Return Of The Jedi (1989)(Domark)(Erbe).dsk" size 97995 crc 878B15A6 md5 418A04F84FAC7E65FB6A43A3AD9C3763 sha1 857D89E348F230B735472C7FE3EF0451659D5D50 )
 	rom ( name "Star Wars - Return Of The Jedi (1989)(Domark).dsk" size 176617 crc 7434B021 md5 879B4D3B1FCD11DEA256239384C35562 sha1 4EAD6E3E76B657F271C599ED28A01E4BA5A25469 )
 )
 game (
@@ -9161,13 +9220,18 @@ game (
 game (
 	name "Stifflip & Co (Palace Software) (France)"
 	description "Stifflip & Co (Palace Software) (France)"
-	rom ( name "Stifflip & Co (1987)(Palace Software)(Side B)(fr).dsk" size 195635 crc C578D019 md5 3D138A825A3529BC5F77965115F06099 sha1 C7EF3435CF7E94DE3A692E619107F56485ECAE2D )
-	rom ( name "Stifflip & Co (1987)(Palace Software)(Side A)(fr).dsk" size 195635 crc CE0180D5 md5 AB6F73A0D4CE59C629D6B7BD2D514B65 sha1 717FAC417D56A37E8C44AF2D65221A13A238A219 )
+	rom ( name "Stifflip & Co (1987)(Palace Software)(fr)(Side A).dsk" size 195635 crc CE0180D5 md5 AB6F73A0D4CE59C629D6B7BD2D514B65 sha1 717FAC417D56A37E8C44AF2D65221A13A238A219 )
+	rom ( name "Stifflip & Co (1987)(Palace Software)(fr)(Side B).dsk" size 195635 crc C578D019 md5 3D138A825A3529BC5F77965115F06099 sha1 C7EF3435CF7E94DE3A692E619107F56485ECAE2D )
 )
 game (
 	name "Simplex 3D (Micro Mag) (France)"
 	description "Simplex 3D (Micro Mag) (France)"
 	rom ( name "Simplex 3D (1990)(Micro Mag)(fr)[cr].dsk" size 194816 crc DEA061FC md5 E267E1F6D7DE7314FDF0B09A97C19D25 sha1 B9E219C03307DC2621F3A145B5920FC1B4FC7622 )
+)
+game (
+	name "Strip Poker Animado (Knight Soft) (Spain) (Hack)"
+	description "Strip Poker Animado (Knight Soft) (Spain) (Hack)"
+	rom ( name "Strip Poker Animado (1987)(Knight Soft)(es)(Hack)[cr][f].dsk" size 194816 crc AD77EA49 md5 E71D28F77F0B32B61715BB3B61710A3E sha1 81D92C90EFBA3DCF1786CC7D33995BC19D122A38 )
 )
 game (
 	name "Scoop Junior (Generation 5) (France)"
@@ -9194,7 +9258,7 @@ game (
 game (
 	name "Smiley Affair, The (M. Dowse)"
 	description "Smiley Affair, The (M. Dowse)"
-	rom ( name "Smiley Affair, The (1993)(M. Dowse)[cr][pd].dsk" size 194816 crc B984201B md5 4DB792A9F2C37CAC53691418E45747E4 sha1 791E7C8EFBC8A71140B35888E52F922DDA9E9E70 )
+	rom ( name "Smiley Affair, The (1993)(M. Dowse)(PD)[cr].dsk" size 194816 crc B984201B md5 4DB792A9F2C37CAC53691418E45747E4 sha1 791E7C8EFBC8A71140B35888E52F922DDA9E9E70 )
 )
 game (
 	name "Seastalker (Infocom)"
@@ -9311,7 +9375,7 @@ game (
 game (
 	name "Simon Dice (Amstrad Action) (Spain)"
 	description "Simon Dice (Amstrad Action) (Spain)"
-	rom ( name "Simon Dice (19xx)(Amstrad Action)(es)[cr][pd].dsk" size 194816 crc C331B18D md5 0432A500F53823113D4800EF50B07FB6 sha1 458917BE3B00FA5ACBD3EDE7F650E1B7367C1BB9 )
+	rom ( name "Simon Dice (19xx)(Amstrad Action)(PD)(es)[cr].dsk" size 194816 crc C331B18D md5 0432A500F53823113D4800EF50B07FB6 sha1 458917BE3B00FA5ACBD3EDE7F650E1B7367C1BB9 )
 )
 game (
 	name "Solitaire (CPC) (France)"
@@ -9346,13 +9410,13 @@ game (
 game (
 	name "Swap (Fraggle)"
 	description "Swap (Fraggle)"
-	rom ( name "Swap (1992)(Fraggle)[cr][pd].dsk" size 194816 crc AE01EF0E md5 2A8CD45C70BA47C9676E99B2A091E29A sha1 3F1CB19C5DEB839E7C20CD946B8D7FBF719DEFBD )
+	rom ( name "Swap (1992)(Fraggle)(PD)[cr].dsk" size 194816 crc AE01EF0E md5 2A8CD45C70BA47C9676E99B2A091E29A sha1 3F1CB19C5DEB839E7C20CD946B8D7FBF719DEFBD )
 )
 game (
 	name "Shadows Of Sergoth, The (PD) (M3)"
 	description "Shadows Of Sergoth, The (PD) (M3)"
-	rom ( name "Shadows Of Sergoth, The (2018)(PD)(M3)(V1.0)(Side B).dsk" size 194816 crc FDF9EBC0 md5 34C9E886D4E2E43860E36D61008DBB7E sha1 7426EFE9DCFE03F0645709817DA2F82737BE5300 )
-	rom ( name "Shadows Of Sergoth, The (2018)(PD)(M3)(V1.0)(Side A).dsk" size 194816 crc 6D63F48A md5 4D6C8E980A3B1A1343BA9353396ADA5E sha1 00729F5506B22BC524F1F316C8DE8EF244485693 )
+	rom ( name "Shadows Of Sergoth, The (2018)(PD)(M3)(v1.0)(Side B).dsk" size 194816 crc FDF9EBC0 md5 34C9E886D4E2E43860E36D61008DBB7E sha1 7426EFE9DCFE03F0645709817DA2F82737BE5300 )
+	rom ( name "Shadows Of Sergoth, The (2018)(PD)(M3)(v1.0)(Side A).dsk" size 194816 crc 6D63F48A md5 4D6C8E980A3B1A1343BA9353396ADA5E sha1 00729F5506B22BC524F1F316C8DE8EF244485693 )
 )
 game (
 	name "Santa's Christmas Capers (Zeppelin Games)"
@@ -9399,6 +9463,11 @@ game (
 	name "Soko Bam (CPC Infos) (M2)"
 	description "Soko Bam (CPC Infos) (M2)"
 	rom ( name "Soko Bam (1992)(CPC Infos)(M2)[cr].dsk" size 194816 crc 9A4BCA1C md5 9F6ABB86D99EF08360B136EE38B05FD1 sha1 2CC77D6465E56B80403963359FCC19ABA01E1361 )
+)
+game (
+	name "Shackled (US Gold) (Bugs)"
+	description "Shackled (US Gold) (Bugs)"
+	rom ( name "Shackled (1988)(US Gold)[b].dsk" size 188672 crc D39EBB1D md5 F928E0F86F5F042F101494C46C10388F sha1 B5320B3531A6BFA83E2212F64C99ACB486F23EB3 )
 )
 game (
 	name "Starcross (Infocom)"
@@ -9488,7 +9557,7 @@ game (
 game (
 	name "Solomon's Key 3 v1.0 (Acid Team)"
 	description "Solomon's Key 3 v1.0 (Acid Team)"
-	rom ( name "Solomon's Key 3 v1.0 (1994)(Acid Team)[cr][pd].dsk" size 194816 crc BFE7ED34 md5 BB52571CFE9E606051B5526FE29E845F sha1 9D5DBA6878CAFC6861BB903EB4BA8CF658E1DE8B )
+	rom ( name "Solomon's Key 3 v1.0 (1994)(Acid Team)(PD)[cr].dsk" size 194816 crc BFE7ED34 md5 BB52571CFE9E606051B5526FE29E845F sha1 9D5DBA6878CAFC6861BB903EB4BA8CF658E1DE8B )
 )
 game (
 	name "Smash TV (Ocean Software)"
@@ -9555,7 +9624,6 @@ game (
 	name "Sootland (Zafiro Software Division) (Spain)"
 	description "Sootland (Zafiro Software Division) (Spain)"
 	rom ( name "Sootland (1988)(Zafiro Software Division)(es).dsk" size 194816 crc A02FD402 md5 42EDA99D08235726F3B5E3AC28A0E6E7 sha1 586D36919AB6F9E20D6F5D728404AFF53A9153C2 )
-	rom ( name "Sootland (1988)(Zafiro Software Division)(es)[lightgun].dsk" size 195635 crc 761D9413 md5 DC29222C20F60F817B2191BBCE9600DD sha1 DA3C90F586768FC86D2E15EB8D665A31F429691C )
 )
 game (
 	name "Scrounch (Hebdogiciel) (France)"
@@ -9570,7 +9638,7 @@ game (
 game (
 	name "Space Invaders (Auntie John)"
 	description "Space Invaders (Auntie John)"
-	rom ( name "Space Invaders (19xx)(Auntie John)[cr][pd].dsk" size 194816 crc CA68E112 md5 FBE190EA04B2D21EF3534C5C1890BEAA sha1 A3301E9834B8B738227308D3848C8DB79074E4CD )
+	rom ( name "Space Invaders (19xx)(Auntie John)(PD)[cr].dsk" size 194816 crc CA68E112 md5 FBE190EA04B2D21EF3534C5C1890BEAA sha1 A3301E9834B8B738227308D3848C8DB79074E4CD )
 )
 game (
 	name "Super Robin Hood (Codemasters Software)"
@@ -9654,6 +9722,11 @@ game (
 	rom ( name "Sir Fred (1986)(Zigurat)(es).dsk" size 78469 crc 92345CDE md5 C5638AEA07D27FFBB52A6CDA7FDB4051 sha1 BE8B0DDAB2F1B6EDAEC9DDAABAC13DDB47A9D1EB )
 )
 game (
+	name "Sootland (Zafiro Software Division) (Spain) (LightGun)"
+	description "Sootland (Zafiro Software Division) (Spain) (LightGun)"
+	rom ( name "Sootland (1988)(Zafiro Software Division)(es)(LightGun).dsk" size 195635 crc 761D9413 md5 DC29222C20F60F817B2191BBCE9600DD sha1 DA3C90F586768FC86D2E15EB8D665A31F429691C )
+)
+game (
 	name "Super Sapiens (Proein Soft Line) (Spain)"
 	description "Super Sapiens (Proein Soft Line) (Spain)"
 	rom ( name "Super Sapiens (1989)(Proein Soft Line)(es).dsk" size 195635 crc 1473CC7E md5 1D9E93C6181C0CD0B6150A994507C570 sha1 71399D9ABDEF4B3F9BE2447ACBD8352D154E2BC9 )
@@ -9676,7 +9749,7 @@ game (
 game (
 	name "Super Sprint (Activision)"
 	description "Super Sprint (Activision)"
-	rom ( name "Super Sprint (1987)(Activision)[v3].dsk" size 78549 crc D404B5DF md5 BF80BD20FEDAD7866D61755FAA4231FC sha1 27C81DE04F8E5590832BDF899146663785410205 )
+	rom ( name "Super Sprint (1987)(Activision)(v3).dsk" size 78549 crc D404B5DF md5 BF80BD20FEDAD7866D61755FAA4231FC sha1 27C81DE04F8E5590832BDF899146663785410205 )
 )
 game (
 	name "Spindrone (Atlantis Software)"
@@ -9686,7 +9759,7 @@ game (
 game (
 	name "Streap-Poker (Denis Mezenge) (France)"
 	description "Streap-Poker (Denis Mezenge) (France)"
-	rom ( name "Streap-Poker (1987)(Denis Mezenge)(fr)[cr][pd].dsk" size 194816 crc F122E580 md5 6A666B7A0257921BBF9265203E64202D sha1 6B67C47D500652B6D8FAF3DD87F893DDD0909C18 )
+	rom ( name "Streap-Poker (1987)(Denis Mezenge)(PD)(fr)[cr].dsk" size 194816 crc F122E580 md5 6A666B7A0257921BBF9265203E64202D sha1 6B67C47D500652B6D8FAF3DD87F893DDD0909C18 )
 )
 game (
 	name "Spiky Harold (Firebird)"
@@ -9740,6 +9813,11 @@ game (
 	rom ( name "Short Circuit (1987)(Ocean Software).dsk" size 195379 crc 61DE3BF1 md5 D99B72FCA37252D0C5496A9FF27F1D32 sha1 CFDFB8714126F1F942CE7C5B7526F59E09DA6F3C )
 )
 game (
+	name "SAS Combat Simulator (Codemasters Software) (Bugs)"
+	description "SAS Combat Simulator (Codemasters Software) (Bugs)"
+	rom ( name "SAS Combat Simulator (1988)(Codemasters Software)[b].dsk" size 73353 crc 24BBC94B md5 21D5183265125F58A9082645F89DE7AB sha1 17584468961790EDDCFE3B3330BA94C791D405C7 )
+)
+game (
 	name "Superman - The Man of Steel (Tynesoft)"
 	description "Superman - The Man of Steel (Tynesoft)"
 	rom ( name "Superman - The Man of Steel (1989)(Tynesoft)(Side B).dsk" size 194816 crc 6AE1BD8B md5 D33B9E6B2FF0D7DF0A5DB1F4FB80B64A sha1 9700432E1A56DCF8738D3CB42C4840764441DA3A )
@@ -9748,7 +9826,7 @@ game (
 game (
 	name "Swap (Microids) (M2)"
 	description "Swap (Microids) (M2)"
-	rom ( name "Swap (1990)(Microids)(M2)[v2].dsk" size 195635 crc F391FADE md5 0865C35443968B2087DD161C5BE7E86A sha1 2E6D59B0353C467A0C38E661B715CF4C7C1BCD80 )
+	rom ( name "Swap (1990)(Microids)(M2)(v2).dsk" size 195635 crc F391FADE md5 0865C35443968B2087DD161C5BE7E86A sha1 2E6D59B0353C467A0C38E661B715CF4C7C1BCD80 )
 )
 game (
 	name "Superkid (Atlantis Software)"
@@ -9763,10 +9841,10 @@ game (
 game (
 	name "Sandman, The (TGS) (de)"
 	description "Sandman, The (TGS) (de)"
-	rom ( name "Sandman, The (1995)(TGS)(Disk 1 Side B)(de)[pd].dsk" size 194816 crc 510B781B md5 84D183A580E4EDC7E2BE272ABAB22B8F sha1 63CA5B3AC4CE2DF48121D7E6160C455A439EC32C )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 2 Side B)(de)[pd].dsk" size 194816 crc AB09170E md5 2693E86AEE89FF4C77EC494221CF256F sha1 01E3E83BE7C00FF817C3C519BC322CD2215A78D3 )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 2 Side A)(de)[pd].dsk" size 194816 crc 3964FE9 md5 37BA2F7A8BA976C07A970BD9B48BD5DD sha1 B4389C2BE5D8258217C0AA2718C6914C5F0CF70C )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 1 Side A)(de)[pd].dsk" size 194816 crc E2B5B1F5 md5 0D570668CB28C47699D8F4A1639DEED3 sha1 0573EABBFA203A14E30D5CC5304A5D593AAE9566 )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(de)(Disk 1 Side B).dsk" size 194816 crc 510B781B md5 84D183A580E4EDC7E2BE272ABAB22B8F sha1 63CA5B3AC4CE2DF48121D7E6160C455A439EC32C )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(de)(Disk 2 Side A).dsk" size 194816 crc 3964FE9 md5 37BA2F7A8BA976C07A970BD9B48BD5DD sha1 B4389C2BE5D8258217C0AA2718C6914C5F0CF70C )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(de)(Disk 2 Side B).dsk" size 194816 crc AB09170E md5 2693E86AEE89FF4C77EC494221CF256F sha1 01E3E83BE7C00FF817C3C519BC322CD2215A78D3 )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(de)(Disk 1 Side A).dsk" size 194816 crc E2B5B1F5 md5 0D570668CB28C47699D8F4A1639DEED3 sha1 0573EABBFA203A14E30D5CC5304A5D593AAE9566 )
 )
 game (
 	name "Space Pod Rescue (Cascade Games)"
@@ -9776,7 +9854,7 @@ game (
 game (
 	name "Space Taxi (Elmsoft Game Service)"
 	description "Space Taxi (Elmsoft Game Service)"
-	rom ( name "Space Taxi (1987)(Elmsoft Game Service)[cr][pd].dsk" size 194816 crc 5873228B md5 B44E7759B5A01633EBBC06DA4035046F sha1 A4A30C142A4586BE1BA865CCC759B4DEC06C4CA5 )
+	rom ( name "Space Taxi (1987)(Elmsoft Game Service)(PD)[cr].dsk" size 194816 crc 5873228B md5 B44E7759B5A01633EBBC06DA4035046F sha1 A4A30C142A4586BE1BA865CCC759B4DEC06C4CA5 )
 )
 game (
 	name "Spindizzy (Activision)"
@@ -9803,11 +9881,6 @@ game (
 	name "Switchblade (Gremlin Graphics Software)"
 	description "Switchblade (Gremlin Graphics Software)"
 	rom ( name "Switchblade (1991)(Gremlin Graphics Software).dsk" size 195635 crc 2117BD08 md5 52427E663F5045DC27D83741D513ABED sha1 02E294463FEC3413364DD5F452B4F012CAB26B26 )
-)
-game (
-	name "Shinobi - Remaster (Fmtrx)"
-	description "Shinobi - Remaster (Fmtrx)"
-	rom ( name "Shinobi - Remaster (1989)(Fmtrx)[cr][h][f][v1.02].dsk" size 204544 crc BD6C0AF md5 DB4B8FA88648CC9BB61F0E31656147E0 sha1 F6D93733FA223B41F4CF92131EEEA10C803897D1 )
 )
 game (
 	name "Super Ski (Microids) (France)"
@@ -9866,12 +9939,6 @@ game (
 	rom ( name "Saint and Greavsie (1989)(Grandslam).dsk" size 221077 crc 1B9371D2 md5 AB090062B74F063D0D7D9FB53D51CE30 sha1 398A63DF37C495D3F6F894EE5D0851313121EC6D )
 )
 game (
-	name "Steve Mc Queen Westphaser (Loriciels)"
-	description "Steve Mc Queen Westphaser (Loriciels)"
-	rom ( name "Steve Mc Queen Westphaser (1992)(Loriciels)(Side B)[Phaser].dsk" size 195635 crc 75CF0CC7 md5 B404BD73CD2CAE8F5BB00797927C26E0 sha1 9FDC50AF61155C81D945601FEA68F418F456E749 )
-	rom ( name "Steve Mc Queen Westphaser (1992)(Loriciels)(Side A)[Phaser].dsk" size 202053 crc 133E8046 md5 86ADDAC8C7B3DDA3697B9AF67CBC09C3 sha1 52AF29D7D94A5560FE38C46DB2A88400CF980DA3 )
-)
-game (
 	name "Shadowfire (Beyond Software)"
 	description "Shadowfire (Beyond Software)"
 	rom ( name "Shadowfire (1986)(Beyond Software).dsk" size 200517 crc B0C72BE6 md5 7A23211A89E0D77D3130852E6179F4FA sha1 A8C95F38F0C40650753D6A97A09F1C39F1DF7D2C )
@@ -9889,20 +9956,15 @@ game (
 game (
 	name "Sandman, The (TGS)"
 	description "Sandman, The (TGS)"
-	rom ( name "Sandman, The (1995)(TGS)(Disk 2 Side A)[pd].dsk" size 194816 crc 2545F08E md5 174A7AA5CD3508AD8E96AB72956161C8 sha1 CE6FEA7E187F2E1B495FF9A8E8D7456A8969C513 )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 1 Side A)[pd].dsk" size 194816 crc B49383C1 md5 74F4612336F0C5B07F3C5AF8E00F342A sha1 2654B7E10FA810DC496BEDA977F6B682216FA16A )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 1 Side B)[pd].dsk" size 194816 crc 8189874C md5 A4436C8D5564D2C15F77210A027A85BE sha1 638C393339D13E2B6EA5B9299402E1F40A6CF292 )
-	rom ( name "Sandman, The (1995)(TGS)(Disk 2 Side B)[pd].dsk" size 194816 crc 167D042D md5 8C5D4D7921ED61061371CB1C1F3537DB sha1 EF7860D97CD82B9B0FBA80D57FC169201ED2A288 )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(Disk 1 Side A).dsk" size 194816 crc B49383C1 md5 74F4612336F0C5B07F3C5AF8E00F342A sha1 2654B7E10FA810DC496BEDA977F6B682216FA16A )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(Disk 2 Side B).dsk" size 194816 crc 167D042D md5 8C5D4D7921ED61061371CB1C1F3537DB sha1 EF7860D97CD82B9B0FBA80D57FC169201ED2A288 )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(Disk 2 Side A).dsk" size 194816 crc 2545F08E md5 174A7AA5CD3508AD8E96AB72956161C8 sha1 CE6FEA7E187F2E1B495FF9A8E8D7456A8969C513 )
+	rom ( name "Sandman, The (1995)(TGS)(PD)(Disk 1 Side B).dsk" size 194816 crc 8189874C md5 A4436C8D5564D2C15F77210A027A85BE sha1 638C393339D13E2B6EA5B9299402E1F40A6CF292 )
 )
 game (
 	name "Strider II (US Gold)"
 	description "Strider II (US Gold)"
 	rom ( name "Strider II (1990)(US Gold).dsk" size 343552 crc 5A32BD0D md5 9886B085B7E425A3A53D03684245DCFD sha1 EFDA050E27A506FDC783C28BA8B222359049A93F )
-)
-game (
-	name "Sharpes Deeds (Incentive)"
-	description "Sharpes Deeds (Incentive)"
-	rom ( name "Sharpes Deeds (1987)(Incentive)[cr][h].dsk" size 194816 crc 9F9F22E3 md5 280E43A6BD99166152D9C06FF77035BE sha1 275AC7955ED4C4FAE513E6C634C040384342DF5C )
 )
 game (
 	name "Stormlord (Hewson)"
@@ -9919,6 +9981,12 @@ game (
 	description "Silva (Lankhor) (France)"
 	rom ( name "Silva (1985)(Lankhor)(fr)(Side B).dsk" size 195635 crc 5D275E95 md5 B75B4C81CE25C4A06E8F6575DF5BE59E sha1 262595EA7044FF62E9ECFFB4C43F868D3A37BDBC )
 	rom ( name "Silva (1985)(Lankhor)(fr)(Side A).dsk" size 274009 crc 6307EB75 md5 1B0EB67E716818C4DC3B3C4B1A75AA07 sha1 D9EACECD1B04B507A2FF86B7E7717A95CF5FDE70 )
+)
+game (
+	name "Steve Mc Queen Westphaser (Loriciels) (Phaser)"
+	description "Steve Mc Queen Westphaser (Loriciels) (Phaser)"
+	rom ( name "Steve Mc Queen Westphaser (1992)(Loriciels)(West Phaser)(Side B).dsk" size 195635 crc 75CF0CC7 md5 B404BD73CD2CAE8F5BB00797927C26E0 sha1 9FDC50AF61155C81D945601FEA68F418F456E749 )
+	rom ( name "Steve Mc Queen Westphaser (1992)(Loriciels)(West Phaser)(Side A).dsk" size 202053 crc 133E8046 md5 86ADDAC8C7B3DDA3697B9AF67CBC09C3 sha1 52AF29D7D94A5560FE38C46DB2A88400CF980DA3 )
 )
 game (
 	name "Street Hawk (Ocean Software)"
@@ -9982,11 +10050,6 @@ game (
 	rom ( name "Super Hang-On (1986)(Activision).dsk" size 214283 crc 61CC737A md5 ACAEA84B86E6783C8AD6CA48789C7234 sha1 721D1139DA97C69BD97640F1CCD4896D221B02D6 )
 )
 game (
-	name "Shackled (US Gold)"
-	description "Shackled (US Gold)"
-	rom ( name "Shackled (1988)(US Gold)[b].dsk" size 188672 crc D39EBB1D md5 F928E0F86F5F042F101494C46C10388F sha1 B5320B3531A6BFA83E2212F64C99ACB486F23EB3 )
-)
-game (
 	name "Survivor (Topo Soft) (Spain)"
 	description "Survivor (Topo Soft) (Spain)"
 	rom ( name "Survivor (1987)(Topo Soft)(es)[cr].dsk" size 194816 crc 75DE79E6 md5 7012665FA638B272D9441A06FE2ACFF5 sha1 F09C67A63FB372F158FFDE5A19AC5913DADA626E )
@@ -10035,7 +10098,7 @@ game (
 game (
 	name "Sentinel, The (Firebird)"
 	description "Sentinel, The (Firebird)"
-	rom ( name "Sentinel, The (1987)(Firebird)[v2].dsk" size 200517 crc 72929B47 md5 2C362D419F0259869A2F2DAF09CE5387 sha1 04E7EEEA076F8B5EC8DD76DA3A45A5585F0D359A )
+	rom ( name "Sentinel, The (1987)(Firebird)(v2).dsk" size 200517 crc 72929B47 md5 2C362D419F0259869A2F2DAF09CE5387 sha1 04E7EEEA076F8B5EC8DD76DA3A45A5585F0D359A )
 )
 game (
 	name "Strike Force Cobra (Piranha)"
@@ -10086,7 +10149,7 @@ game (
 game (
 	name "Space Moves (Retrobytes Productions)"
 	description "Space Moves (Retrobytes Productions)"
-	rom ( name "Space Moves (2020)(Retrobytes Productions)[v2.2].dsk" size 204544 crc 49586E15 md5 A2861E50D94A465A9D8788A0D61F5147 sha1 FC5EA157BD93D8C8F9F3E8BC4F3C6C0C3FC2995E )
+	rom ( name "Space Moves (2020)(Retrobytes Productions)(v2.2).dsk" size 204544 crc 49586E15 md5 A2861E50D94A465A9D8788A0D61F5147 sha1 FC5EA157BD93D8C8F9F3E8BC4F3C6C0C3FC2995E )
 )
 game (
 	name "Stretcher (Pipeline Software)"
@@ -10108,11 +10171,6 @@ game (
 	name "Shinobi (Virgin Games)"
 	description "Shinobi (Virgin Games)"
 	rom ( name "Shinobi (1989)(Virgin Games).dsk" size 171687 crc 6F1E3EB0 md5 9022A787A62D062A448D06011AAB2E74 sha1 0A06C208B7A22BB17C970162DC599E8E2331D9B7 )
-)
-game (
-	name "SAS Combat Simulator (Codemasters Software)"
-	description "SAS Combat Simulator (Codemasters Software)"
-	rom ( name "SAS Combat Simulator (1988)(Codemasters Software)[b].dsk" size 73353 crc 24BBC94B md5 21D5183265125F58A9082645F89DE7AB sha1 17584468961790EDDCFE3B3330BA94C791D405C7 )
 )
 game (
 	name "Saracen (US Gold)"
@@ -10137,7 +10195,7 @@ game (
 game (
 	name "Seymour - Take One (Codemasters Software)"
 	description "Seymour - Take One (Codemasters Software)"
-	rom ( name "Seymour - Take One (1991)(Codemasters Software)[cr][pd].dsk" size 194816 crc C65A5218 md5 373B3C7F1DDAABAAC48000CE35F3DB20 sha1 E1D95568355BFEEB6E8D25DE701C0776849D4848 )
+	rom ( name "Seymour - Take One (1991)(Codemasters Software)(PD)[cr].dsk" size 194816 crc C65A5218 md5 373B3C7F1DDAABAAC48000CE35F3DB20 sha1 E1D95568355BFEEB6E8D25DE701C0776849D4848 )
 )
 game (
 	name "Space Moves (cpcretrodev.byterealms) (Spain)"
@@ -10167,7 +10225,7 @@ game (
 game (
 	name "Strike Force Harrier (Mirrorsoft)"
 	description "Strike Force Harrier (Mirrorsoft)"
-	rom ( name "Strike Force Harrier (1986)(Mirrorsoft)[v2].dsk" size 133901 crc B7B1A995 md5 7AF97A36FB29DEDC398E26EA14F78850 sha1 DBD34F10EB981C06D12EF2B0E1DFC4DC0B1CFC62 )
+	rom ( name "Strike Force Harrier (1986)(Mirrorsoft)(v2).dsk" size 133901 crc B7B1A995 md5 7AF97A36FB29DEDC398E26EA14F78850 sha1 DBD34F10EB981C06D12EF2B0E1DFC4DC0B1CFC62 )
 )
 game (
 	name "Super Scramble Simulator (Gremlin Graphics Software)"
@@ -10177,8 +10235,8 @@ game (
 game (
 	name "Simpsons - Bart vs the Space Mutants (Ocean Software)"
 	description "Simpsons - Bart vs the Space Mutants (Ocean Software)"
-	rom ( name "Simpsons - Bart vs the Space Mutants (1991)(Ocean Software)(Side B)[v2].dsk" size 120585 crc 627F4ACF md5 2C70D33EE3D0EFFEFA434E311330B59A sha1 0B5E67AF5FD927A52A7078ED1847494FFF841CF9 )
-	rom ( name "Simpsons - Bart vs the Space Mutants (1991)(Ocean Software)(Side A)[v2].dsk" size 190733 crc CC5F46B2 md5 843D47B8560B62D8C4972A90409263C9 sha1 0DBF925D52E52BF0B6B82DEBEE570D3D1424623F )
+	rom ( name "Simpsons - Bart vs the Space Mutants (1991)(Ocean Software)(v2)(Side B).dsk" size 120585 crc 627F4ACF md5 2C70D33EE3D0EFFEFA434E311330B59A sha1 0B5E67AF5FD927A52A7078ED1847494FFF841CF9 )
+	rom ( name "Simpsons - Bart vs the Space Mutants (1991)(Ocean Software)(v2)(Side A).dsk" size 190733 crc CC5F46B2 md5 843D47B8560B62D8C4972A90409263C9 sha1 0DBF925D52E52BF0B6B82DEBEE570D3D1424623F )
 )
 game (
 	name "Snakes and Hazards (Gremlin Graphics Software)"
@@ -10188,7 +10246,7 @@ game (
 game (
 	name "Space Invaders (-)"
 	description "Space Invaders (-)"
-	rom ( name "Space Invaders (19xx)(-)[cr][pd].dsk" size 204544 crc 74901F54 md5 CBDACEC39F18AA1E0C420AE7ECF03C5D sha1 B50AFC823AB46CC71A667AD06A6C11C7AAF323EA )
+	rom ( name "Space Invaders (19xx)(-)(PD)[cr].dsk" size 204544 crc 74901F54 md5 CBDACEC39F18AA1E0C420AE7ECF03C5D sha1 B50AFC823AB46CC71A667AD06A6C11C7AAF323EA )
 )
 game (
 	name "Space Ace (Players)"
@@ -10248,7 +10306,6 @@ game (
 game (
 	name "Tomahawk (Digital Integration) (M3)"
 	description "Tomahawk (Digital Integration) (M3)"
-	rom ( name "Tomahawk (1986)(Digital Integration)(M3)[codes].dsk" size 146944 crc 34BC560D md5 BDA71CFF3ABCBBF524547741617002CA sha1 B4555361B49779A45BCB0B724F67BCE14D3F0F6D )
 	rom ( name "Tomahawk (1986)(Digital Integration)(M3)[cr].dsk" size 194816 crc FA94714B md5 70F9646F909D27507DF8F80A4AFD5648 sha1 9D54281A3840828B335698DE17674B6358C1124E )
 )
 game (
@@ -10302,11 +10359,6 @@ game (
 	rom ( name "Thai Boxing (1986)(Anco Software).dsk" size 195379 crc A0A42352 md5 6E52EDBF4CF3758FAF89267F59071131 sha1 4BFF1E54B87CF3067E3630A8F20CAC86F34D0D48 )
 )
 game (
-	name "Trigger (Opera Soft) (Spain)"
-	description "Trigger (Opera Soft) (Spain)"
-	rom ( name "Trigger (1989)(Opera Soft)(es)[lightgun].dsk" size 218880 crc 94AA6CF3 md5 20DF8860FFDFAED60CEFEF610B21D6A1 sha1 C5517C155DF20CE8DCEE465E8A280527AB389865 )
-)
-game (
 	name "Trailblazer (Gremlin Graphics Software)"
 	description "Trailblazer (Gremlin Graphics Software)"
 	rom ( name "Trailblazer (1986)(Gremlin Graphics Software).dsk" size 176103 crc CD0A0395 md5 966982B06A23775571072936424897AC sha1 55675605D28DF044D3AADF300CEBEAD362EDD350 )
@@ -10314,7 +10366,7 @@ game (
 game (
 	name "Tarzan (Martech)"
 	description "Tarzan (Martech)"
-	rom ( name "Tarzan (1986)(Martech)[v2].dsk" size 95965 crc 594266D7 md5 7B25331544825C0B20DE1633F530D246 sha1 C41800EE57FA7930D70CCE2705B89C89DC69CDAD )
+	rom ( name "Tarzan (1986)(Martech)(v2).dsk" size 95965 crc 594266D7 md5 7B25331544825C0B20DE1633F530D246 sha1 C41800EE57FA7930D70CCE2705B89C89DC69CDAD )
 )
 game (
 	name "Touchdown USA (Creative Sparks)"
@@ -10357,9 +10409,9 @@ game (
 	rom ( name "Tour du Mond en 80 Jours, Le (1984)(Innelec)(fr)[cr].dsk" size 194816 crc 1F645AF md5 ED136F64CC707C806FBDC538B8634957 sha1 9BEFDD2CD2A2329C27A0A9B46CA1B20AD7D28964 )
 )
 game (
-	name "Tomb of Kuslak, The (Intrigue Software) (Spain)"
-	description "Tomb of Kuslak, The (Intrigue Software) (Spain)"
-	rom ( name "Tomb of Kuslak, The (2020)(Intrigue Software)(Hack)(es)[cr].dsk" size 204544 crc B3B42030 md5 9A17EC92F17A74B727D744A53CEF380D sha1 5600AF8F06B81C93B7B914079FD3E3828FB2DAC2 )
+	name "Teenage Mutant Hero Turtles (Image Works) (Codes)"
+	description "Teenage Mutant Hero Turtles (Image Works) (Codes)"
+	rom ( name "Teenage Mutant Hero Turtles (1990)(Image Works)[codes].dsk" size 195635 crc CA4F0B5 md5 C1FE41E57723995412EE8DCAC4D7D0BA sha1 48A1B16EDA671A291B75D9938F23E06B3CD6E88B )
 )
 game (
 	name "Thrust (Firebird)"
@@ -10409,7 +10461,7 @@ game (
 game (
 	name "Trivia (Anirog Software) (de)"
 	description "Trivia (Anirog Software) (de)"
-	rom ( name "Trivia (1985)(Anirog Software)(Side B)(de).dsk" size 195635 crc A7915C1C md5 AFCFAFE23B33DE4A582052781A7A38CF sha1 CC2C372D04C23B2648D51D4EDD3B922C73EB0E03 )
+	rom ( name "Trivia (1985)(Anirog Software)(de)(Side B).dsk" size 195635 crc A7915C1C md5 AFCFAFE23B33DE4A582052781A7A38CF sha1 CC2C372D04C23B2648D51D4EDD3B922C73EB0E03 )
 )
 game (
 	name "Target Renegade (Ocean Software)"
@@ -10424,8 +10476,8 @@ game (
 game (
 	name "Trivial Pursuit - Edition Genius (Domark) (Spain)"
 	description "Trivial Pursuit - Edition Genius (Domark) (Spain)"
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side B)(es).dsk" size 194816 crc A55BB48D md5 4D1B4BE5E97094729FB6E9D596D280F7 sha1 F9B815C1C50B621C57B87E68091A37FA12C9C17D )
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side A)(es).dsk" size 111872 crc 7638271C md5 0D0C81567AADC1513BC0AD443E903950 sha1 2FB698D0A7EDAFAB89F9F1E58896B02138F72985 )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(es)(Side A).dsk" size 111872 crc 7638271C md5 0D0C81567AADC1513BC0AD443E903950 sha1 2FB698D0A7EDAFAB89F9F1E58896B02138F72985 )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(es)(Side B).dsk" size 194816 crc A55BB48D md5 4D1B4BE5E97094729FB6E9D596D280F7 sha1 F9B815C1C50B621C57B87E68091A37FA12C9C17D )
 )
 game (
 	name "Tetris (Mirrorsoft)"
@@ -10445,7 +10497,7 @@ game (
 game (
 	name "Terminator 2 - Judgement Day (Ocean Software)"
 	description "Terminator 2 - Judgement Day (Ocean Software)"
-	rom ( name "Terminator 2 - Judgement Day (1991)(Ocean Software)[v2].dsk" size 217457 crc F938D725 md5 2FA89E067B627FB72FEBBD003A0CE8A1 sha1 72A2B0CCBB538F3024A72F445D34C5615C929207 )
+	rom ( name "Terminator 2 - Judgement Day (1991)(Ocean Software)(v2).dsk" size 217457 crc F938D725 md5 2FA89E067B627FB72FEBBD003A0CE8A1 sha1 72A2B0CCBB538F3024A72F445D34C5615C929207 )
 )
 game (
 	name "Turbo Cup (Loriciels) (France)"
@@ -10456,6 +10508,11 @@ game (
 	name "Tank (Ocean Software)"
 	description "Tank (Ocean Software)"
 	rom ( name "Tank (1987)(Ocean Software).dsk" size 195379 crc 83497F3C md5 383DB46E2705BC1E71F0E73057D1FF6B sha1 668E7610403F96C3A132C71798DB1EF12789E9BC )
+)
+game (
+	name "Trigger (Opera Soft) (Spain) (LightGun)"
+	description "Trigger (Opera Soft) (Spain) (LightGun)"
+	rom ( name "Trigger (1989)(Opera Soft)(es)(LightGun).dsk" size 218880 crc 94AA6CF3 md5 20DF8860FFDFAED60CEFEF610B21D6A1 sha1 C5517C155DF20CE8DCEE465E8A280527AB389865 )
 )
 game (
 	name "Tie Break (Sprites) (France)"
@@ -10488,11 +10545,6 @@ game (
 	rom ( name "Trance (1989)(M. Remon)[cr].dsk" size 194816 crc 6F968BD0 md5 8B182688904EE336D48CD346E6E57441 sha1 D273C842580CA740F3ED387C44A73815C1DD41AC )
 )
 game (
-	name "Terrorpods (Melbourne House)"
-	description "Terrorpods (Melbourne House)"
-	rom ( name "Terrorpods (1989)(Melbourne House)[cr][b].dsk" size 194816 crc C9D35BE1 md5 AAF727F3FF55363C25A2AD48C889581A sha1 3DEDEC1E488D07C74512000FF1151E64D97400B6 )
-)
-game (
 	name "Turbo Chopper (Codemasters Software)"
 	description "Turbo Chopper (Codemasters Software)"
 	rom ( name "Turbo Chopper (1989)(Codemasters Software)[cr].dsk" size 204544 crc 17E032F3 md5 386FA142F604C9D0874C35F43C29E627 sha1 1B8C7D0E20AEC77B57F226076E4430BA4DB1470D )
@@ -10510,7 +10562,7 @@ game (
 game (
 	name "Trivia (Anirog Software) (France)"
 	description "Trivia (Anirog Software) (France)"
-	rom ( name "Trivia (1985)(Anirog Software)(Side A)(fr).dsk" size 195635 crc 78ACF281 md5 0225474861E7CEBF3C4506915B9F8DA2 sha1 6D4CA4E5643F5B19CD8D17211C9801C717C7B8D7 )
+	rom ( name "Trivia (1985)(Anirog Software)(fr)(Side A).dsk" size 195635 crc 78ACF281 md5 0225474861E7CEBF3C4506915B9F8DA2 sha1 6D4CA4E5643F5B19CD8D17211C9801C717C7B8D7 )
 )
 game (
 	name "Twins (Amstrad Cent Pour Cent)"
@@ -10532,18 +10584,13 @@ game (
 game (
 	name "Trivial Pursuit - Edition Genius (Domark) (France)"
 	description "Trivial Pursuit - Edition Genius (Domark) (France)"
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side A)(fr).dsk" size 88231 crc 87BA6D6D md5 67485C9DE67F745EE590AB5D84A772C5 sha1 017D53DA94A2C512B2E6A7100FE3F8D1DDC664BA )
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side B)(fr).dsk" size 195635 crc 850F88D1 md5 50DC2708FCFA3DB6438C08BDA456E768 sha1 9A3F05F9537C92032BB8E00D76F04584FEB68B13 )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(fr)(Side A).dsk" size 88231 crc 87BA6D6D md5 67485C9DE67F745EE590AB5D84A772C5 sha1 017D53DA94A2C512B2E6A7100FE3F8D1DDC664BA )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(fr)(Side B).dsk" size 195635 crc 850F88D1 md5 50DC2708FCFA3DB6438C08BDA456E768 sha1 9A3F05F9537C92032BB8E00D76F04584FEB68B13 )
 )
 game (
 	name "Tesoro Perdido De Cuauhtemoc (4Mhz) (Spain)"
 	description "Tesoro Perdido De Cuauhtemoc (4Mhz) (Spain)"
-	rom ( name "Tesoro Perdido De Cuauhtemoc (2017)(4Mhz)(es)[v2].dsk" size 194816 crc CBACA92A md5 5E8D88F31DEBCDA336855665FFA21CFA sha1 451645683C58DC47306B714F21F730BD098A63C5 )
-)
-game (
-	name "Track and Field (Ocean Software)"
-	description "Track and Field (Ocean Software)"
-	rom ( name "Track and Field (1988)(Ocean Software)[b].dsk" size 334787 crc 38B0CF7F md5 367983F6FCFB59C531F4A15208A89295 sha1 5CDF684A1D882CE53406902F5D137E48644877F5 )
+	rom ( name "Tesoro Perdido De Cuauhtemoc (2017)(4Mhz)(es)(v2).dsk" size 194816 crc CBACA92A md5 5E8D88F31DEBCDA336855665FFA21CFA sha1 451645683C58DC47306B714F21F730BD098A63C5 )
 )
 game (
 	name "Total Eclipse (Incentive)"
@@ -10559,6 +10606,11 @@ game (
 	name "Target Ball (Micro Mag)"
 	description "Target Ball (Micro Mag)"
 	rom ( name "Target Ball (1990)(Micro Mag)[cr].dsk" size 194816 crc 7FFBF9FB md5 79BD7AC59890B53C0AD47C32D71F282C sha1 6C5BDE2FA1CEC48982E6F3CAB0AB86DC75674878 )
+)
+game (
+	name "Tomahawk (Digital Integration) (M3) (Codes)"
+	description "Tomahawk (Digital Integration) (M3) (Codes)"
+	rom ( name "Tomahawk (1986)(Digital Integration)(M3)[codes].dsk" size 146944 crc 34BC560D md5 BDA71CFF3ABCBBF524547741617002CA sha1 B4555361B49779A45BCB0B724F67BCE14D3F0F6D )
 )
 game (
 	name "Tizpan (The Adventure Workshop)"
@@ -10589,8 +10641,8 @@ game (
 game (
 	name "Trivial Pursuit - Edition Genius (Domark) (de)"
 	description "Trivial Pursuit - Edition Genius (Domark) (de)"
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side A)(de).dsk" size 194816 crc D1992306 md5 9BD8702C2EE30DC0A893C97777994430 sha1 FDF02CAB437C6A675A91FADE53B4D3A9D11DE874 )
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side B)(de).dsk" size 194816 crc C6BC1409 md5 4826EF4C69A21E27B102C664ED7773A9 sha1 F0DE7B32382C0EBB767F2EF649028E851ECEAB8F )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(de)(Side A).dsk" size 194816 crc D1992306 md5 9BD8702C2EE30DC0A893C97777994430 sha1 FDF02CAB437C6A675A91FADE53B4D3A9D11DE874 )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(de)(Side B).dsk" size 194816 crc C6BC1409 md5 4826EF4C69A21E27B102C664ED7773A9 sha1 F0DE7B32382C0EBB767F2EF649028E851ECEAB8F )
 )
 game (
 	name "Train, The - Escape to Normandy (Electronic Arts)"
@@ -10601,6 +10653,12 @@ game (
 	name "Thing Bounces Back (Gremlin Graphics Software)"
 	description "Thing Bounces Back (Gremlin Graphics Software)"
 	rom ( name "Thing Bounces Back (1987)(Gremlin Graphics Software).dsk" size 176103 crc 785F93DC md5 D6820ED134176888BB47F149FFF4AC9E sha1 BE055CEFFFE67128F4604C82621AF86E3EAB9DC6 )
+)
+game (
+	name "Turrican (Rainbow Arts) (Retail)"
+	description "Turrican (Rainbow Arts) (Retail)"
+	rom ( name "Turrican (1990)(Rainbow Arts)(Retail)(Side B).dsk" size 195635 crc A08FDD10 md5 831713BD700435B99F9A4F5C6B2DD565 sha1 BEC370E96921A3024430A27AB853F9D8DCA169E5 )
+	rom ( name "Turrican (1990)(Rainbow Arts)(Retail)(Side A)[f].dsk" size 194816 crc 89D0562F md5 4FF8CF422615A8D0E93E8BDF3CD9DEDF sha1 33F58BD0143B400868D6401C4F3B22FBCD254A27 )
 )
 game (
 	name "Twice Shy (Mosaic Publishing)"
@@ -10652,6 +10710,11 @@ game (
 	name "Think! (Ariolasoft)"
 	description "Think! (Ariolasoft)"
 	rom ( name "Think! (1985)(Ariolasoft)[cr].dsk" size 194816 crc 37B5E3E9 md5 3844AF8B7B9163732D35D8F260BF2BA8 sha1 3D83C4FB5315775F40363FB9A02C8EBCC73491FD )
+)
+game (
+	name "Triple Comando (Dro Soft) (Spain) (Bugs)"
+	description "Triple Comando (Dro Soft) (Spain) (Bugs)"
+	rom ( name "Triple Comando (1988)(Dro Soft)(es)[b].dsk" size 195635 crc 62A0595F md5 409CE6BEDFABD6FC11BA2761E71C8BD9 sha1 BAF062A651F590E3CEA64BECEBBB1E6D5E390CB4 )
 )
 game (
 	name "Theseus (50-50 Club Software)"
@@ -10750,12 +10813,6 @@ game (
 	rom ( name "Transat One (1985)(Innelec)(fr)[cr].dsk" size 194816 crc A9F27D19 md5 C7A5240D208F0F4F81B5FA9C6C1814F3 sha1 3583D5B80D9A1C634E0BF046CB0E19FDC2B4A28E )
 )
 game (
-	name "Teenage Mutant Hero Turtles 2 - Coin Op (Image Works)"
-	description "Teenage Mutant Hero Turtles 2 - Coin Op (Image Works)"
-	rom ( name "Teenage Mutant Hero Turtles 2 - Coin Op (1991)(Image Works)(Side B).dsk" size 194816 crc 6EBECE8B md5 2001F1CFC0B240012FF7E9A44A2787E9 sha1 8AE22C496149E4648BFA6FA9A25886B3DA911405 )
-	rom ( name "Teenage Mutant Hero Turtles 2 - Coin Op (1991)(Image Works)(Side A)[codes].dsk" size 194816 crc 1524C73A md5 48FF57D8A7730C6E6E122A9C6170C5BB sha1 85C4EB20F2E8AE0CF4D82650ABFD719DFE7411EC )
-)
-game (
 	name "Test Match (CRL Group)"
 	description "Test Match (CRL Group)"
 	rom ( name "Test Match (1984)(CRL Group)[cr].dsk" size 194816 crc CF1EF978 md5 099C1EC662A1B0CBA637B433B8F7B7CE sha1 175A66B5860C4F4638EA84299656E6B80F9D0695 )
@@ -10763,7 +10820,6 @@ game (
 game (
 	name "Triple Comando (Dro Soft) (Spain)"
 	description "Triple Comando (Dro Soft) (Spain)"
-	rom ( name "Triple Comando (1988)(Dro Soft)(es)[b].dsk" size 195635 crc 62A0595F md5 409CE6BEDFABD6FC11BA2761E71C8BD9 sha1 BAF062A651F590E3CEA64BECEBBB1E6D5E390CB4 )
 	rom ( name "Triple Comando (1988)(Dro Soft)(es)[tape][f].dsk" size 194816 crc 30FEC756 md5 22EA61452A3873A22E9D505252A49933 sha1 E3150F6DEA671614FDA74D3A05A8741EE84F4BB3 )
 )
 game (
@@ -10787,15 +10843,36 @@ game (
 	rom ( name "Thing (1988)(Players)[cr].dsk" size 194816 crc A73146F md5 F5506D9CF92D46F6725C749E698E304F sha1 EA851782F781698679FBBA2AC564586223D7FB63 )
 )
 game (
+	name "Toyota Celica GT Rally (Gremlin Graphics Software) (Codes)"
+	description "Toyota Celica GT Rally (Gremlin Graphics Software) (Codes)"
+	rom ( name "Toyota Celica GT Rally (1991)(Gremlin Graphics Software)[codes].dsk" size 195635 crc D12FB80E md5 A61B231938279BE0FB0D8CE0E8499FCF sha1 F43E66A343BA8D35DDC3B3C87DF9D48FDD1601FE )
+)
+game (
 	name "Top Secret (Loriciels) (France)"
 	description "Top Secret (Loriciels) (France)"
 	rom ( name "Top Secret (1986)(Loriciels)(fr)(Side A).dsk" size 196915 crc 97E0E484 md5 484B1520913BFE3A5F3E976EECC4B476 sha1 C0AD47A19261DC6544FF65BA4FBE0E153B5E05B5 )
 	rom ( name "Top Secret (1986)(Loriciels)(fr)(Side B).dsk" size 197171 crc 6A1287C3 md5 DB5F02D355ECBA25944D5E33C749A91E sha1 4E370D1D3C83A8DA0A69CD8D6DDB7E67AFED9E9A )
 )
 game (
+	name "Target Plus (Dinamic Software) (Spain) (LightGun)"
+	description "Target Plus (Dinamic Software) (Spain) (LightGun)"
+	rom ( name "Target Plus (1988)(Dinamic Software)(es)(LightGun).dsk" size 69632 crc 85FB8BBA md5 4DC5928FE09E131949929016F1F270F9 sha1 96BC308AF40C141D4E913292F0DF17F4A554BD72 )
+)
+game (
 	name "Tennis Manager (Martin Huemmerich) (de)"
 	description "Tennis Manager (Martin Huemmerich) (de)"
 	rom ( name "Tennis Manager (19xx)(Martin Huemmerich)(PD)(de)[cr].dsk" size 194816 crc 7A34C973 md5 103198064C9F6A6FCC7F30EB54E25DC5 sha1 AFF6BBA8A7D235F9FFD7D318133229DF9A246CF9 )
+)
+game (
+	name "TT Racer (Digital Integration) (Codes)"
+	description "TT Racer (Digital Integration) (Codes)"
+	rom ( name "TT Racer (1986)(Digital Integration)[codes].dsk" size 63821 crc E5F9A3A8 md5 3117856FA1626593561CC9E77DF58128 sha1 B9F745CE67967BADC9A0496FC193A1A784FCA5C0 )
+)
+game (
+	name "Teenage Mutant Hero Turtles 2 - Coin Op (Image Works) (Codes)"
+	description "Teenage Mutant Hero Turtles 2 - Coin Op (Image Works) (Codes)"
+	rom ( name "Teenage Mutant Hero Turtles 2 - Coin Op (1991)(Image Works)(Side B)[codes].dsk" size 194816 crc 6EBECE8B md5 2001F1CFC0B240012FF7E9A44A2787E9 sha1 8AE22C496149E4648BFA6FA9A25886B3DA911405 )
+	rom ( name "Teenage Mutant Hero Turtles 2 - Coin Op (1991)(Image Works)(Side A)[codes].dsk" size 194816 crc 1524C73A md5 48FF57D8A7730C6E6E122A9C6170C5BB sha1 85C4EB20F2E8AE0CF4D82650ABFD719DFE7411EC )
 )
 game (
 	name "Turbo-Pacman (PD) (de)"
@@ -10903,12 +10980,16 @@ game (
 	name "TT Racer (Digital Integration)"
 	description "TT Racer (Digital Integration)"
 	rom ( name "TT Racer (1986)(Digital Integration)[cr].dsk" size 194816 crc 53756A82 md5 7C9766F193BC9A554394569C5CA429BE sha1 78B787852860589DD3604582B3DAE777FD04B247 )
-	rom ( name "TT Racer (1986)(Digital Integration)[codes].dsk" size 63821 crc E5F9A3A8 md5 3117856FA1626593561CC9E77DF58128 sha1 B9F745CE67967BADC9A0496FC193A1A784FCA5C0 )
 )
 game (
 	name "Traitement Bzzz (Chip) (France)"
 	description "Traitement Bzzz (Chip) (France)"
 	rom ( name "Traitement Bzzz (1987)(Chip)(fr).dsk" size 263469 crc 3269939A md5 39F5AFB87084FD00459F99D4DA92D3A5 sha1 B8FF403BA25950E6BCB272BA2921098BD25F5FA9 )
+)
+game (
+	name "Terrorpods (Melbourne House) (Bugs)"
+	description "Terrorpods (Melbourne House) (Bugs)"
+	rom ( name "Terrorpods (1989)(Melbourne House)[cr][b].dsk" size 194816 crc C9D35BE1 md5 AAF727F3FF55363C25A2AD48C889581A sha1 3DEDEC1E488D07C74512000FF1151E64D97400B6 )
 )
 game (
 	name "Tapper (Amsoft)"
@@ -10931,17 +11012,25 @@ game (
 	rom ( name "Talisman d'Osiris, Le (1987)(Chip)(fr).dsk" size 273965 crc C373F7FF md5 7AE52EDD3E86C552BC214189DD0BB686 sha1 073C5638E5398DDDD1A19AD4F0B5347E0B7572E3 )
 )
 game (
+	name "Thunder Burner (Loriciels) (Bugs)"
+	description "Thunder Burner (Loriciels) (Bugs)"
+	rom ( name "Thunder Burner (1991)(Loriciels)[b].dsk" size 200773 crc 2D153648 md5 EFCCE48547408049EE3C9B5C2AE656ED sha1 8F96564E7267C63391D2D766F673A512A7AC7B71 )
+)
+game (
 	name "Turrican (Rainbow Arts)"
 	description "Turrican (Rainbow Arts)"
-	rom ( name "Turrican (1990)(Rainbow Arts)(Retail)(Side B).dsk" size 195635 crc A08FDD10 md5 831713BD700435B99F9A4F5C6B2DD565 sha1 BEC370E96921A3024430A27AB853F9D8DCA169E5 )
 	rom ( name "Turrican (1990)(Rainbow Arts)(Side A).dsk" size 231936 crc A43E38D6 md5 9E0E610E8BA5BD583CDE4483A0ACE057 sha1 707986615C4253938A22559CBC89FFE702273C8F )
-	rom ( name "Turrican (1990)(Rainbow Arts)(Retail)(Side A)[f].dsk" size 194816 crc 89D0562F md5 4FF8CF422615A8D0E93E8BDF3CD9DEDF sha1 33F58BD0143B400868D6401C4F3B22FBCD254A27 )
 	rom ( name "Turrican (1990)(Rainbow Arts)(Side B).dsk" size 216195 crc 44E9FFDF md5 E1C4DA339785D73F794485C2DD0041D4 sha1 10526D8ADC0D87E6A3031FFFFEBC5A6A8EFEB08C )
 )
 game (
 	name "Tomy en el Slalom (G.T.S. Editorial) (Spain)"
 	description "Tomy en el Slalom (G.T.S. Editorial) (Spain)"
 	rom ( name "Tomy en el Slalom (1987)(G.T.S. Editorial)(es)[cr].dsk" size 194816 crc 2CCE605 md5 60B98A0C4D3E4D3A1D45D77014EE80AD sha1 C10506D31F2E014159E042014DFF674237640BD2 )
+)
+game (
+	name "Track and Field (Ocean Software) (Bugs)"
+	description "Track and Field (Ocean Software) (Bugs)"
+	rom ( name "Track and Field (1988)(Ocean Software)[b].dsk" size 334787 crc 38B0CF7F md5 367983F6FCFB59C531F4A15208A89295 sha1 5CDF684A1D882CE53406902F5D137E48644877F5 )
 )
 game (
 	name "Top Gun (Ocean Software)"
@@ -10963,6 +11052,11 @@ game (
 	name "Tres Luces de Glaurung, Las (Erbe Software) (Spain)"
 	description "Tres Luces de Glaurung, Las (Erbe Software) (Spain)"
 	rom ( name "Tres Luces de Glaurung, Las (1986)(Erbe Software)(es).dsk" size 195635 crc 3A5242B9 md5 220AAB09C929A7EA73D7FCDB54E3AD7E sha1 B6F0236A777FEE2D172308DCEB6CA3BC4082B780 )
+)
+game (
+	name "Tomb of Kuslak, The (Intrigue Software) (Spain) (Hack)"
+	description "Tomb of Kuslak, The (Intrigue Software) (Spain) (Hack)"
+	rom ( name "Tomb of Kuslak, The (2020)(Intrigue Software)(es)(Hack)[cr].dsk" size 204544 crc B3B42030 md5 9A17EC92F17A74B727D744A53CEF380D sha1 5600AF8F06B81C93B7B914079FD3E3828FB2DAC2 )
 )
 game (
 	name "Tiny Skweeks, The (Loriciels)"
@@ -10988,8 +11082,8 @@ game (
 game (
 	name "Trivial Pursuit - Edition Genius (Domark)"
 	description "Trivial Pursuit - Edition Genius (Domark)"
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side B)[v2].dsk" size 195635 crc 2AE181E1 md5 9F8F485FA772A5A13BFB6BDFF3107FB5 sha1 928D8DA019ADF6B2632F5B14550243820E7DA24F )
-	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(Side A)[v2].dsk" size 195635 crc BDD66BF3 md5 9233739ED65A1FFE0427F03A88CCC535 sha1 4322B29804D9E7216FCA134E6A38FAB4A89F2B0E )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(v2)(Side A).dsk" size 195635 crc BDD66BF3 md5 9233739ED65A1FFE0427F03A88CCC535 sha1 4322B29804D9E7216FCA134E6A38FAB4A89F2B0E )
+	rom ( name "Trivial Pursuit - Edition Genius (1986)(Domark)(v2)(Side B).dsk" size 195635 crc 2AE181E1 md5 9F8F485FA772A5A13BFB6BDFF3107FB5 sha1 928D8DA019ADF6B2632F5B14550243820E7DA24F )
 )
 game (
 	name "Tetris (Amstrad Action)"
@@ -11009,9 +11103,9 @@ game (
 game (
 	name "Times of Lore (Origin Systems) (France)"
 	description "Times of Lore (Origin Systems) (France)"
-	rom ( name "Times of Lore (1988)(Origin Systems)(Disk 1 Side A)(fr)[v2].dsk" size 191833 crc 8878F148 md5 5E29A14147EB669C6D117F1EFD60D1B8 sha1 320F4F43B3E0239949CF5A01E1CF8394C180B22C )
-	rom ( name "Times of Lore (1988)(Origin Systems)(Disk 2 Side A)(fr)[v2].dsk" size 194816 crc AADD9AE3 md5 70BCAF9110D1B3F3E9DBB4D3CFA6FE3A sha1 DE098AA393D435CD2417209B2E7F4A5AF79CCA78 )
-	rom ( name "Times of Lore (1988)(Origin Systems)(Disk 1 Side B)(fr)[v2].dsk" size 193089 crc 57D5919B md5 1CD254A1469D31BEB1FD8077F3680348 sha1 258DD33493C079506D032C2E78946495E96B53BE )
+	rom ( name "Times of Lore (1988)(Origin Systems)(fr)(v2)(Disk 2 Side A).dsk" size 194816 crc AADD9AE3 md5 70BCAF9110D1B3F3E9DBB4D3CFA6FE3A sha1 DE098AA393D435CD2417209B2E7F4A5AF79CCA78 )
+	rom ( name "Times of Lore (1988)(Origin Systems)(fr)(v2)(Disk 1 Side A).dsk" size 191833 crc 8878F148 md5 5E29A14147EB669C6D117F1EFD60D1B8 sha1 320F4F43B3E0239949CF5A01E1CF8394C180B22C )
+	rom ( name "Times of Lore (1988)(Origin Systems)(fr)(v2)(Disk 1 Side B).dsk" size 193089 crc 57D5919B md5 1CD254A1469D31BEB1FD8077F3680348 sha1 258DD33493C079506D032C2E78946495E96B53BE )
 )
 game (
 	name "Targhan (Silmarils) (Spain)"
@@ -11023,7 +11117,6 @@ game (
 	name "Teenage Mutant Hero Turtles (Image Works)"
 	description "Teenage Mutant Hero Turtles (Image Works)"
 	rom ( name "Teenage Mutant Hero Turtles (1990)(Image Works)[cr].dsk" size 195635 crc 8DD0CF27 md5 DC4A6774F7D811BC9CBD386D833E3DF9 sha1 74CCA09B2B984E336D403B9722308EB8026F3A1C )
-	rom ( name "Teenage Mutant Hero Turtles (1990)(Image Works)[codes].dsk" size 195635 crc CA4F0B5 md5 C1FE41E57723995412EE8DCAC4D7D0BA sha1 48A1B16EDA671A291B75D9938F23E06B3CD6E88B )
 )
 game (
 	name "Tripods, The (Red Shift)"
@@ -11039,11 +11132,6 @@ game (
 	name "Total Eclipse II - The Sphinx Jinx (Incentive)"
 	description "Total Eclipse II - The Sphinx Jinx (Incentive)"
 	rom ( name "Total Eclipse II - The Sphinx Jinx (1989)(Incentive)[cr].dsk" size 194816 crc D8E6113B md5 C08B272F288CCDC2A795A2485635CE8C sha1 DB849EAA11167CA84E09A135040BDF91698BB67D )
-)
-game (
-	name "Target Plus (Dinamic Software) (Spain)"
-	description "Target Plus (Dinamic Software) (Spain)"
-	rom ( name "Target Plus (1988)(Dinamic Software)(es)[LightGun].dsk" size 69632 crc 85FB8BBA md5 4DC5928FE09E131949929016F1F270F9 sha1 96BC308AF40C141D4E913292F0DF17F4A554BD72 )
 )
 game (
 	name "Tennis Cup (Loriciels) (France)"
@@ -11064,12 +11152,6 @@ game (
 	name "Toyota Celica GT Rally (Gremlin Graphics Software)"
 	description "Toyota Celica GT Rally (Gremlin Graphics Software)"
 	rom ( name "Toyota Celica GT Rally (1991)(Gremlin Graphics Software)[cr].dsk" size 204544 crc 9EE6F2AD md5 CBC10F5674BF2481D24C3FE451365AE6 sha1 5C1713E94B331BA22B037E2C7EDD74ECD2DAE3F3 )
-	rom ( name "Toyota Celica GT Rally (1991)(Gremlin Graphics Software)[codes].dsk" size 195635 crc D12FB80E md5 A61B231938279BE0FB0D8CE0E8499FCF sha1 F43E66A343BA8D35DDC3B3C87DF9D48FDD1601FE )
-)
-game (
-	name "Thunder Burner (Loriciels)"
-	description "Thunder Burner (Loriciels)"
-	rom ( name "Thunder Burner (1991)(Loriciels)[b].dsk" size 200773 crc 2D153648 md5 EFCCE48547408049EE3C9B5C2AE656ED sha1 8F96564E7267C63391D2D766F673A512A7AC7B71 )
 )
 game (
 	name "Typhoon (Ocean Software)"
@@ -11153,6 +11235,17 @@ game (
 	rom ( name "Task Force (1989)(Players)[cr].dsk" size 204544 crc B0153216 md5 4B122A002BA03113CD44814839317D77 sha1 4720DE96350A5CF8090A384EC0F3D66789FB32D1 )
 )
 game (
+	name "Ultron 1 (Chip) (France) (Bugs)"
+	description "Ultron 1 (Chip) (France) (Bugs)"
+	rom ( name "Ultron 1 (1987)(Chip)(fr)[b].dsk" size 273967 crc FD402604 md5 6197E1CB65D65F7A5786B94A36C77476 sha1 503435613756F9D2B110392F6D511F6D876D55BE )
+)
+game (
+	name "UN Squadron (US Gold) (Bugs)"
+	description "UN Squadron (US Gold) (Bugs)"
+	rom ( name "UN Squadron (1990)(US Gold)(Side B)[b].dsk" size 273333 crc E0149DE md5 8017A9B04C4B46B32A376AD18AE11D7D sha1 5BEE1DD9080B2E9299E59073EEC5485EA58BB2E2 )
+	rom ( name "UN Squadron (1990)(US Gold)(Side A)[b].dsk" size 265413 crc 5D683DF1 md5 846412864B03D7FFF47EEE0CFDDE7BE6 sha1 3F95E42C0CCA7D1779318A6914B1A36B6D43D4A9 )
+)
+game (
 	name "Untouchables, The (Ocean Software)"
 	description "Untouchables, The (Ocean Software)"
 	rom ( name "Untouchables, The (1989)(Ocean Software)(Side A).dsk" size 65159 crc A5CA2404 md5 C11C8B21FDA01466F3375ABE118DFFE0 sha1 95316D72E6D28BB3E43B2F3D1C66CB2615ECD7B1 )
@@ -11162,11 +11255,6 @@ game (
 	name "Uchi Mata (Martech)"
 	description "Uchi Mata (Martech)"
 	rom ( name "Uchi Mata (1987)(Martech).dsk" size 194560 crc 7FF95FD6 md5 F260C00700A45BADD651A4DE70CBAB66 sha1 251D7159C633E6B37E61760620EB9385C2AFFFE6 )
-)
-game (
-	name "Ultron 1 (Chip) (France)"
-	description "Ultron 1 (Chip) (France)"
-	rom ( name "Ultron 1 (1987)(Chip)(fr)[b].dsk" size 273967 crc FD402604 md5 6197E1CB65D65F7A5786B94A36C77476 sha1 503435613756F9D2B110392F6D511F6D876D55BE )
 )
 game (
 	name "Une Affaire en Or (Free Game Blot) (France)"
@@ -11189,25 +11277,19 @@ game (
 	rom ( name "Ultima Ratio (1987)(Firebird)[cr].dsk" size 204544 crc 1BD644CD md5 195DBC2639F78C07012C70D2A5719D6D sha1 D55CA5E121072A344C76C3D8434D2FAB247BD1FC )
 )
 game (
-	name "UN Squadron (US Gold)"
-	description "UN Squadron (US Gold)"
-	rom ( name "UN Squadron (1990)(US Gold)(Side B)[bugs].dsk" size 273333 crc E0149DE md5 8017A9B04C4B46B32A376AD18AE11D7D sha1 5BEE1DD9080B2E9299E59073EEC5485EA58BB2E2 )
-	rom ( name "UN Squadron (1990)(US Gold)(Side A)[bugs].dsk" size 265413 crc 5D683DF1 md5 846412864B03D7FFF47EEE0CFDDE7BE6 sha1 3F95E42C0CCA7D1779318A6914B1A36B6D43D4A9 )
-)
-game (
 	name "Ultimate Fight, The (CPC) (France)"
 	description "Ultimate Fight, The (CPC) (France)"
 	rom ( name "Ultimate Fight, The (1987)(CPC)(fr)[cr].dsk" size 194816 crc DA55DE2A md5 6694D4001FA263A7F876D5427E92024D sha1 D11F763CD8915E58D9A06829A3B4F0A8E2E792D5 )
 )
 game (
-	name "Un Asunto de Dinero (Free Game Blot) (France)"
-	description "Un Asunto de Dinero (Free Game Blot) (France)"
-	rom ( name "Un Asunto de Dinero (2019)(Free Game Blot)(fr)[cr][h].dsk" size 194816 crc C2FB79B8 md5 F077EA5ABD9574577823FED27F12F92B sha1 13C4E730375C1A94FD136CEED5D8D5E49777237C )
-)
-game (
 	name "Ulises (Opera Soft)"
 	description "Ulises (Opera Soft)"
 	rom ( name "Ulises (1989)(Opera Soft).dsk" size 218880 crc CFF9B5B4 md5 C8B88AF014F1A233C936F44D7A7893D0 sha1 EEBDDCE692DE3B6061526173AA059E3110AFFA66 )
+)
+game (
+	name "Un Asunto de Dinero (Free Game Blot) (France) (Hack)"
+	description "Un Asunto de Dinero (Free Game Blot) (France) (Hack)"
+	rom ( name "Un Asunto de Dinero (2019)(Free Game Blot)(fr)(Hack)[cr].dsk" size 194816 crc C2FB79B8 md5 F077EA5ABD9574577823FED27F12F92B sha1 13C4E730375C1A94FD136CEED5D8D5E49777237C )
 )
 game (
 	name "Uridium (Hewson)"
@@ -11365,8 +11447,8 @@ game (
 game (
 	name "World Games (US Gold)"
 	description "World Games (US Gold)"
-	rom ( name "World Games (1987)(US Gold)(Side A)[v2].dsk" size 195379 crc 42F0FA2B md5 D489BB950C7910F43DFF42EC4A593D86 sha1 7760363FD7E7C1DED0E69FFB9E7ED8C3D9720594 )
-	rom ( name "World Games (1987)(US Gold)(Side B)[v2].dsk" size 195635 crc D1427667 md5 A936CD4677299944AE12ECA5F831259C sha1 864BEBB00C9340A7BB00C7B52D8013CC84C0D1CD )
+	rom ( name "World Games (1987)(US Gold)(v2)(Side A).dsk" size 195379 crc 42F0FA2B md5 D489BB950C7910F43DFF42EC4A593D86 sha1 7760363FD7E7C1DED0E69FFB9E7ED8C3D9720594 )
+	rom ( name "World Games (1987)(US Gold)(v2)(Side B).dsk" size 195635 crc D1427667 md5 A936CD4677299944AE12ECA5F831259C sha1 864BEBB00C9340A7BB00C7B52D8013CC84C0D1CD )
 )
 game (
 	name "Who's Afraid of the Balrog (Amstrad Action Magazine)"
@@ -11376,12 +11458,11 @@ game (
 game (
 	name "Wrath of Olympus (Alpha Omega Software)"
 	description "Wrath of Olympus (Alpha Omega Software)"
-	rom ( name "Wrath of Olympus (1986)(Alpha Omega Software)[cr][v2].dsk" size 194816 crc B4DDE954 md5 2DFE8EE6FCB0B1D79039EFB0B46F8F83 sha1 573992627F9F61AC451FF67892D7506D7ED1C211 )
+	rom ( name "Wrath of Olympus (1986)(Alpha Omega Software)(v2)[cr].dsk" size 194816 crc B4DDE954 md5 2DFE8EE6FCB0B1D79039EFB0B46F8F83 sha1 573992627F9F61AC451FF67892D7506D7ED1C211 )
 )
 game (
 	name "Wells & Fargo (Topo Soft) (Spain)"
 	description "Wells & Fargo (Topo Soft) (Spain)"
-	rom ( name "Wells & Fargo (1988)(Topo Soft)(es)(Hack)[cr].dsk" size 204544 crc C0E7A0B2 md5 3B523B7C6440EA142BE15BE256757D87 sha1 E339D6CB2ECB9EF2B905D6D779C7CA76552900BE )
 	rom ( name "Wells & Fargo (1988)(Topo Soft)(es)[cr].dsk" size 204544 crc B49A4653 md5 4107CF69DDB66031691C2DD73FA83E82 sha1 D3072914FFAD0FA418837773E271BC399551A686 )
 )
 game (
@@ -11428,7 +11509,6 @@ game (
 	name "Winter Wonderland (Incentive)"
 	description "Winter Wonderland (Incentive)"
 	rom ( name "Winter Wonderland (1987)(Incentive)[cr].dsk" size 194816 crc 42EFCB30 md5 1FA2532A0AA99CCFB915557F049D1B13 sha1 4E8DDFF4C25DB3E23877A165D643DAE4EBE9E3A6 )
-	rom ( name "Winter Wonderland (1987)(Incentive)(Hack)[cr].dsk" size 194816 crc 1990F5A0 md5 8A024D7B80C28262B58CA8D55F6C5223 sha1 673CCD2323DD664623E68B0B5A1002FC0DE405FB )
 )
 game (
 	name "Wiz-Biz (Alternative Software)"
@@ -11452,6 +11532,11 @@ game (
 	rom ( name "Western Games (1988)(Magic Bytes)(Side B).dsk" size 185871 crc 52A5A13 md5 9A6219B39B4FE56E88D0847F7D710201 sha1 A828BB1B00E4702CB14534713C7D1286E1D997CD )
 )
 game (
+	name "Wriggler (Romantic Robot) (Codes)"
+	description "Wriggler (Romantic Robot) (Codes)"
+	rom ( name "Wriggler (1985)(Romantic Robot)[codes].dsk" size 194816 crc ADF6C176 md5 47871A247442608B2BD9190AF39AA540 sha1 7E1AD4376BC8C0000FF1C91F0B633C6BE826B251 )
+)
+game (
 	name "Wizard's Lair (Bubble Bus Software)"
 	description "Wizard's Lair (Bubble Bus Software)"
 	rom ( name "Wizard's Lair (1985)(Bubble Bus Software).dsk" size 53760 crc 67BFA084 md5 F47649DB62F2C41089B0B29911CFA698 sha1 F6F2D42ED3DC2A335D6F022D102CD5B11A89B4AF )
@@ -11469,7 +11554,6 @@ game (
 game (
 	name "Wriggler (Romantic Robot)"
 	description "Wriggler (Romantic Robot)"
-	rom ( name "Wriggler (1985)(Romantic Robot)[codes].dsk" size 194816 crc ADF6C176 md5 47871A247442608B2BD9190AF39AA540 sha1 7E1AD4376BC8C0000FF1C91F0B633C6BE826B251 )
 	rom ( name "Wriggler (1985)(Romantic Robot)[cr].dsk" size 194816 crc C88F468D md5 2D16C1BE62F817A1558FFF14A7F18F6B sha1 A1895277052E26559A8E41A7468993E18D7D2E46 )
 )
 game (
@@ -11533,14 +11617,19 @@ game (
 	rom ( name "WWF Wrestlemania (1991)(Ocean Software).dsk" size 217457 crc 6533FB5 md5 09071A18FA86B7FAF89F9EF588188203 sha1 AAFA5953B58C777E50736EFBCB51FBB58F0977B4 )
 )
 game (
-	name "Welltris (Infogrames)"
-	description "Welltris (Infogrames)"
+	name "Welltris (Infogrames) (Codes)"
+	description "Welltris (Infogrames) (Codes)"
 	rom ( name "Welltris (1991)(Infogrames)[codes].dsk" size 195635 crc 45E767CE md5 44E33FAC2119FEBB5930E29A26F928CF sha1 B5E4AE12FEBBEC04DA8AA873648D28C239A5EBB2 )
 )
 game (
 	name "Wibstars (A&F Software)"
 	description "Wibstars (A&F Software)"
 	rom ( name "Wibstars (1987)(A&F Software)[cr].dsk" size 204544 crc 8E655C1E md5 949E960AACCF90A867BDEA297A1AED1A sha1 5882825A80EBECF38E0AAF1513FA0F7548EA9BCF )
+)
+game (
+	name "Winter Wonderland (Incentive) (Hack)"
+	description "Winter Wonderland (Incentive) (Hack)"
+	rom ( name "Winter Wonderland (1987)(Incentive)(Hack)[cr].dsk" size 194816 crc 1990F5A0 md5 8A024D7B80C28262B58CA8D55F6C5223 sha1 673CCD2323DD664623E68B0B5A1002FC0DE405FB )
 )
 game (
 	name "Wooky and Moty (CRL Group)"
@@ -11556,6 +11645,11 @@ game (
 	name "WEC Le Mans (Ocean Software)"
 	description "WEC Le Mans (Ocean Software)"
 	rom ( name "WEC Le Mans (1988)(Ocean Software).dsk" size 264453 crc 54C40E54 md5 0DA2498129CE6D4CACB6FFB1DC7FB504 sha1 68EE8763C44DDA18A4C64D66DD3E3F0515FB0DE7 )
+)
+game (
+	name "Wells & Fargo (Topo Soft) (Spain) (Hack)"
+	description "Wells & Fargo (Topo Soft) (Spain) (Hack)"
+	rom ( name "Wells & Fargo (1988)(Topo Soft)(es)(Hack)[cr].dsk" size 204544 crc C0E7A0B2 md5 3B523B7C6440EA142BE15BE256757D87 sha1 E339D6CB2ECB9EF2B905D6D779C7CA76552900BE )
 )
 game (
 	name "World Cup (Cult) (Spain)"
@@ -11616,8 +11710,8 @@ game (
 game (
 	name "Winter Games (Epyx)"
 	description "Winter Games (Epyx)"
-	rom ( name "Winter Games (1986)(Epyx)(Side B)[v2].dsk" size 194816 crc 4794CFB0 md5 92E0FE6F1AA7C32E21F5DF7064A2B509 sha1 824D30E97533C3BD3F77CDC48FE10E1B1F02C583 )
-	rom ( name "Winter Games (1986)(Epyx)(Side A)[v2].dsk" size 194816 crc BA91AF38 md5 0045537CE3319DB04372E37E99CC0972 sha1 9E10CEE99B705F2F6274660E12D70D04AE68C201 )
+	rom ( name "Winter Games (1986)(Epyx)(v2)(Side B).dsk" size 194816 crc 4794CFB0 md5 92E0FE6F1AA7C32E21F5DF7064A2B509 sha1 824D30E97533C3BD3F77CDC48FE10E1B1F02C583 )
+	rom ( name "Winter Games (1986)(Epyx)(v2)(Side A).dsk" size 194816 crc BA91AF38 md5 0045537CE3319DB04372E37E99CC0972 sha1 9E10CEE99B705F2F6274660E12D70D04AE68C201 )
 )
 game (
 	name "Warlord (Interceptor Software)"
