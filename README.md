@@ -1,29 +1,29 @@
 # dat
 clean-cpc-db dat files
 
-# rc statics
+# clrmamepro statics
 ```
-Missing
-·Sets                 0/2678
-·ROMs                 0/2968
-·Bytes                0/540mb
+Clean
+·Sets                 2912
+·ROMs                 3296
+·Bytes                602mb
 
 ---------------------------------------
 
-Active Sets           2678/2678
-·Parents              0/0
-·Clones               0/0
-·Others               2678/2678
+Active Sets           2912/2912
+·Parents              2912/2912
 ·BIOS                 0/0
 
-Active ROMs           2968/2968
-·Parents              0/0
-·Clones               0/0
-·Others               2968/2968
-·bad dumps            0/0
-·no dumps             0/0
-·verified dumps       0/0
+Active ROMs           3296/3296
+·bad dumps            ~
+·no dumps             ~
+·verified dumps       3296/3296
 ·BIOS                 0/0
 
-Active Bytes          540mb/540mb
+Active Bytes          602mb/602mb
+```
+
+# miss statics
+```
+185 known Amstrad CPC - missing clean DSK roms
 ```
