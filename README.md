@@ -10,8 +10,8 @@ Clean
 
 ---------------------------------------
 
-Active Sets           2912/2912
-·Parents              2912/2912
+Active Sets           2911/2911
+·Parents              2911/2911
 ·BIOS                 0/0
 
 Active ROMs           3296/3296
