@@ -1,4 +1,4 @@
-﻿ You have 2912 of 2912 known Amstrad - CPC - clean-cpc-db sets
+﻿ You have 2911 of 2911 known Amstrad - CPC - clean-cpc-db sets
 
 007 - A View To A Kill (Domark)
 007 - A View To A Kill (Eureka) (France)
@@ -930,7 +930,6 @@ Fer & Flamme (Ubi Soft) (France)
 Fernandez Must Die (Image Works)
 Fernando Martin Basket Master (Dinamic Software) (Spain)
 Feud (Mastertronic)
-Fiendish Freddy's Big Top O' Fun (Mindscape)
 Fiendish Freddy's Big Top O' Fun (Mindscape) (Codes)
 Fighter Bomber (Activision)
 Fighter Command (Cascade Games)
