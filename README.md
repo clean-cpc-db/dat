@@ -4,7 +4,7 @@ clean-cpc-db dat files
 # clrmamepro statics
 ```
 Clean
-·Sets                 2912
+·Sets                 2911
 ·ROMs                 3296
 ·Bytes                602mb
 
