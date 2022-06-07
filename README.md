@@ -4,23 +4,23 @@ clean-cpc-db dat files
 # clrmamepro statics
 ```
 Clean
-·Sets                 2911
-·ROMs                 3296
-·Bytes                602mb
+·Sets                 2896
+·ROMs                 3281
+·Bytes                599mb
 
 ---------------------------------------
 
-Active Sets           2911/2911
-·Parents              2911/2911
+Active Sets           2896/2896
+·Parents              2896/2896
 ·BIOS                 0/0
 
-Active ROMs           3296/3296
+Active ROMs           3281/3281
 ·bad dumps            ~
 ·no dumps             ~
-·verified dumps       3296/3296
+·verified dumps       3281/3281
 ·BIOS                 0/0
 
-Active Bytes          602mb/602mb
+Active Bytes          599mb/599mb
 ```
 
 # miss statics
