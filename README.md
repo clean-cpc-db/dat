@@ -1,7 +1,7 @@
 # dat
 clean-cpc-db dat files
 
-# clrmamepro statics
+# clrmamepro statics [v1.1]
 ```
 Clean
 ·Sets                 2898
