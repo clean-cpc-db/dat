@@ -27,3 +27,7 @@ Active Bytes          599mb/599mb
 ```
 185 known Amstrad CPC - missing clean DSK roms
 ```
+
+## Contributors
+
+* Kukulcan (CPC-Power)
