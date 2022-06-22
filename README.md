@@ -30,4 +30,6 @@ Active Bytes          599mb/599mb
 
 ## Contributors
 
+* ^Morgoth^ (Fendetestas)
 * Kukulcan (CPC-Power)
+* Macarro (ROMdb)
