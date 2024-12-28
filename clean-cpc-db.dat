@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Amstrad - CPC - clean-cpc-db"
 	description "Amstrad - CPC - clean-cpc-db"
-	version "v1.3 - 2022.4.20"
+	version "v1.3 - 2024.12.28"
 	homepage "https://github.com/clean-cpc-db/dat"
 )
 game (
