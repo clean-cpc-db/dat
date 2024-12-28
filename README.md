@@ -1,26 +1,25 @@
 # dat
 clean-cpc-db dat files
 
-# clrmamepro statics [v1.2]
+# clrmamepro statics [v1.3]
 ```
 Clean
-·Sets                 3012
-·ROMs                 3399
-·Bytes                621mb
+·Sets                 3051
+·ROMs                 3445
+·Bytes                629mb
 
 ---------------------------------------
 
-Active Sets           3012/3012
-·Parents              3012/3012
+Active Sets           3051/3051
 ·BIOS                 0/0
 
-Active ROMs           3399/3399
+Active ROMs           3445/3445
 ·bad dumps            ~
 ·no dumps             ~
-·verified dumps       3399/3399
+·verified dumps       3445/3445
 ·BIOS                 0/0
 
-Active Bytes          621mb/621mb
+Active Bytes          629mb/629mb
 ```
 
 # miss statics
