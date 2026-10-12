@@ -1,4 +1,5 @@
-HEADER
+135 known Amstrad CPC - missing clean DSK roms
+
 [miss] Assault Course (Players Premier Software)
 [miss] Atom Ant (Hi-Tec Software)
 [miss] Agent Orange (A & F Software)
